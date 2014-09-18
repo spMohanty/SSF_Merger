@@ -101,7 +101,7 @@ def get_fs_line(tree):
             output += attr.replace("attr_","")+'="'+tree.attrib[attr]+'" '
             count += 1
 
-    output += " />"
+    output += " >"
 
     if count == 0:
         return ""
