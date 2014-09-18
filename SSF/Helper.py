@@ -118,15 +118,15 @@ def XML_TO_SSF(tree, depth=0 ):
     ##Pre recurse
     output = ""
     if tree.tag == "Sentence":
-        output = "\t"*depth + "<Sentence id='"+tree.attrib['id']+"'>\n"
+        output = "<Sentence id='"+tree.attrib['id']+"'>\n"
     elif tree.tag == "chunkNode":
         output = ".".join([str(x) for x in indexList])
-        output += "\t"*depth + "((\t" + tree.attrib['type'] + "\t"
+        output += "\t" + "((\t" + tree.attrib['type'] + "\t"
         output += get_fs_line(tree) + "\n"
 
     elif tree.tag=="node":
         output = ".".join([str(x) for x in indexList])
-        output += "\t"*depth + tree.attrib['lex'] +"\t"+tree.attrib['type']+"\t"
+        output += "\t" + tree.attrib['lex'] +"\t"+tree.attrib['type']+"\t"
         output += get_fs_line(tree) + "\n"
 
     ##Recurse
@@ -140,9 +140,9 @@ def XML_TO_SSF(tree, depth=0 ):
 
     ##Post recurse
     if tree.tag == "Sentence":
-        output += "\t"*depth + "</Sentence>\n"
+        output += "</Sentence>\n"
     elif tree.tag == "chunkNode":
-        output += "\t"*depth + "))\n"
+        output += "\t" + "))\n"
 
     elif tree.tag=="node":
         ##No such case. Only adding for consistency
