@@ -3,8 +3,13 @@ SSF Merger
 
 =How to run
 
+-Usage :
 ```bash
-python merge.py SSF_NER SSF_MWE SSH_SHALLOW_PARSER > targetSSFFile
+usage: merge.py [-h] -n NER -m MWE -c CHUNKER
+```
+
+```bash
+python merge.py --ner test_data/ltrc/ner/sentence.957.ner.wx --mwe test_data/ltrc/mwe/sentence.957.mwe.wx --chunker test_data/ltrc/shallowParsed/sentence.957.shallowParse.wx
 ```
 =Test
 ```bash

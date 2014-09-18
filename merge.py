@@ -9,9 +9,18 @@ from lxml import etree
 
 from helperFuncs import *
 
-d1 = SSF.Document(sys.argv[1]) # NER
-d2 = SSF.Document(sys.argv[2]) # MWE
-d3 = SSF.Document(sys.argv[3]) # Chunker
+##Parsing Arguments
+import argparse
+parser = argparse.ArgumentParser(description='SSF Merger to merge outputs from NER , MWE and Chunker modules..')
+parser.add_argument('-n','--ner', help='Location of NER output',required=True)
+parser.add_argument('-m','--mwe',help='Location of MWE output', required=True)
+parser.add_argument('-c','--chunker',help='Location of Chunker output', required=True)
+args = parser.parse_args()
+
+d1 = SSF.Document(args.ner) # NER
+d2 = SSF.Document(args.mwe) # MWE
+d3 = SSF.Document(args.chunker) # Chunker
+##Done parsing and processing arguments
 
 
 # Necessary because SSF -> XML is only supported for 
