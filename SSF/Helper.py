@@ -96,8 +96,11 @@ import re
 def get_fs_line(tree):
     output = "<fs "
     count = 0
+    if "attr_af" in tree.attrib.keys():
+        output+="af='"+tree.attrib["attr_af"]+"' "
+        count+=1
     for attr in tree.attrib.keys():
-        if re.match("attr_.*", attr):
+        if attr!="attr_af" and re.match("attr_.*", attr):
             output += attr.replace("attr_","")+'="'+tree.attrib[attr]+'" '
             count += 1
 
