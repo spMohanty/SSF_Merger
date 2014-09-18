@@ -1,0 +1,25 @@
+<Sentence id="1">
+1	wawpaScAwa	unk
+2	((	NP	<fs etype='ne' esubtype='person'>
+2.1	harI	unk	<fs etype='ne' esubtype='person'>
+	))
+3	Ora	unk
+4	((	NP	<fs etype='ne' esubtype='person'>
+4.1	mITI	unk	<fs etype='ne' esubtype='person'>
+	))
+5	catanI	unk
+6	waWA	unk
+7	xahI	unk
+8	milAkara	unk
+9	garamA	unk
+10	-JOIN	unk
+11	garama	unk
+12	wila	unk
+13	-JOIN	unk
+14	panIra	unk
+15	kI	unk
+16	tikiyA	unk
+17	peSa	unk
+18	kareM	unk
+19	.	unk
+</Sentence>

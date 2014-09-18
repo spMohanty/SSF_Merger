@@ -1,0 +1,20 @@
+<Sentence id="1">
+1	kadZAhI	NN	<fs af='kadAhI,n,f,sg,,o,0,0'>
+2	meM	PSP	<fs af='meM,psp,,,,,,'>
+3	cAra	QC	<fs af='cAra,adj,any,pl,,d,,'>
+4	tebalaspUna	NN	<fs poslcat='NM' af='tebalaspUna,unk,,,,,,'>
+5	wela	NN	<fs af='wela,n,m,sg,3,d,0,0'>
+6	garma	JJ	<fs af='garma,adj,any,any,,any,,'>
+7	kara	VM	<fs af='kara,v,any,any,any,,0,0'>
+8	axaraKa	JJ	<fs poslcat='NM' af='axaraKa,n,m,sg,3,d,0,0'>
+9	pesta	NNPC	<fs af='pesta,n,m,sg,3,d,0,0'>
+10	BUne	VM	<fs af='BUna,v,any,sg,2,,e,e'>
+11	,	SYM	<fs af='&comma,punc,,,,,,'>
+12	Pira	RB	<fs af='Pira,adv,,,,,,'>
+13	ilAyacI	NN	<fs af='ilAyacI,n,f,sg,3,d,0,0'>
+14	milAkara	VM	<fs af='milA,v,any,any,any,,kara,kara'>
+15	pyAja	NN	<fs af='pyAja,n,f,sg,3,d,0,0'>
+16	dAlakara	VM	<fs af='dAla,v,any,any,any,,kara,kara'>
+17	BUne	VM	<fs af='BUna,v,any,sg,2,,e,e'>
+18	.	SYM	<fs af='.,punc,,,,,,'>
+</Sentence>

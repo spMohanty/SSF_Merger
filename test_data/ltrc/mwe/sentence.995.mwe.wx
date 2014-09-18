@@ -1,0 +1,11 @@
+<Sentence id="1">
+1	lahasuna	NNPC	<fs af='lahasuna,n,m,sg,3,d,0,0'>
+2	-JOIN	SYM	<fs poslcat='NM' af='-OIN,unk,,,,,,'>
+3	pyAja	NN	<fs af='pyAja,n,f,sg,3,d,0,0'>
+4	dAlakara	VM	<fs af='dAla,v,any,any,any,,kara,kara'>
+5	sunaharA	JJ	<fs af='sunaharA,adj,m,sg,,d,,'>
+6	hone	VM	<fs af='ho,v,m,pl,any,,nA,nA'>
+7	waka	PSP	<fs af='waka,psp,,,,,,'>
+8	BUneM	NN	<fs poslcat='NM' af='BUna,v,any,pl,1,,e,e'>
+9	.	SYM	<fs af='.,punc,,,,,,'>
+</Sentence>

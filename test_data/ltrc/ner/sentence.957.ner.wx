@@ -1,0 +1,26 @@
+<Sentence id="1">
+1	isameM	unk
+2	axaraka	unk
+3	-JOIN	unk
+4	((	NP	<fs etype='ne' esubtype='person'>
+4.1	lahasuna	unk	<fs etype='ne' esubtype='person'>
+	))
+5	va	unk
+6	((	NP	<fs etype='ne' esubtype='person'>
+6.1	harI	unk	<fs etype='ne' esubtype='person'>
+	))
+7	mirca	unk
+8	kA	unk
+9	pesta	unk
+10	BI	unk
+11	milAeM	unk
+12	Ora	unk
+13	weja	unk
+14	AMca	unk
+15	para	unk
+16	AXA	unk
+17	minata	unk
+18	waka	unk
+19	hilAeM	unk
+20	.	unk
+</Sentence>

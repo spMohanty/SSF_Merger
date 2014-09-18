@@ -1,0 +1,17 @@
+<Sentence id="1">
+1	sabase	JJ	<fs af='sabasA,adj,m,sg,,o,,'>
+2	pahale	NST	<fs af='pahale,adv,,,,,,'>
+3	krIma	NN	<fs af='krIma,n,f,sg,3,o,0,0'>
+4	ko	PSP	<fs af='ko,psp,,,,,,'>
+5	eka	QC	<fs af='eka,adj,any,any,,any,,'>
+6	badZe	JJ	<fs af='badZA,adj,m,sg,,o,,'>
+7	barwana	NN	<fs af='barwana,n,m,sg,3,o,0,0'>
+8	meM	PSP	<fs af='meM,psp,,,,,,'>
+9	lekara	VM	<fs af='le,v,any,any,any,,kara,kara'>
+10	gADZA	NN	<fs af='gADZA,n,m,sg,3,d,0,0'>
+11	hone	VM	<fs af='ho,v,m,pl,any,,nA,nA'>
+12	waka	PSP	<fs af='waka,psp,,,,,,'>
+13	KUba	JJ	<fs af='KUba,adj,any,any,,any,,'>
+14	PeMteM	VM	<fs af='PeMta,v,any,pl,1,,e,e'>
+15	.	SYM	<fs af='.,punc,,,,,,'>
+</Sentence>

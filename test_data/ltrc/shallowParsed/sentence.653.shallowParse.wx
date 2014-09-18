@@ -1,0 +1,17 @@
+<Sentence id="1">			
+1	((	NP	
+1.1	isakI	PRP	<fs af='yaha,pn,any,sg,3,o,kA,kA' agr_gen='f'  agr_cas='d'  agr_num='sg'>
+	))		
+2	((	NP	
+2.1	CotI	JJ	<fs af='CotI,adj,f,any,,any,,'>
+2.2	goliyAM	NN	<fs af='golI,n,f,pl,3,d,0,0'>
+	))		
+3	((	VGF	
+3.1	banA	VM	<fs af='banA,v,any,any,any,,0,0'>
+3.2	kara	VAUX	<fs af='kara,v,any,any,any,,0,0'>
+3.3	waleM	VAUX	<fs af='wala,v,any,pl,1,,e,e'>
+	))		
+4	((	BLK	
+4.1	.	SYM	<fs af='.,punc,,,,,,'>
+	))		
+</Sentence>			

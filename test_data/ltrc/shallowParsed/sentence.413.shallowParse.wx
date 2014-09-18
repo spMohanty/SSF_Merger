@@ -1,0 +1,41 @@
+<Sentence id="1">			
+1	((	NP	
+1.1	panIra	NN	<fs af='panIra,n,m,sg,3,o,0,0'>
+1.2	ke	PSP	<fs af='kA,psp,m,pl,,d,kA,kA'>
+	))		
+2	((	NP	
+2.1	tukadZe	NN	<fs af='tukadZA,n,m,pl,3,d,0,0'>
+	))		
+3	((	NP	
+3.1	dAleM	NN	<fs af='dAla,n,f,pl,3,d,0,0'>
+	))		
+4	((	CCP	
+4.1	va	CC	<fs af='va,avy,,,,,,'>
+	))		
+5	((	NP	
+5.1	eka	QC	<fs af='eka,adj,any,any,,any,,'>
+5.2	-JOIN	SYM	<fs af='-OIN,unk,,,,,,' poslcat="NM">
+5.3	xo	QC	<fs af='xo,adj,any,pl,,d,,'>
+5.4	ubAla	NN	<fs af='ubAla,n,m,sg,3,d,0,0'>
+	))		
+6	((	VGNF	
+6.1	xekara	VM	<fs af='xe,v,any,any,any,,kara,kara'>
+	))		
+7	((	NP	
+7.1	bAkI	JJ	<fs af='bAkI,adj,any,any,,any,,'>
+7.2	wale	PSP	<fs af='wale,psp,,,,,,'>
+	))		
+8	((	NP	
+8.1	maKAnoM	NN	<fs af='maKAnA,n,m,pl,3,o,0,0'>
+8.2	se	PSP	<fs af='se,psp,,,,,,'>
+	))		
+9	((	VGNF	
+9.1	sajAkara	VM	<fs af='sajA,v,any,any,any,,kara,kara'>
+	))		
+10	((	VGF	
+10.1	paroseM	VM	<fs af='parosa,v,any,pl,1,,e,e'>
+	))		
+11	((	BLK	
+11.1	.	SYM	<fs af='.,punc,,,,,,'>
+	))		
+</Sentence>			

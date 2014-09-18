@@ -1,0 +1,23 @@
+<Sentence id="1">			
+1	((	NP	
+1.1	usameM	PRP	<fs af='vaha,pn,any,sg,3,o,meM,meM'>
+	))		
+2	((	NP	
+2.1	axaraka	NNPC	<fs af='axaraka,n,m,sg,3,d,0,0'>
+2.2	-JOIN	SYM	<fs af='-OIN,unk,,,,,,' poslcat="NM">
+2.3	lahasuna	NNPC	<fs af='lahasuna,n,m,sg,3,d,0,0'>
+	))		
+3	((	VGNF	
+3.1	milAkara	VM	<fs af='milA,v,any,any,any,,kara,kara'>
+	))		
+4	((	NP	
+4.1	pesta	NN	<fs af='pesta,n,m,sg,3,d,0,0'>
+	))		
+5	((	VGF	
+5.1	banA	VM	<fs af='banA,v,any,any,any,,0,0'>
+5.2	leM	VAUX	<fs af='le,v,any,pl,1,,e,e'>
+	))		
+6	((	BLK	
+6.1	.	SYM	<fs af='.,punc,,,,,,'>
+	))		
+</Sentence>			

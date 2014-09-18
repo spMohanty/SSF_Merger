@@ -1,0 +1,14 @@
+<Sentence id="1">
+1	pyAja	NN	<fs af='pyAja,n,f,sg,3,d,0,0'>
+2	goldana	NNPC	<fs af='goldana,n,m,sg,3,d,0,0'>
+3	brAuna	NNPC	<fs af='brAuna,n,m,sg,3,d,0,0'>
+4	BUnane	VM	<fs af='BUna,v,m,pl,any,,nA,nA'>
+5	ke	PSP	<fs af='kA,psp,m,sg,,o,kA,kA'>
+6	bAxa	NST	<fs af='bAxa,adv,,,,,,'>
+7	tamAtara	NN	<fs af='tamAtara,n,m,sg,3,d,0,0'>
+8	dAleM	VM	<fs af='dAla,v,any,pl,1,,e,e'>
+9	Ora	CC	<fs af='Ora,avy,,,,,,'>
+10	pakane	VM	<fs af='paka,v,m,pl,any,,nA,nA'>
+11	xeM	VM	<fs af='xe,v,any,pl,1,,e,e'>
+12	.	SYM	<fs af='.,punc,,,,,,'>
+</Sentence>

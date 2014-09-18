@@ -1,0 +1,29 @@
+<Sentence id="1">
+1	eka	QC	<fs af='eka,adj,any,any,,any,,'>
+2	diSa	NN	<fs poslcat='NM' af='diSa,unk,,,,,,'>
+3	meM	PSP	<fs af='meM,psp,,,,,,'>
+4	1	QC	<fs af='1,num,,,,,,'>
+5	badZA	JJ	<fs af='badZA,adj,m,sg,,d,,'>
+6	cammaca	NN	<fs af='cammaca,n,m,sg,3,d,0,0'>
+7	GI	VM	<fs poslcat='NM' af='GI,n,m,sg,3,d,0,0'>
+8	lagA	VM	<fs af='lagA,v,any,any,any,,0,0'>
+9	kara	VAUX	<fs af='kara,v,any,any,any,,0,0'>
+10	wInoM	QC	<fs emph='y' af='wIna,adj,any,pl,,d,,'>
+11	waraha	NN	<fs af='waraha,n,m,sg,3,o,0,0'>
+12	ke	PSP	<fs af='kA,psp,m,sg,,o,kA,kA'>
+13	cAvala	NN	<fs af='cAvala,n,m,sg,3,d,0,0'>
+14	eka	QC	<fs af='eka,adj,any,any,,any,,'>
+15	ke	PSP	<fs af='kA,psp,m,sg,,o,kA,kA'>
+16	Upara	NST	<fs af='Upara,adv,,,,,,'>
+17	eka	QC	<fs af='eka,adj,any,any,,any,,'>
+18	parawa	NN	<fs af='parawa,n,f,sg,3,d,0,0'>
+19	lagAkara	VM	<fs af='lagA,v,any,any,any,,kara,kara'>
+20	hAWa	NN	<fs af='hAWa,n,m,sg,3,o,0,0'>
+21	se	PSP	<fs af='se,psp,,,,,,'>
+22	acCI	JJ	<fs af='acCI,adj,f,any,,any,,'>
+23	waraha	NN	<fs af='waraha,n,m,sg,3,d,0,0'>
+24	xabAkara	VM	<fs af='xabA,v,any,any,any,,kara,kara'>
+25	raKa	VM	<fs af='raKa,v,any,any,any,,0,0'>
+26	leM	VAUX	<fs af='le,v,any,pl,1,,e,e'>
+27	.	SYM	<fs af='.,punc,,,,,,'>
+</Sentence>

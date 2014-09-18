@@ -1,0 +1,16 @@
+<Sentence id="1">
+1	karIba	RP	<fs poslcat='NM' af='karIba,n,m,sg,3,d,0,0'>
+2	20	QC	<fs af='20,num,,,,,,'>
+3	minata	NN	<fs af='minata,n,m,sg,3,d,0,0'>
+4	bAxa	NST	<fs af='bAxa,adv,,,,,,'>
+5	isa	DEM	<fs af='yaha,pn,any,sg,3,o,0,0'>
+6	Ate	NN	<fs af='AtA,n,m,sg,3,o,0,0'>
+7	kI	PSP	<fs af='kA,psp,f,sg,,d,kA,kA'>
+8	pawalI	JJ	<fs af='pawalI,adj,f,any,,any,,'>
+9	-JOIN	SYM	<fs poslcat='NM' af='-OIN,unk,,,,,,'>
+10	pawalI	JJ	<fs af='pawalI,adj,f,any,,any,,'>
+11	capAwI	NN	<fs af='capAwI,n,f,sg,3,d,0,0'>
+12	banA	VM	<fs af='banA,v,any,any,any,,0,0'>
+13	leM	VAUX	<fs af='le,v,any,pl,1,,e,e'>
+14	.	SYM	<fs af='.,punc,,,,,,'>
+</Sentence>

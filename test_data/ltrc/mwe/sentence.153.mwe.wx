@@ -1,0 +1,12 @@
+<Sentence id="1">
+1	usameM	PRP	<fs af='vaha,pn,any,sg,3,o,meM,meM'>
+2	masAle	NN	<fs af='masAlA,n,m,sg,3,o,0,0'>
+3	kI	PSP	<fs af='kA,psp,f,sg,,d,kA,kA'>
+4	golI	NN	<fs af='golI,n,f,sg,3,d,0,0'>
+5	raKakara	VM	<fs af='raKa,v,any,any,any,,kara,kara'>
+6	halke	JJ	<fs af='halkA,adj,m,sg,,o,,'>
+7	hAWa	NN	<fs af='hAWa,n,m,sg,3,o,0,0'>
+8	se	PSP	<fs af='se,psp,,,,,,'>
+9	xabAeM	VM	<fs af='xabA,v,any,pl,1,,e,e'>
+10	.	SYM	<fs af='.,punc,,,,,,'>
+</Sentence>

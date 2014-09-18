@@ -1,0 +1,12 @@
+<Sentence id="1">
+1	Apa	PRP	<fs af='Apa,pn,any,any,any,o,0,0'>
+2	cAheM	VM	<fs af='cAha,v,any,pl,1,,e,e'>
+3	wo	RP	<fs af='wo,avy,,,,,,'>
+4	grilara	NN	<fs poslcat='NM' af='grilara,unk,,,,,,'>
+5	meM	PSP	<fs af='meM,psp,,,,,,'>
+6	grila	NN	<fs af='grila,n,f,sg,3,d,0,0'>
+7	kara	VM	<fs af='kara,v,any,any,any,,0,0'>
+8	sakawI	VAUX	<fs af='saka,v,f,sg,any,,wA,wA'>
+9	hEM	VAUX	<fs af='hE,v,any,pl,1,,hE,hE'>
+10	.	SYM	<fs af='.,punc,,,,,,'>
+</Sentence>

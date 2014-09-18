@@ -1,0 +1,15 @@
+<Sentence id="1">
+1	cAhe	RB	<fs af='cAhe,adv,,,,,,'>
+2	wo	RP	<fs af='wo,avy,,,,,,'>
+3	jarUrawAnusAra	NN	<fs poslcat='NM' af='jarUrawAnusAra,unk,,,,,,'>
+4	WodZA	QF	<fs af='WodZA,adj,m,sg,,d,,'>
+5	-JOIN	SYM	<fs poslcat='NM' af='-OIN,unk,,,,,,'>
+6	sA	RP	<fs af='sA,avy,,,,,,'>
+7	xUXa	NN	<fs af='xUXa,n,m,sg,3,d,0,0'>
+8	yA	CC	<fs af='yA,avy,,,,,,'>
+9	pAnI	NN	<fs af='pAnI,n,m,sg,3,d,0,0'>
+10	dAla	VM	<fs af='dAla,v,any,any,any,,0,0'>
+11	sakawe	VAUX	<fs af='saka,v,m,pl,any,,wA,wA'>
+12	hEM	VAUX	<fs af='hE,v,any,pl,1,,hE,hE'>
+13	.	SYM	<fs af='.,punc,,,,,,'>
+</Sentence>

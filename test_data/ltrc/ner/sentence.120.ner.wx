@@ -1,0 +1,26 @@
+<Sentence id="1">
+1	aba	unk
+2	hare	unk
+3	XaniyA	unk
+4	se	unk
+5	sajAkara	unk
+6	garamA	unk
+7	-JOIN	unk
+8	garama	unk
+9	panIra	unk
+10	vixa	unk
+11	canA	unk
+12	((	NP	<fs etype='ne' esubtype='person'>
+12.1	xAla	unk	<fs etype='ne' esubtype='person'>
+	))
+13	ko	unk
+14	waMxUrI	unk
+15	rotI	unk
+16	yA	unk
+17	parATe	unk
+18	ke	unk
+19	sAWa	unk
+20	peSa	unk
+21	kareM	unk
+22	.	unk
+</Sentence>

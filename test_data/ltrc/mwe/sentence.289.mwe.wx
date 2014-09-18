@@ -1,0 +1,11 @@
+<Sentence id="1">
+1	aba	PRP	<fs poslcat='NM' af='aba,adv,,,,,,'>
+2	ise	PRP	<fs af='yaha,pn,any,sg,3,o,ko,ko'>
+3	wIna	QC	<fs af='wIna,adj,any,pl,,d,,'>
+4	BAgoM	NN	<fs af='BAga,n,m,pl,3,o,0,0'>
+5	meM	PSP	<fs af='meM,psp,,,,,,'>
+6	barAbara	JJ	<fs af='barAbara,adj,any,any,,any,,'>
+7	bAMta	VM	<fs af='bAMta,v,any,any,any,,0,0'>
+8	leM	VAUX	<fs af='le,v,any,pl,1,,e,e'>
+9	.	SYM	<fs af='.,punc,,,,,,'>
+</Sentence>

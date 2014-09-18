@@ -1,0 +1,28 @@
+<Sentence id="1">
+1	u.BArawa	NN	<fs poslcat='NM' af='u.BArawa,unk,,,,,,'>
+2	meM	PSP	<fs af='meM,psp,,,,,,'>
+3	navarAwra	NN	<fs af='navarAwra,n,m,sg,3,o,0,0'>
+4	ke	PSP	<fs af='kA,psp,m,sg,,o,kA,kA'>
+5	avasara	NN	<fs af='avasara,n,m,sg,3,o,0,0'>
+6	para	PSP	<fs af='para,psp,,,,,,'>
+7	aRtamI	NN	<fs af='aRtamI,n,f,sg,3,d,0,0'>
+8	Ora	CC	<fs af='Ora,avy,,,,,,'>
+9	navamI	NNP	<fs af='navamI,n,f,sg,3,o,0,0'>
+10	ke	PSP	<fs af='kA,psp,m,sg,,o,kA,kA'>
+11	xina	NN	<fs af='xina,n,m,sg,3,d,0,0'>
+12	ye	DEM	<fs af='yaha,pn,any,pl,3,d,0,0'>
+13	cane	VM	<fs poslcat='NM' af='canA,n,m,pl,3,d,0,0'>
+14	pUdZI	NN	<fs af='pUdI,n,f,sg,,d,0,0'>
+15	Ora	CC	<fs af='Ora,avy,,,,,,'>
+16	halave	NN	<fs af='halavA,n,m,sg,3,o,0,0'>
+17	ke	PSP	<fs af='kA,psp,m,sg,,o,kA,kA'>
+18	sAWa	NST	<fs af='sAWa,adv,,,,,,'>
+19	prasAxa	NN	<fs af='prasAxa,n,m,sg,3,o,0,0'>
+20	ke	PSP	<fs af='kA,psp,m,sg,,o,kA,kA'>
+21	rUpa	PSP	<fs poslcat='NM' af='rUpa,n,m,sg,3,d,0,0'>
+22	meM	PSP	<fs af='meM,psp,,,,,,'>
+23	banAye	VM	<fs af='banA,v,any,sg,2,,e,e'>
+24	jAwe	VAUX	<fs af='jA,v,m,pl,any,,wA,wA'>
+25	hEM	VAUX	<fs af='hE,v,any,pl,1,,hE,hE'>
+26	.	SYM	<fs af='.,punc,,,,,,'>
+</Sentence>

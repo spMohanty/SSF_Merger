@@ -1,0 +1,11 @@
+<Sentence id="1">
+1	Dakkana	NN	<fs af='Dakkana,n,m,sg,3,d,0,0'>
+2	lagAkara	VM	<fs af='lagA,v,any,any,any,,kara,kara'>
+3	5	QC	<fs af='5,num,,,,,,'>
+4	se	PSP	<fs af='se,psp,,,,,,'>
+5	7	QC	<fs af='7,num,,,,,,'>
+6	minata	NN	<fs af='minata,n,m,sg,3,d,0,0'>
+7	Ora	CC	<fs af='Ora,avy,,,,,,'>
+8	pakAeM	VM	<fs af='pakA,v,any,pl,1,,e,e'>
+9	.	SYM	<fs af='.,punc,,,,,,'>
+</Sentence>

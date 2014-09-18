@@ -1,0 +1,25 @@
+<Sentence id="1">
+1	jaba	PRP	<fs poslcat='NM' af='jaba,adv,,,,,,'>
+2	masAle	NN	<fs af='masAlA,n,m,pl,3,d,0,0'>
+3	cataKane	VM	<fs af='cataKa,v,m,pl,any,,nA,nA'>
+4	lageM	VAUX	<fs af='laga,v,any,pl,1,,e,e'>
+5	waba	PRP	<fs poslcat='NM' af='waba,adv,,,,,,'>
+6	wejapawwA	NNP	<fs af='wejapawwA,n,m,sg,3,d,0,0'>
+7	,	SYM	<fs af='&comma,punc,,,,,,'>
+8	lOMga	NNP	<fs af='lOMga,n,f,sg,3,d,0,0'>
+9	,	SYM	<fs af='&comma,punc,,,,,,'>
+10	xAlacInI	NNP	<fs af='xAlacInI,n,f,sg,3,d,0,0'>
+11	,	SYM	<fs af='&comma,punc,,,,,,'>
+12	karI	NN	<fs af='karI,n,f,sg,3,d,0,0'>
+13	pawwA	NN	<fs af='pawwA,n,m,sg,3,d,0,0'>
+14	Ora	CC	<fs af='Ora,avy,,,,,,'>
+15	harI	JJ	<fs af='harI,adj,f,any,,any,,'>
+16	mirca	NNPC	<fs af='mirca,n,f,sg,3,d,0,0'>
+17	dAlie	VM	<fs hon='y' af='dAla,v,any,sg,2,,e,e'>
+18	Ora	CC	<fs af='Ora,avy,,,,,,'>
+19	kuCa	QF	<fs af='kuCa,adj,any,any,,any,,'>
+20	sekaMda	NN	<fs af='sekaMda,n,m,sg,3,o,0,0'>
+21	waka	PSP	<fs af='waka,psp,,,,,,'>
+22	BUnie	VM	<fs hon='y' af='BUna,v,any,sg,2,,e,e'>
+23	.	SYM	<fs af='.,punc,,,,,,'>
+</Sentence>

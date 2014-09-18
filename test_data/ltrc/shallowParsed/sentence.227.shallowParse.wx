@@ -1,0 +1,21 @@
+<Sentence id="1">			
+1	((	NP	
+1.1	tamAtaroM	NN	<fs af='tamAtara,n,m,pl,3,o,0,0'>
+1.2	ko	PSP	<fs af='ko,psp,,,,,,'>
+	))		
+2	((	VGNF	
+2.1	CIlakara	VM	<fs af='CIla,v,any,any,any,,kara,kara'>
+	))		
+3	((	NP	
+3.1	unake	PRP	<fs af='vaha,pn,any,pl,3,o,kA,kA' agr_gen='m'  agr_cas='d'  agr_num='pl'>
+	))		
+4	((	NP	
+4.1	tukadZe	NN	<fs af='tukadZA,n,m,pl,3,d,0,0'>
+	))		
+5	((	VGF	
+5.1	kareM	VM	<fs af='kara,v,any,pl,1,,e,e'>
+	))		
+6	((	BLK	
+6.1	.	SYM	<fs af='.,punc,,,,,,'>
+	))		
+</Sentence>			

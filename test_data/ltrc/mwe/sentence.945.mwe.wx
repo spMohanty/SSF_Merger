@@ -1,0 +1,17 @@
+<Sentence id="1">
+1	xahI	NN	<fs af='xahI,n,m,sg,3,d,0,0'>
+2	dAlakara	VM	<fs af='dAla,v,any,any,any,,kara,kara'>
+3	5	QC	<fs af='5,num,,,,,,'>
+4	minata	NN	<fs af='minata,n,m,sg,3,o,0,0'>
+5	waka	PSP	<fs af='waka,psp,,,,,,'>
+6	pakAye	VM	<fs af='pakA,v,any,sg,2,,e,e'>
+7	,	SYM	<fs af='&comma,punc,,,,,,'>
+8	1/2	QC	<fs>
+9	kapa	NN	<fs af='kapa,n,m,sg,3,d,0,0'>
+10	pAnI	NN	<fs af='pAnI,n,m,sg,3,d,0,0'>
+11	dAlakara	VM	<fs af='dAla,v,any,any,any,,kara,kara'>
+12	TaMdA	JJ	<fs af='TaMdA,adj,m,sg,,d,,'>
+13	hone	VM	<fs af='ho,v,m,pl,any,,nA,nA'>
+14	xeM	VAUX	<fs af='xe,v,any,pl,1,,e,e'>
+15	.	SYM	<fs af='.,punc,,,,,,'>
+</Sentence>

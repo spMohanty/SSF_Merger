@@ -1,0 +1,19 @@
+<Sentence id="1">
+1	Pira	unk
+2	((	NP	<fs etype='ne' esubtype='person'>
+2.1	katI	unk	<fs etype='ne' esubtype='person'>
+	))
+3	huI	unk
+4	((	NP	<fs etype='ne' esubtype='person'>
+4.1	harI	unk	<fs etype='ne' esubtype='person'>
+	))
+5	mirca	unk
+6	,	unk
+7	lAla	unk
+8	mirca	unk
+9	Ora	unk
+10	namaka	unk
+11	dAlakara	unk
+12	calAeM	unk
+13	.	unk
+</Sentence>

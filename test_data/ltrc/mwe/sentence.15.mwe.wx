@@ -1,0 +1,13 @@
+<Sentence id="1">
+1	AXe	QF	<fs af='AXA,adj,m,sg,,o,,'>
+2	BAga	NN	<fs af='BAga,n,m,sg,3,o,0,0'>
+3	para	PSP	<fs af='para,psp,,,,,,'>
+4	1/4	QC	<fs>
+5	PrOYstiMga	NN	<fs poslcat='NM' af='PrOYstiMga,unk,,,,,,'>
+6	kI	PSP	<fs af='kA,psp,f,sg,,d,kA,kA'>
+7	huI	VAUX	<fs af='ho,v,f,sg,any,,yA,yA'>
+8	sAmagrI	NN	<fs af='sAmagrI,n,f,sg,3,d,0,0'>
+9	PElA	VM	<fs af='PElA,v,any,any,any,,0,0'>
+10	xeM	VAUX	<fs af='xe,v,any,pl,1,,e,e'>
+11	.	SYM	<fs af='.,punc,,,,,,'>
+</Sentence>

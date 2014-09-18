@@ -1,0 +1,13 @@
+<Sentence id="1">
+1	((	NP	<fs etype='ne' esubtype='person'>
+1.1	harI	unk	<fs etype='ne' esubtype='person'>
+	))
+2	mirca	unk
+3	ko	unk
+4	((	NP	<fs etype='ne' esubtype='person'>
+4.1	Xokara	unk	<fs etype='ne' esubtype='person'>
+	))
+5	kAta	unk
+6	leM	unk
+7	.	unk
+</Sentence>

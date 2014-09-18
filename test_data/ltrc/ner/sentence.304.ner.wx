@@ -1,0 +1,18 @@
+<Sentence id="1">
+1	isameM	unk
+2	pAlaka	unk
+3	pesta	unk
+4	evaM	unk
+5	pAnI	unk
+6	((	NP	<fs etype='ne' esubtype='person'>
+6.1	milAkara	unk	<fs etype='ne' esubtype='person'>
+	))
+7	WodZA	unk
+8	-JOIN	unk
+9	sA	unk
+10	kadZA	unk
+11	AtA	unk
+12	gUMWa	unk
+13	leM	unk
+14	.	unk
+</Sentence>

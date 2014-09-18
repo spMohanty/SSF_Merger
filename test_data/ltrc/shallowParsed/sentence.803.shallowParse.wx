@@ -1,0 +1,19 @@
+<Sentence id="1">			
+1	((	CCP	
+1.1	wAki	CC	<fs af='wAki,avy,,,,,,'>
+	))		
+2	((	NP	
+2.1	miSraNa	NN	<fs af='miSraNa,n,m,sg,3,d,0,0'>
+	))		
+3	((	NP	
+3.1	bAhara	NST	<fs af='bAhara,adv,,,,,,'>
+	))		
+4	((	VGF	
+4.1	na	NEG	<fs af='na,adv,,,,,,'>
+4.2	nikalane	VM	<fs af='nikala,v,m,pl,any,,nA,nA'>
+4.3	pAe	VAUX	<fs af='pA,v,any,sg,2,,e,e'>
+	))		
+5	((	BLK	
+5.1	.	SYM	<fs af='.,punc,,,,,,'>
+	))		
+</Sentence>			

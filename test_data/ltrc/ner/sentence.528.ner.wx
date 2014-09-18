@@ -1,0 +1,20 @@
+<Sentence id="1">
+1	Pira	unk
+2	eka	unk
+3	((	NP	<fs etype='ne' esubtype='person'>
+3.1	pEna	unk	<fs etype='ne' esubtype='person'>
+	))
+4	meM	unk
+5	wela	unk
+6	dAlakara	unk
+7	garma	unk
+8	kareM	unk
+9	Ora	unk
+10	eka	unk
+11	-JOIN	unk
+12	eka	unk
+13	karake	unk
+14	bEMgana	unk
+15	raKeM	unk
+16	.	unk
+</Sentence>

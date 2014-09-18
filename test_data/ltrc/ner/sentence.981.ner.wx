@@ -1,0 +1,41 @@
+<Sentence id="1">
+1	PrAI	unk
+2	hone	unk
+3	ke	unk
+4	bAxa	unk
+5	panIra	unk
+6	ko	unk
+7	goBI	unk
+8	kI	unk
+9	((	NP	<fs etype='ne' esubtype='person'>
+9.1	sabjI	unk	<fs etype='ne' esubtype='person'>
+	))
+10	meM	unk
+11	acCI	unk
+12	waraha	unk
+13	milA	unk
+14	xeM	unk
+15	Ora	unk
+16	CilakA	unk
+17	hatAkara	unk
+18	bAxAma	unk
+19	ko	unk
+20	Cote	unk
+21	-JOIN	unk
+22	Cote	unk
+23	tukadZoM	unk
+24	meM	unk
+25	kAta	unk
+26	((	NP	<fs etype='ne' esubtype='person'>
+26.1	leM	unk	<fs etype='ne' esubtype='person'>
+	))
+27	Ora	unk
+28	((	NP	<fs etype='ne' esubtype='person'>
+28.1	sabjI	unk	<fs etype='ne' esubtype='person'>
+	))
+29	ko	unk
+30	isase	unk
+31	sajA	unk
+32	leM	unk
+33	.	unk
+</Sentence>

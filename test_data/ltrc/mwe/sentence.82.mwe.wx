@@ -1,0 +1,12 @@
+<Sentence id="1">
+1	agara	CC	<fs af='agara,avy,,,,,,'>
+2	jyAxA	QF	<fs af='jyAxA,adj,any,any,,any,,'>
+3	jarUrawa	NN	<fs af='jarUrawa,n,f,sg,3,d,0,0'>
+4	ho	VM	<fs af='ho,v,any,any,any,,0,0'>
+5	wo	CC	<fs af='wo,avy,,,,,,'>
+6	belana	NN	<fs af='belana,n,m,sg,3,o,0,0'>
+7	kA	PSP	<fs af='kA,psp,m,sg,,d,kA,kA'>
+8	prayoga	NN	<fs af='prayoga,n,m,sg,3,d,0,0'>
+9	kareM	VM	<fs af='kara,v,any,pl,1,,e,e'>
+10	.	SYM	<fs af='.,punc,,,,,,'>
+</Sentence>

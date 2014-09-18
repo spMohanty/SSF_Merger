@@ -1,0 +1,11 @@
+<Sentence id="1">
+1	xonoM	QC	<fs emph='y' af='xonoM,adj,any,pl,,d,,'>
+2	waraPa	NST	<fs af='waraPa,adv,,,,,,'>
+3	se	PSP	<fs af='se,psp,,,,,,'>
+4	kurakure	NN	<fs af='kurakurA,n,m,pl,3,d,0,0'>
+5	hone	VM	<fs af='ho,v,m,pl,any,,nA,nA'>
+6	‍waka	JJ	<fs poslcat='NM' af='ho,v,m,pl,any,,nA,nA'>
+7	seMka	NN	<fs poslcat='NM' af='seMka,v,any,any,any,,0,0'>
+8	leM	VAUX	<fs af='le,v,any,pl,1,,e,e'>
+9	.	SYM	<fs af='.,punc,,,,,,'>
+</Sentence>

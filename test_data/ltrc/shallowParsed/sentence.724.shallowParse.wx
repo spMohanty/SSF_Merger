@@ -1,0 +1,11 @@
+<Sentence id="1">			
+1	((	NP	
+1.1	AlU	NN	<fs af='AlU,n,m,sg,3,d,0,0'>
+	))		
+2	((	VGF	
+2.1	dAleM	VM	<fs af='dAla,v,any,pl,1,,e,e'>
+	))		
+3	((	BLK	
+3.1	.	SYM	<fs af='.,punc,,,,,,'>
+	))		
+</Sentence>			

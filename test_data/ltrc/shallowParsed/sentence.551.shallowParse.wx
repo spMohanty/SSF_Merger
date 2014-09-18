@@ -1,0 +1,40 @@
+<Sentence id="1">			
+1	((	NP	
+1.1	jaba	PRP	<fs af='jaba,adv,,,,,,' poslcat="NM">
+1.2	BI	RP	<fs af='BI,avy,,,,,,'>
+	))		
+2	((	NP	
+2.1	canA	NN	<fs af='canA,n,m,sg,3,d,0,0'>
+	))		
+3	((	NP	
+3.1	masAlA	NN	<fs af='masAlA,n,m,sg,3,d,0,0'>
+	))		
+4	((	VGF	
+4.1	banAnA	VM	<fs af='banA,v,m,sg,any,,nA,nA'>
+4.2	ho	VAUX	<fs af='ho,v,any,any,any,,0,0'>
+4.3	,	SYM	<fs af='&comma,punc,,,,,,'>
+	))		
+5	((	NP	
+5.1	usase	PRP	<fs af='vaha,pn,any,sg,3,o,se,se'>
+	))		
+6	((	NP	
+6.1	Caha	QC	<fs af='Caha,adj,any,pl,,d,,'>
+6.2	-JOIN	SYM	<fs af='-OIN,unk,,,,,,' poslcat="NM">
+6.3	sAwa	QC	<fs af='sAwa,adj,any,pl,,d,,'>
+6.4	GaMte	NN	<fs af='GaMtA,n,m,pl,3,d,0,0'>
+6.5	pahale	NST	<fs af='pahale,adv,,,,,,'>
+	))		
+7	((	JJP	
+7.1	saPexa	JJ	<fs af='saPexa,adj,any,any,,any,,'>
+	))		
+8	((	VGNN	
+8.1	cane	VM	<fs af='canA,n,m,pl,3,d,0,0' poslcat="NM">
+	))		
+9	((	VGF	
+9.1	Bigo	VM	<fs af='Bigo,v,any,any,any,,0,0'>
+9.2	xeM	VM	<fs af='xe,v,any,pl,1,,e,e'>
+	))		
+10	((	BLK	
+10.1	.	SYM	<fs af='.,punc,,,,,,'>
+	))		
+</Sentence>			

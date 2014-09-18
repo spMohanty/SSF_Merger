@@ -1,0 +1,33 @@
+<Sentence id="1">			
+1	((	VGNF	
+1.1	pise	VM	<fs af='pisa,v,any,sg,2,,e,e'>
+1.2	hue	VAUX	<fs af='ho,v,any,sg,2,,e,e'>
+	))		
+2	((	NP	
+2.1	masAle	NN	<fs af='masAlA,n,m,pl,3,d,0,0'>
+2.2	,	SYM	<fs af='&comma,punc,,,,,,'>
+	))		
+3	((	NP	
+3.1	namaka	NN	<fs af='namaka,n,m,sg,3,d,0,0'>
+	))		
+4	((	CCP	
+4.1	Ora	CC	<fs af='Ora,avy,,,,,,'>
+	))		
+5	((	NP	
+5.1	kAjU	NNPC	<fs af='kAjU,n,m,sg,3,d,0,0'>
+5.2	pesta	NN	<fs af='pesta,n,m,sg,3,d,0,0'>
+	))		
+6	((	VGNF	
+6.1	dAlakara	VM	<fs af='dAla,v,any,any,any,,kara,kara'>
+	))		
+7	((	NP	
+7.1	acCI	JJ	<fs af='acCI,adj,f,any,,any,,'>
+7.2	waraha	NN	<fs af='waraha,n,m,sg,3,d,0,0'>
+	))		
+8	((	VGF	
+8.1	pakAeM	VM	<fs af='pakA,v,any,pl,1,,e,e'>
+	))		
+9	((	BLK	
+9.1	.	SYM	<fs af='.,punc,,,,,,'>
+	))		
+</Sentence>			

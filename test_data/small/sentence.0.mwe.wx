@@ -1,0 +1,28 @@
+<Sentence id="1">
+1	isake	PRP	<fs agr_num='pl' agr_cas='d' agr_gen='m' af='yaha,pn,any,sg,3,o,kA,kA'>
+2	bAxa	NST	<fs af='bAxa,adv,,,,,,'>
+3	mExA	NN	<fs af='mExA,n,m,sg,3,d,0,0'>
+4	meM	PSP	<fs af='meM,psp,,,,,,'>
+5	kastarda	NNPC	<fs af='kastarda,n,m,sg,3,d,0,0'>
+6	pAvadara	NN	<fs af='pAvadara,n,m,sg,3,d,0,0'>
+7	,	SYM	<fs af='&comma,punc,,,,,,'>
+8	sodA	NNP	<fs af='sodA,n,m,sg,3,d,0,0'>
+9	,	SYM	<fs af='&comma,punc,,,,,,'>
+10	bekiMga	NNPC	<fs poslcat='NM' af='bekiMga,unk,,,,,,'>
+11	pAvadara	NN	<fs af='pAvadara,n,m,sg,3,d,0,0'>
+12	milAkara	VM	<fs af='milA,v,any,any,any,,kara,kara'>
+13	acCI	JJ	<fs af='acCI,adj,f,any,,any,,'>
+14	waraha	NN	<fs af='waraha,n,m,sg,3,d,0,0'>
+15	CAna	VM	<fs af='CAna,v,any,any,any,,0,0'>
+16	leM	VAUX	<fs af='le,v,any,pl,1,,e,e'>
+17	,	SYM	<fs af='&comma,punc,,,,,,'>
+18	wAki	CC	<fs af='wAki,avy,,,,,,'>
+19	sArI	QF	<fs af='sArI,adj,f,any,,any,,'>
+20	sAmagrI	NN	<fs af='sAmagrI,n,f,sg,3,d,0,0'>
+21	eka	QC	<fs af='eka,adj,any,any,,any,,'>
+22	sAWa	NST	<fs af='sAWa,adv,,,,,,'>
+23	miksa	NN	<fs af='miksa,n,m,sg,3,d,0,0'>
+24	ho	VM	<fs af='ho,v,any,any,any,,0,0'>
+25	jAe	VAUX	<fs af='jA,v,any,sg,2,,e,e'>
+26	.	SYM	<fs af='.,punc,,,,,,'>
+</Sentence>

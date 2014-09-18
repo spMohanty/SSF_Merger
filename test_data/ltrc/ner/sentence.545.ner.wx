@@ -1,0 +1,12 @@
+<Sentence id="1">
+1	Pira	unk
+2	lagaBaga	unk
+3	240	unk
+4	milI	unk
+5	((	NP	<fs etype='ne' esubtype='person'>
+5.1	.	unk	<fs etype='ne' esubtype='person'>
+	))
+6	pAnI	unk
+7	milAeM	unk
+8	.	unk
+</Sentence>

@@ -1,0 +1,21 @@
+<Sentence id="1">			
+1	((	NP	
+1.1	manacAhe	JJ	<fs af='manacAhA,adj,m,sg,,o,,'>
+1.2	AkAra	NN	<fs af='AkAra,n,m,sg,3,o,0,0'>
+1.3	meM	PSP	<fs af='meM,psp,,,,,,'>
+	))		
+2	((	JJP	
+2.1	CotI	JJ	<fs af='CotI,adj,f,any,,any,,'>
+2.2	-JOIN	SYM	<fs af='-OIN,unk,,,,,,' poslcat="NM">
+2.3	CotI	JJ	<fs af='CotI,adj,f,any,,any,,'>
+2.4	capatI	NNPC	<fs af='capatI,n,f,sg,3,d,0,0'>
+2.5	tikiyAM	NN	<fs af='tikiyA,n,f,pl,3,d,0,0'>
+	))		
+3	((	VGF	
+3.1	banA	VM	<fs af='banA,v,any,any,any,,0,0'>
+3.2	leM	VAUX	<fs af='le,v,any,pl,1,,e,e'>
+	))		
+4	((	BLK	
+4.1	.	SYM	<fs af='.,punc,,,,,,'>
+	))		
+</Sentence>			

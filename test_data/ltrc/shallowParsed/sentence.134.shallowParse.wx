@@ -1,0 +1,60 @@
+<Sentence id="1">			
+1	((	NP	
+1.1	mExA	NN	<fs af='mExA,n,m,sg,3,d,0,0'>
+	))		
+2	((	VGF	
+2.1	CAnakara	VM	<fs af='CAna,v,any,any,any,,kara,kara'>
+	))		
+3	((	NP	
+3.1	usameM	PRP	<fs af='vaha,pn,any,sg,3,o,meM,meM'>
+	))		
+4	((	NP	
+4.1	moyana	NNP	<fs af='moyana,n,m,sg,3,d,0,0'>
+4.2	,	SYM	<fs af='&comma,punc,,,,,,'>
+	))		
+5	((	NP	
+5.1	namaka	NN	<fs af='namaka,n,m,sg,3,d,0,0'>
+	))		
+6	((	CCP	
+6.1	va	CC	<fs af='va,avy,,,,,,'>
+	))		
+7	((	NP	
+7.1	pisI	JJ	<fs af='pisI,adj,f,any,,any,,'>
+7.2	ajavAina	NNPC	<fs af='ajavAina,n,f,sg,3,d,0,0'>
+	))		
+8	((	VGNF	
+8.1	dAlakara	VM	<fs af='dAla,v,any,any,any,,kara,kara'>
+	))		
+9	((	NP	
+9.1	kadZA	JJ	<fs af='kadZA,adj,m,sg,,d,,'>
+9.2	gUMXa	NNPC	<fs af='gUMXa,v,any,any,any,,0,0' poslcat="NM">
+9.3	leM	VAUX	<fs af='le,v,any,pl,1,,e,e'>
+	))		
+10	((	CCP	
+10.1	va	CC	<fs af='va,avy,,,,,,'>
+	))		
+11	((	NP	
+11.1	AXA	QF	<fs af='AXA,adj,m,sg,,d,,'>
+11.2	GaMtA	NN	<fs af='GaMtA,n,m,sg,3,d,0,0'>
+	))		
+12	((	VGF	
+12.1	raKa	VM	<fs af='raKa,v,any,any,any,,0,0'>
+12.2	xeM	VAUX	<fs af='xe,v,any,pl,1,,e,e'>
+	))		
+13	((	RBP	
+13.1	Pira	RB	<fs af='Pira,adv,,,,,,'>
+13.2	masalakara	RB	<fs af='masala,v,any,any,any,,kara,kara' poslcat="NM">
+	))		
+14	((	JJP	
+14.1	CotI	JJ	<fs af='CotI,adj,f,any,,any,,'>
+14.2	-JOIN	SYM	<fs af='-OIN,unk,,,,,,' poslcat="NM">
+14.3	CotI	JJ	<fs af='CotI,adj,f,any,,any,,'>
+14.4	loiyAM	NN	<fs af='loI,n,f,pl,3,d,0,0'>
+	))		
+15	((	VGF	
+15.1	kAteM	VM	<fs af='kAta,v,any,pl,1,,e,e'>
+	))		
+16	((	BLK	
+16.1	.	SYM	<fs af='.,punc,,,,,,'>
+	))		
+</Sentence>			

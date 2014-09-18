@@ -1,0 +1,13 @@
+<Sentence id="1">
+1	Pira	RB	<fs af='Pira,adv,,,,,,'>
+2	halxI	NN	<fs af='halxI,n,f,sg,3,d,0,0'>
+3	pAudara	NNP	<fs af='pAudara,n,m,sg,3,d,0,0'>
+4	,	SYM	<fs af='&comma,punc,,,,,,'>
+5	harI	JJ	<fs af='harI,adj,f,any,,any,,'>
+6	mirca	NNP	<fs af='mirca,n,f,sg,3,d,0,0'>
+7	,	SYM	<fs af='&comma,punc,,,,,,'>
+8	XaniyA	NNP	<fs af='XaniyA,n,f,sg,3,d,0,0'>
+9	pAudara	NN	<fs af='pAudara,n,m,sg,3,d,0,0'>
+10	dAleM	VM	<fs af='dAla,v,any,pl,1,,e,e'>
+11	.	SYM	<fs af='.,punc,,,,,,'>
+</Sentence>

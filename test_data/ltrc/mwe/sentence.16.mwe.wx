@@ -1,0 +1,20 @@
+<Sentence id="1">
+1	keka	NN	<fs af='keka,n,m,sg,3,o,0,0'>
+2	kA	PSP	<fs af='kA,psp,m,sg,,d,kA,kA'>
+3	xUsarA	QO	<fs af='xUsarA,adj,m,sg,,d,,'>
+4	BAga	NN	<fs af='BAga,n,m,sg,3,d,0,0'>
+5	isa	PRP	<fs af='yaha,pn,any,sg,3,o,0,0'>
+6	para	PSP	<fs af='para,psp,,,,,,'>
+7	raKeM	VM	<fs af='raKa,v,any,pl,1,,e,e'>
+8	Ora	CC	<fs af='Ora,avy,,,,,,'>
+9	keka	NN	<fs af='keka,n,m,sg,3,o,0,0'>
+10	ko	PSP	<fs af='ko,psp,,,,,,'>
+11	TaMdA	JJ	<fs af='TaMdA,adj,m,sg,,d,,'>
+12	karake	VM	<fs af='karaka,v,any,sg,2,,e,e'>
+13	xonoM	QC	<fs emph='y' af='xonoM,adj,any,pl,,d,,'>
+14	waraPa	NST	<fs af='waraPa,adv,,,,,,'>
+15	cOYkaleta	NN	<fs af='cOYkaleta,n,f,sg,3,d,0,0'>
+16	PElA	VM	<fs af='PElA,v,any,any,any,,0,0'>
+17	xeM	VAUX	<fs af='xe,v,any,pl,1,,e,e'>
+18	.	SYM	<fs af='.,punc,,,,,,'>
+</Sentence>

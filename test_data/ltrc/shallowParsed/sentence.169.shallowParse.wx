@@ -1,0 +1,12 @@
+<Sentence id="1">			
+1	((	NP	
+1.1	hAWa	NN	<fs af='hAWa,n,m,sg,3,o,0,0'>
+1.2	se	PSP	<fs af='se,psp,,,,,,'>
+	))		
+2	((	NP	
+2.1	masaleM	NN	<fs af='masala,n,f,pl,3,d,0,0'>
+	))		
+3	((	BLK	
+3.1	.	SYM	<fs af='.,punc,,,,,,'>
+	))		
+</Sentence>			

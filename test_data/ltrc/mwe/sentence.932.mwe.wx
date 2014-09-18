@@ -1,0 +1,18 @@
+<Sentence id="1">
+1	usake	PRP	<fs agr_num='pl' agr_cas='d' agr_gen='m' af='vaha,pn,any,sg,3,o,kA,kA'>
+2	Upara	NST	<fs af='Upara,adv,,,,,,'>
+3	xUsarA	QO	<fs af='xUsarA,adj,m,sg,,d,,'>
+4	tukadZA	NN	<fs af='tukadZA,n,m,sg,3,d,0,0'>
+5	raKakara	VM	<fs af='raKa,v,any,any,any,,kara,kara'>
+6	halke	JJ	<fs af='halkA,adj,m,sg,,o,,'>
+7	hAWoM	NN	<fs af='hAWA,n,m,pl,3,o,0,0'>
+8	se	PSP	<fs af='se,psp,,,,,,'>
+9	xabA	VM	<fs af='xabA,v,any,any,any,,0,0'>
+10	xe	VAUX	<fs af='xe,v,any,any,any,,0,0'>
+11	,	SYM	<fs af='&comma,punc,,,,,,'>
+12	jisase	PRP	<fs af='jo,pn,any,sg,3,o,se,se'>
+13	ve	PRP	<fs af='vaha,pn,any,pl,3,d,0,0'>
+14	cipaka	NN	<fs af='cipaka,n,f,sg,3,d,0,0'>
+15	jAye	VAUX	<fs af='jA,v,any,sg,2,,e,e'>
+16	.	SYM	<fs af='.,punc,,,,,,'>
+</Sentence>

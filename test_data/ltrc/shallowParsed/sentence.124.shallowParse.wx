@@ -1,0 +1,24 @@
+<Sentence id="1">			
+1	((	NP	
+1.1	mEWI	NN	<fs af='mEWI,n,f,sg,3,d,0,0'>
+	))		
+2	((	VGF	
+2.1	kAtakara	VM	<fs af='kAta,v,any,any,any,,kara,kara'>
+	))		
+3	((	CCP	
+3.1	evaM	CC	<fs af='evaM,avy,,,,,,'>
+	))		
+4	((	VGNF	
+4.1	Xokara	VM	<fs af='Xo,v,any,any,any,,kara,kara'>
+	))		
+5	((	NP	
+5.1	pAnI	NN	<fs af='pAnI,n,m,sg,3,d,0,0'>
+	))		
+6	((	VGF	
+6.1	niWAra	VM	<fs af='niWAra,v,any,any,any,,0,0'>
+6.2	leM	VAUX	<fs af='le,v,any,pl,1,,e,e'>
+	))		
+7	((	BLK	
+7.1	.	SYM	<fs af='.,punc,,,,,,'>
+	))		
+</Sentence>			

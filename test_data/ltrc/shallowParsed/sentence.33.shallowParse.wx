@@ -1,0 +1,27 @@
+<Sentence id="1">			
+1	((	NP	
+1.1	AisiMga	NN	<fs af='AisiMga,unk,,,,,,' poslcat="NM">
+1.2	se	PSP	<fs af='se,psp,,,,,,'>
+	))		
+2	((	VGNF	
+2.1	sajAkara	VM	<fs af='sajA,v,any,any,any,,kara,kara'>
+	))		
+3	((	NP	
+3.1	testI	NN	<fs af='testI,adj,any,any,,any,,' poslcat="NM">
+	))		
+4	((	NP	
+4.1	potato	NNP	<fs af='potato,unk,,,,,,' poslcat="NM">
+4.2	-JOIN	SYM	<fs af='-OIN,unk,,,,,,' poslcat="NM">
+4.3	egja	NNPC	<fs af='egja,unk,,,,,,' poslcat="NM">
+4.4	keka	NN	<fs af='keka,n,m,sg,3,d,0,0'>
+	))		
+5	((	NP	
+5.1	sarva	NN	<fs af='sarva,n,f,sg,3,d,0,0'>
+	))		
+6	((	VGF	
+6.1	kareM	VM	<fs af='kara,v,any,pl,1,,e,e'>
+	))		
+7	((	BLK	
+7.1	.	SYM	<fs af='.,punc,,,,,,'>
+	))		
+</Sentence>			

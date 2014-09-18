@@ -1,0 +1,21 @@
+<Sentence id="1">			
+1	((	NP	
+1.1	ApakA	PRP	<fs af='Apa,pn,any,any,any,o,kA,kA' agr_gen='m'  agr_cas='d'  agr_num='sg'>
+	))		
+2	((	NP	
+2.1	SimalA	NNP	<fs af='SimalA,n,m,sg,3,d,0,0'>
+2.2	riMga	NNC	<fs af='riMga,n,f,sg,3,d,0,0'>
+	))		
+3	((	VGNN	
+3.1	banakara	VM	<fs af='bana,v,any,any,any,,kara,kara'>
+	))		
+4	((	JJP	
+4.1	wEyAra	JJ	<fs af='wEyAra,adj,any,any,,any,,'>
+	))		
+5	((	VGF	
+5.1	hE	VM	<fs af='hE,v,any,sg,2,,hE,hE'>
+	))		
+6	((	BLK	
+6.1	.	SYM	<fs af='.,punc,,,,,,'>
+	))		
+</Sentence>			

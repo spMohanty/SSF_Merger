@@ -1,0 +1,22 @@
+<Sentence id="1">
+1	gUMWe	unk
+2	hue	unk
+3	Ate	unk
+4	se	unk
+5	AvaSyawAnusAra	unk
+6	loI	unk
+7	banAeM	unk
+8	Ora	unk
+9	hAWa	unk
+10	kI	unk
+11	sahAyawA	unk
+12	se	unk
+13	((	NP	<fs etype='ne' esubtype='person'>
+13.1	WapaWapAkara	unk	<fs etype='ne' esubtype='person'>
+	))
+14	((	NP	<fs etype='ne' esubtype='location'>
+14.1	bela	unk	<fs etype='ne' esubtype='location'>
+	))
+15	leM	unk
+16	.	unk
+</Sentence>

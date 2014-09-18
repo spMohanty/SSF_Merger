@@ -1,0 +1,24 @@
+<Sentence id="1">
+1	jaba	unk
+2	((	NP	<fs etype='ne' esubtype='location'>
+2.1	SimalA	unk	<fs etype='ne' esubtype='location'>
+	))
+3	mirca	unk
+4	gala	unk
+5	jAye	unk
+6	AMca	unk
+7	se	unk
+8	((	NP	<fs etype='ne' esubtype='person'>
+8.1	uwArakara	unk	<fs etype='ne' esubtype='person'>
+8.2	nAna	unk	<fs etype='ne' esubtype='person'>
+	))
+9	yA	unk
+10	((	NP	<fs etype='ne' esubtype='person'>
+10.1	parATe	unk	<fs etype='ne' esubtype='person'>
+	))
+11	ke	unk
+12	sAWa	unk
+13	sarva	unk
+14	kareM	unk
+15	.	unk
+</Sentence>

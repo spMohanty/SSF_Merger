@@ -1,0 +1,10 @@
+<Sentence id="1">
+1	Pira	RB	<fs af='Pira,adv,,,,,,'>
+2	lagaBaga	RP	<fs poslcat='NM' af='lagaBaga,adv,,,,,,'>
+3	240	QC	<fs af='240,num,,,,,,'>
+4	milI	VM	<fs af='mila,v,f,sg,any,,yA,yA'>
+5	.	SYM	<fs af='.,punc,,,,,,'>
+6	pAnI	NN	<fs af='pAnI,n,m,sg,3,d,0,0'>
+7	milAeM	VM	<fs af='milA,v,any,pl,1,,e,e'>
+8	.	SYM	<fs af='.,punc,,,,,,'>
+</Sentence>

@@ -1,0 +1,20 @@
+<Sentence id="1">
+1	wEyAra	JJ	<fs af='wEyAra,adj,any,any,,any,,'>
+2	vAsaMwI	NN	<fs af='vAsaMwI,n,f,sg,3,d,0,0'>
+3	mEMgo	PRP	<fs poslcat='NM' af='mEMgo,n,m,sg,3,d,0,0'>
+4	AiskrIma	NNP	<fs af='AiskrIma,n,f,sg,3,o,0,0'>
+5	ko	PSP	<fs af='ko,psp,,,,,,'>
+6	piswA	NN	<fs af='piswA,n,m,sg,3,d,0,0'>
+7	kawarana	NNP	<fs af='kawarana,n,f,sg,3,o,0,0'>
+8	se	PSP	<fs af='se,psp,,,,,,'>
+9	evaM	CC	<fs af='evaM,avy,,,,,,'>
+10	gulAba	NNP	<fs af='gulAba,n,m,sg,3,o,0,0'>
+11	kI	PSP	<fs af='kA,psp,f,pl,,o,kA,kA'>
+12	pawwiyoM	NN	<fs af='pawwi,n,m,pl,3,o,0,0'>
+13	se	PSP	<fs af='se,psp,,,,,,'>
+14	sajAeM	NN	<fs af='sajA,n,f,pl,3,d,0,0'>
+15	Ora	CC	<fs af='Ora,avy,,,,,,'>
+16	peSa	JJ	<fs af='peSa,adj,any,any,,any,,'>
+17	kareM	VM	<fs af='kara,v,any,pl,1,,e,e'>
+18	.	SYM	<fs af='.,punc,,,,,,'>
+</Sentence>

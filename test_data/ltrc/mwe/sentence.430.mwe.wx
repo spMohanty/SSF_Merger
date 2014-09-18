@@ -1,0 +1,12 @@
+<Sentence id="1">
+1	ina	PRP	<fs af='yaha,pn,any,pl,3,o,0,0'>
+2	para	PSP	<fs af='para,psp,,,,,,'>
+3	PetA	NNPC	<fs poslcat='NM' af='PetA,v,any,any,any,,0,0'>
+4	xahI	NN	<fs af='xahI,n,m,sg,3,d,0,0'>
+5	evaM	CC	<fs af='evaM,avy,,,,,,'>
+6	imalI	NNP	<fs af='imalI,n,f,sg,3,o,0,0'>
+7	kI	PSP	<fs af='kA,psp,f,sg,,d,kA,kA'>
+8	catanI	NN	<fs af='catanI,n,f,sg,3,d,0,0'>
+9	dAleM	VM	<fs af='dAla,v,any,pl,1,,e,e'>
+10	.	SYM	<fs af='.,punc,,,,,,'>
+</Sentence>

@@ -1,0 +1,25 @@
+<Sentence id="1">
+1	aba	PRP	<fs poslcat='NM' af='aba,adv,,,,,,'>
+2	keka	NN	<fs af='keka,n,m,sg,3,o,0,0'>
+3	ke	PSP	<fs af='kA,psp,m,sg,,o,kA,kA'>
+4	miSraNa	NN	<fs af='miSraNa,n,m,sg,3,o,0,0'>
+5	ko	PSP	<fs af='ko,psp,,,,,,'>
+6	gEsa	NNC	<fs af='gEsa,n,f,sg,3,d,0,0'>
+7	avana	NN	<fs af='avana,n,m,sg,3,o,0,0'>
+8	meM	PSP	<fs af='meM,psp,,,,,,'>
+9	45	QC	<fs af='45,num,,,,,,'>
+10	minata	NN	<fs af='minata,n,m,sg,3,d,0,0'>
+11	yA	CC	<fs af='yA,avy,,,,,,'>
+12	mAikroveva	NNPC	<fs poslcat='NM' af='mAikroveva,unk,,,,,,'>
+13	avana	NN	<fs af='avana,n,m,sg,3,o,0,0'>
+14	meM	PSP	<fs af='meM,psp,,,,,,'>
+15	20	QC	<fs af='20,num,,,,,,'>
+16	minata	NN	<fs af='minata,n,m,sg,3,d,0,0'>
+17	brAuna	NN	<fs af='brAuna,n,m,sg,3,d,0,0'>
+18	hone	VM	<fs af='ho,v,m,pl,any,,nA,nA'>
+19	waka	PSP	<fs af='waka,psp,,,,,,'>
+20	beka	VM	<fs poslcat='NM' af='beka,unk,,,,,,'>
+21	kara	VM	<fs af='kara,v,any,any,any,,0,0'>
+22	leM	VAUX	<fs af='le,v,any,pl,1,,e,e'>
+23	.	SYM	<fs af='.,punc,,,,,,'>
+</Sentence>

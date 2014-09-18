@@ -1,0 +1,13 @@
+<Sentence id="1">
+1	canoM	NN	<fs af='canA,n,m,pl,3,o,0,0'>
+2	ko	PSP	<fs af='ko,psp,,,,,,'>
+3	acCI	JJ	<fs af='acCI,adj,f,any,,any,,'>
+4	waraha	NN	<fs af='waraha,n,m,sg,3,d,0,0'>
+5	Xokara	VM	<fs af='Xo,v,any,any,any,,kara,kara'>
+6	rAwaBara	NN	<fs poslcat='NM' af='rAwaBara,adv,,,,,,'>
+7	ke	PSP	<fs af='kA,psp,m,sg,,o,kA,kA'>
+8	lie	PSP	<fs af='lie,psp,,,,,,'>
+9	Bigo	VM	<fs af='Bigo,v,any,any,any,,0,0'>
+10	xeM	VM	<fs af='xe,v,any,pl,1,,e,e'>
+11	.	SYM	<fs af='.,punc,,,,,,'>
+</Sentence>

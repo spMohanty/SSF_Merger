@@ -1,0 +1,17 @@
+<Sentence id="1">			
+1	((	RBP	
+1.1	Pira	RB	<fs af='Pira,adv,,,,,,'>
+	))		
+2	((	NP	
+2.1	AXe	QF	<fs af='AXA,adj,m,sg,,o,,'>
+2.2	matara	NN	<fs af='matara,n,f,sg,3,o,0,0'>
+2.3	ko	PSP	<fs af='ko,psp,,,,,,'>
+	))		
+3	((	VGF	
+3.1	pIsa	VM	<fs af='pIsa,v,any,any,any,,0,0'>
+3.2	leM	VAUX	<fs af='le,v,any,pl,1,,e,e'>
+	))		
+4	((	BLK	
+4.1	.	SYM	<fs af='.,punc,,,,,,'>
+	))		
+</Sentence>			

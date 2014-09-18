@@ -1,0 +1,26 @@
+<Sentence id="1">
+1	sarva	NN	<fs af='sarva,n,f,sg,3,d,0,0'>
+2	karane	VM	<fs af='kara,v,m,pl,any,,nA,nA'>
+3	se	PSP	<fs af='se,psp,,,,,,'>
+4	pahale	NST	<fs af='pahale,adv,,,,,,'>
+5	xUXa	NN	<fs af='xUXa,n,m,sg,3,d,0,0'>
+6	Ora	CC	<fs af='Ora,avy,,,,,,'>
+7	panIra	NN	<fs af='panIra,n,m,sg,3,d,0,0'>
+8	dAlakara	VM	<fs af='dAla,v,any,any,any,,kara,kara'>
+9	3-4	QC	<fs af='3-4,num,,,,,,'>
+10	minata	NN	<fs af='minata,n,m,sg,3,o,0,0'>
+11	waka	PSP	<fs af='waka,psp,,,,,,'>
+12	pakAye	VM	<fs af='pakA,v,any,sg,2,,e,e'>
+13	hare	QF	<fs af='harA,adj,m,sg,,o,,'>
+14	Xaniye	VM	<fs poslcat='NM' af='Xaniye,unk,,,,,,'>
+15	Ora	CC	<fs af='Ora,avy,,,,,,'>
+16	kase	VM	<fs af='kasa,v,any,sg,2,,e,e'>
+17	hue	VM	<fs af='ho,v,any,sg,2,,e,e'>
+18	panIra	NN	<fs af='panIra,n,m,sg,3,o,0,0'>
+19	se	PSP	<fs af='se,psp,,,,,,'>
+20	gArniSa	NN	<fs poslcat='NM' af='gArniSa,unk,,,,,,'>
+21	karake	VM	<fs af='karaka,v,any,sg,2,,e,e'>
+22	sarva	NN	<fs af='sarva,n,f,sg,3,d,0,0'>
+23	kareM	VM	<fs af='kara,v,any,pl,1,,e,e'>
+24	.	SYM	<fs af='.,punc,,,,,,'>
+</Sentence>

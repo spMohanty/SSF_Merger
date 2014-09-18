@@ -1,0 +1,24 @@
+<Sentence id="1">			
+1	((	NP	
+1.1	Apa	PRP	<fs af='Apa,pn,any,any,any,o,0,0'>
+	))		
+2	((	VGF	
+2.1	cAheM	VM	<fs af='cAha,v,any,pl,1,,e,e'>
+2.2	wo	RP	<fs af='wo,avy,,,,,,'>
+	))		
+3	((	NP	
+3.1	grilara	NN	<fs af='grilara,unk,,,,,,' poslcat="NM">
+3.2	meM	PSP	<fs af='meM,psp,,,,,,'>
+	))		
+4	((	NP	
+4.1	grila	NN	<fs af='grila,n,f,sg,3,d,0,0'>
+	))		
+5	((	VGF	
+5.1	kara	VM	<fs af='kara,v,any,any,any,,0,0'>
+5.2	sakawI	VAUX	<fs af='saka,v,f,sg,any,,wA,wA'>
+5.3	hEM	VAUX	<fs af='hE,v,any,pl,1,,hE,hE'>
+	))		
+6	((	BLK	
+6.1	.	SYM	<fs af='.,punc,,,,,,'>
+	))		
+</Sentence>			

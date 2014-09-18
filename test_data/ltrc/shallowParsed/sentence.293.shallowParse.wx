@@ -1,0 +1,44 @@
+<Sentence id="1">			
+1	((	NP	
+1.1	wawpaScAwa	NN	<fs af='wawpaScAwa,adv,,,,,,' poslcat="NM">
+	))		
+2	((	NP	
+2.1	isakI	PRP	<fs af='yaha,pn,any,sg,3,o,kA,kA' agr_gen='f'  agr_cas='d'  agr_num='sg'>
+	))		
+3	((	NP	
+3.1	cOkora	NN	<fs af='cOkora,n,m,sg,3,d,0,0'>
+	))		
+4	((	CCP	
+4.1	yA	CC	<fs af='yA,avy,,,,,,'>
+	))		
+5	((	NP	
+5.1	wiraCe	JJ	<fs af='wiraCA,adj,m,sg,,o,,'>
+5.2	AkAra	NN	<fs af='AkAra,n,m,sg,3,o,0,0'>
+5.3	meM	PSP	<fs af='meM,psp,,,,,,'>
+	))		
+6	((	NP	
+6.1	barPI	JJ	<fs af='barPI,n,f,sg,3,d,0,0' poslcat="NM">
+6.2	kAteM	NN	<fs af='kAta,n,f,pl,3,d,0,0'>
+	))		
+7	((	CCP	
+7.1	Ora	CC	<fs af='Ora,avy,,,,,,'>
+	))		
+8	((	NP	
+8.1	gaNawaMwra	NNPC	<fs af='gaNawaMwra,n,m,sg,3,d,0,0'>
+8.2	xivasa	NNP	<fs af='xivasa,n,m,sg,3,o,0,0'>
+8.3	para	PSP	<fs af='para,psp,,,,,,'>
+	))		
+9	((	NP	
+9.1	wiraMgI	JJ	<fs af='wiraMgI,adj,f,any,,any,,'>
+9.2	barPI	NN	<fs af='barPI,n,f,sg,3,d,0,0'>
+	))		
+10	((	JJP	
+10.1	peSa	JJ	<fs af='peSa,adj,any,any,,any,,'>
+	))		
+11	((	VGF	
+11.1	kareM	VM	<fs af='kara,v,any,pl,1,,e,e'>
+	))		
+12	((	BLK	
+12.1	.	SYM	<fs af='.,punc,,,,,,'>
+	))		
+</Sentence>			

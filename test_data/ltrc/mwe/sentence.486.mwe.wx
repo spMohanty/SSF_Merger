@@ -1,0 +1,13 @@
+<Sentence id="1">
+1	isake	PRP	<fs agr_num='pl' agr_cas='d' agr_gen='m' af='yaha,pn,any,sg,3,o,kA,kA'>
+2	bAxa	NST	<fs af='bAxa,adv,,,,,,'>
+3	BarAvana	NN	<fs poslcat='NM' af='BarAvana,unk,,,,,,'>
+4	kI	PSP	<fs af='kA,psp,f,sg,,d,kA,kA'>
+5	sAmagrI	NN	<fs af='sAmagrI,n,f,sg,3,d,0,0'>
+6	halke	JJ	<fs af='halkA,adj,m,sg,,o,,'>
+7	hAWa	NN	<fs af='hAWa,n,m,sg,3,o,0,0'>
+8	se	PSP	<fs af='se,psp,,,,,,'>
+9	milA	VM	<fs af='milA,v,any,any,any,,0,0'>
+10	leM	VAUX	<fs af='le,v,any,pl,1,,e,e'>
+11	.	SYM	<fs af='.,punc,,,,,,'>
+</Sentence>

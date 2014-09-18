@@ -1,0 +1,11 @@
+<Sentence id="1">
+1	isalie	PRP	<fs poslcat='NM' af='isalie,adv,,,,,,'>
+2	gaNeSajI	NNP	<fs poslcat='NM' af='gaNeSajI,unk,,,,,,'>
+3	ko	PSP	<fs af='ko,psp,,,,,,'>
+4	isakA	PRP	<fs agr_num='sg' agr_cas='d' agr_gen='m' af='yaha,pn,any,sg,3,o,kA,kA'>
+5	Boga	NN	<fs af='Boga,n,m,sg,3,d,0,0'>
+6	avaS‍ya	NN	<fs poslcat='NM' af='avaS,unk,,,,,,'>
+7	lagAnA	VM	<fs af='lagA,v,m,sg,any,,nA,nA'>
+8	cAhie	VAUX	<fs hon='y' af='cAha,v,any,sg,2,,e,e'>
+9	.	SYM	<fs af='.,punc,,,,,,'>
+</Sentence>

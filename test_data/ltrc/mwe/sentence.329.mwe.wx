@@ -1,0 +1,18 @@
+<Sentence id="1">
+1	hare	QF	<fs af='harA,adj,m,sg,,o,,'>
+2	Xanie	NN	<fs poslcat='NM' af='Xanie,unk,,,,,,'>
+3	kI	PSP	<fs af='kA,psp,f,sg,,o,kA,kA'>
+4	catanI	NN	<fs af='catanI,n,f,sg,3,o,0,0'>
+5	ke	PSP	<fs af='kA,psp,m,sg,,o,kA,kA'>
+6	sAWa	NST	<fs af='sAWa,adv,,,,,,'>
+7	garamA	NNC	<fs poslcat='NM' af='garamA,v,any,any,any,,0,0'>
+8	-JOIN	SYM	<fs poslcat='NM' af='-OIN,unk,,,,,,'>
+9	garama	JJ	<fs af='garama,adj,any,any,,any,,'>
+10	catapate	JJ	<fs af='catapatA,adj,m,sg,,o,,'>
+11	hariyAle	NNPC	<fs poslcat='NM' af='hariyAle,unk,,,,,,'>
+12	kabAba	NN	<fs af='kabAba,n,m,sg,3,o,0,0'>
+13	kA	PSP	<fs af='kA,psp,m,sg,,d,kA,kA'>
+14	majA	NN	<fs af='majA,n,m,sg,3,d,0,0'>
+15	uTAeM	VM	<fs af='uTA,v,any,pl,1,,e,e'>
+16	.	SYM	<fs af='.,punc,,,,,,'>
+</Sentence>

@@ -1,0 +1,15 @@
+<Sentence id="1">
+1	ubale	VM	<fs af='ubala,v,any,sg,2,,e,e'>
+2	hue	VAUX	<fs af='ho,v,any,sg,2,,e,e'>
+3	AlU	NN	<fs af='AlU,n,m,sg,3,o,0,0'>
+4	ko	PSP	<fs af='ko,psp,,,,,,'>
+5	CIlane	VM	<fs af='CIla,v,m,pl,any,,nA,nA'>
+6	ke	PSP	<fs af='kA,psp,m,pl,,o,kA,kA'>
+7	bAxa	NST	<fs af='bAxa,adv,,,,,,'>
+8	Caha	QC	<fs af='Caha,adj,any,pl,,d,,'>
+9	tukadZoM	NN	<fs af='tukadZA,n,m,pl,3,o,0,0'>
+10	meM	PSP	<fs af='meM,psp,,,,,,'>
+11	kAta	VM	<fs af='kAta,v,any,any,any,,0,0'>
+12	leM	VAUX	<fs af='le,v,any,pl,1,,e,e'>
+13	.	SYM	<fs af='.,punc,,,,,,'>
+</Sentence>

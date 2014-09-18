@@ -1,0 +1,16 @@
+<Sentence id="1">
+1	usa	unk
+2	para	unk
+3	panIra	unk
+4	kA	unk
+5	miSraNa	unk
+6	((	NP	<fs etype='ne' esubtype='location'>
+6.1	BareM	unk	<fs etype='ne' esubtype='location'>
+	))
+7	Ora	unk
+8	((	NP	<fs etype='ne' esubtype='location'>
+8.1	bela	unk	<fs etype='ne' esubtype='location'>
+	))
+9	leM	unk
+10	.	unk
+</Sentence>

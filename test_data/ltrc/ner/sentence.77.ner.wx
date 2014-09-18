@@ -1,0 +1,9 @@
+<Sentence id="1">
+1	((	NP	<fs etype='ne' esubtype='location'>
+1.1	makkA	unk	<fs etype='ne' esubtype='location'>
+	))
+2	AtA	unk
+3	CAna	unk
+4	leM	unk
+5	.	unk
+</Sentence>

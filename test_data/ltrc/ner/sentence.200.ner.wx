@@ -1,0 +1,27 @@
+<Sentence id="1">
+1	TaMdI	unk
+2	hone	unk
+3	ke	unk
+4	paScAwa	unk
+5	((	NP	<fs etype='ne' esubtype='person'>
+5.1	lajIja	unk	<fs etype='ne' esubtype='person'>
+	))
+6	BAMgayukwa	unk
+7	TaMdAI	unk
+8	kAMca	unk
+9	ke	unk
+10	gilAsoM	unk
+11	meM	unk
+12	Barakara	unk
+13	peSa	unk
+14	kareM	unk
+15	Ora	unk
+16	raMgabiraMgI	unk
+17	((	NP	<fs etype='ne' esubtype='person'>
+17.1	holI	unk	<fs etype='ne' esubtype='person'>
+	))
+18	parva	unk
+19	kA	unk
+20	uTAeM	unk
+21	.	unk
+</Sentence>

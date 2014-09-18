@@ -1,0 +1,18 @@
+<Sentence id="1">
+1	cane	unk
+2	Ora	unk
+3	mUMga	unk
+4	kI	unk
+5	((	NP	<fs etype='ne' esubtype='person'>
+5.1	xAla	unk	<fs etype='ne' esubtype='person'>
+	))
+6	ko	unk
+7	eka	unk
+8	sAWa	unk
+9	xAnexAra	unk
+10	((	NP	<fs etype='ne' esubtype='person'>
+10.1	pIsa	unk	<fs etype='ne' esubtype='person'>
+	))
+11	leM	unk
+12	.	unk
+</Sentence>

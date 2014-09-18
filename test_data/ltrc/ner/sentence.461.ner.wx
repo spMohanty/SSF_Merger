@@ -1,0 +1,24 @@
+<Sentence id="1">
+1	eka	unk
+2	motI	unk
+3	wala	unk
+4	vAlI	unk
+5	kadZAhI	unk
+6	meM	unk
+7	GI	unk
+8	garama	unk
+9	karake	unk
+10	CanI	unk
+11	huI	unk
+12	((	NP	<fs etype='ne' esubtype='person'>
+12.1	sUjI	unk	<fs etype='ne' esubtype='person'>
+	))
+13	ko	unk
+14	halkA	unk
+15	BUrA	unk
+16	hone	unk
+17	waka	unk
+18	seka	unk
+19	leM	unk
+20	.	unk
+</Sentence>

@@ -1,0 +1,16 @@
+<Sentence id="1">
+1	usI	DEM	<fs emph='y' af='vaha,pn,any,sg,3,o,0,0'>
+2	kadZAhI	NN	<fs af='kadAhI,n,f,sg,,o,0,0'>
+3	meM	PSP	<fs af='meM,psp,,,,,,'>
+4	bacA	VM	<fs af='bacA,v,any,any,any,,0,0'>
+5	huA	VAUX	<fs af='ho,v,m,sg,any,,yA,yA'>
+6	wela	NN	<fs af='wela,n,m,sg,3,d,0,0'>
+7	dAlakara	VM	<fs af='dAla,v,any,any,any,,kara,kara'>
+8	garma	JJ	<fs af='garma,adj,any,any,,any,,'>
+9	kareM	VM	<fs af='kara,v,any,pl,1,,e,e'>
+10	va	CC	<fs af='va,avy,,,,,,'>
+11	pyAja	NN	<fs af='pyAja,n,f,sg,3,d,0,0'>
+12	BUrA	NN	<fs af='BUrA,n,m,sg,3,d,0,0'>
+13	kareM	VM	<fs af='kara,v,any,pl,1,,e,e'>
+14	.	SYM	<fs af='.,punc,,,,,,'>
+</Sentence>

@@ -1,0 +1,16 @@
+<Sentence id="1">
+1	garmAgarma	unk
+2	AlU	unk
+3	-JOIN	unk
+4	ajavAina	unk
+5	pUrI	unk
+6	ko	unk
+7	manapasaMxa	unk
+8	((	NP	<fs etype='ne' esubtype='person'>
+8.1	sabjI	unk	<fs etype='ne' esubtype='person'>
+	))
+9	ke	unk
+10	sAWa	unk
+11	KilAeM	unk
+12	.	unk
+</Sentence>

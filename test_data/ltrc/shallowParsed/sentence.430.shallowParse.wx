@@ -1,0 +1,26 @@
+<Sentence id="1">			
+1	((	NP	
+1.1	ina	PRP	<fs af='yaha,pn,any,pl,3,o,0,0'>
+1.2	para	PSP	<fs af='para,psp,,,,,,'>
+	))		
+2	((	NP	
+2.1	PetA	NNPC	<fs af='PetA,v,any,any,any,,0,0' poslcat="NM">
+2.2	xahI	NN	<fs af='xahI,n,m,sg,3,d,0,0'>
+	))		
+3	((	CCP	
+3.1	evaM	CC	<fs af='evaM,avy,,,,,,'>
+	))		
+4	((	NP	
+4.1	imalI	NNP	<fs af='imalI,n,f,sg,3,o,0,0'>
+4.2	kI	PSP	<fs af='kA,psp,f,sg,,d,kA,kA'>
+	))		
+5	((	NP	
+5.1	catanI	NN	<fs af='catanI,n,f,sg,3,d,0,0'>
+	))		
+6	((	VGF	
+6.1	dAleM	VM	<fs af='dAla,v,any,pl,1,,e,e'>
+	))		
+7	((	BLK	
+7.1	.	SYM	<fs af='.,punc,,,,,,'>
+	))		
+</Sentence>			

@@ -1,0 +1,12 @@
+<Sentence id="1">
+1	pyAja	NN	<fs af='pyAja,n,f,sg,3,d,0,0'>
+2	Ora	CC	<fs af='Ora,avy,,,,,,'>
+3	lahasuna	NN	<fs af='lahasuna,n,m,sg,3,o,0,0'>
+4	ko	PSP	<fs af='ko,psp,,,,,,'>
+5	wela	NN	<fs af='wela,n,m,sg,3,o,0,0'>
+6	meM	PSP	<fs af='meM,psp,,,,,,'>
+7	PrAI	VM	<fs poslcat='NM' af='PrAI,n,m,sg,3,d,0,0'>
+8	kara	VM	<fs af='kara,v,any,any,any,,0,0'>
+9	leM	VAUX	<fs af='le,v,any,pl,1,,e,e'>
+10	.	SYM	<fs af='.,punc,,,,,,'>
+</Sentence>

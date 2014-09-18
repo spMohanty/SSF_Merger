@@ -1,0 +1,16 @@
+<Sentence id="1">
+1	ise	unk
+2	((	NP	<fs etype='ne' esubtype='person'>
+2.1	harI	unk	<fs etype='ne' esubtype='person'>
+	))
+3	Ora	unk
+4	((	NP	<fs etype='ne' esubtype='person'>
+4.1	mITI	unk	<fs etype='ne' esubtype='person'>
+	))
+5	catanI	unk
+6	ke	unk
+7	sAWa	unk
+8	peSa	unk
+9	kareM	unk
+10	.	unk
+</Sentence>

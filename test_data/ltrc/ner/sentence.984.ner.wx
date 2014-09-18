@@ -1,0 +1,34 @@
+<Sentence id="1">
+1	GI	unk
+2	ko	unk
+3	eka	unk
+4	kadZAhI	unk
+5	meM	unk
+6	dAlakara	unk
+7	garama	unk
+8	kareM	unk
+9	,	unk
+10	jaba	unk
+11	GI	unk
+12	garama	unk
+13	ho	unk
+14	jAye	unk
+15	wo	unk
+16	usameM	unk
+17	maKAne	unk
+18	dAlakara	unk
+19	BUneM	unk
+20	,	unk
+21	maKAnoM	unk
+22	ko	unk
+23	TaMdA	unk
+24	karake	unk
+25	motA	unk
+26	-JOIN	unk
+27	motA	unk
+28	((	NP	<fs etype='ne' esubtype='person'>
+28.1	kUta	unk	<fs etype='ne' esubtype='person'>
+	))
+29	leM	unk
+30	.	unk
+</Sentence>

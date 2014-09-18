@@ -1,0 +1,58 @@
+<Sentence id="1">			
+1	((	NP	
+1.1	jaba	PRP	<fs af='jaba,adv,,,,,,' poslcat="NM">
+	))		
+2	((	NP	
+2.1	wela	NN	<fs af='wela,n,m,sg,3,d,0,0'>
+	))		
+3	((	NP	
+3.1	Upara	NST	<fs af='Upara,adv,,,,,,'>
+	))		
+4	((	VGF	
+4.1	Ane	VM	<fs af='Ana,v,any,sg,2,,e,e'>
+4.2	lage	VAUX	<fs af='laga,v,any,sg,2,,e,e'>
+4.3	wo	RP	<fs af='wo,avy,,,,,,'>
+	))		
+5	((	NP	
+5.1	isameM	PRP	<fs af='yaha,pn,any,sg,3,o,meM,meM'>
+	))		
+6	((	VGNF	
+6.1	soyA	VM	<fs af='so,v,m,sg,any,,yA,yA'>
+	))		
+7	((	NP	
+7.1	nagetsa	NN	<fs af='nagetsa,unk,,,,,,' poslcat="NM">
+	))		
+8	((	VGNF	
+8.1	dAlakara	VM	<fs af='dAla,v,any,any,any,,kara,kara'>
+	))		
+9	((	NP	
+9.1	pAnI	NN	<fs af='pAnI,n,m,sg,3,d,0,0'>
+	))		
+10	((	VGNF	
+10.1	dAlakara	VM	<fs af='dAla,v,any,any,any,,kara,kara'>
+	))		
+11	((	VGF	
+11.1	pakane	VM	<fs af='paka,v,m,pl,any,,nA,nA'>
+11.2	xeM	VAUX	<fs af='xe,v,any,pl,1,,e,e'>
+11.3	,	SYM	<fs af='&comma,punc,,,,,,'>
+	))		
+12	((	NP	
+12.1	hare	PRP	<fs af='harA,adj,m,sg,,o,,' poslcat="NM">
+	))		
+13	((	NP	
+13.1	Xaniye	NN	<fs af='Xaniye,unk,,,,,,' poslcat="NM">
+13.2	se	PSP	<fs af='se,psp,,,,,,'>
+	))		
+14	((	VGNF	
+14.1	sajAkara	VM	<fs af='sajA,v,any,any,any,,kara,kara'>
+	))		
+15	((	NP	
+15.1	sarva	NN	<fs af='sarva,n,f,sg,3,d,0,0'>
+	))		
+16	((	VGF	
+16.1	kareM	VM	<fs af='kara,v,any,pl,1,,e,e'>
+	))		
+17	((	BLK	
+17.1	.	SYM	<fs af='.,punc,,,,,,'>
+	))		
+</Sentence>			

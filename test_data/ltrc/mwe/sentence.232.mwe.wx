@@ -1,0 +1,10 @@
+<Sentence id="1">
+1	sArA	QF	<fs af='sArA,adj,m,sg,,d,,'>
+2	sirakA	NN	<fs af='sirakA,n,m,sg,3,d,0,0'>
+3	Ora	CC	<fs af='Ora,avy,,,,,,'>
+4	cInI	NN	<fs af='cInI,n,m,sg,3,d,0,0'>
+5	BI	RP	<fs af='BI,avy,,,,,,'>
+6	milA	VM	<fs af='milA,v,any,any,any,,0,0'>
+7	xeM	VAUX	<fs af='xe,v,any,pl,1,,e,e'>
+8	.	SYM	<fs af='.,punc,,,,,,'>
+</Sentence>

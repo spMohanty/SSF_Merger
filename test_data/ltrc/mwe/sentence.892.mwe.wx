@@ -1,0 +1,21 @@
+<Sentence id="1">
+1	pEna	NN	<fs af='pEna,n,m,sg,3,o,0,0'>
+2	meM	PSP	<fs af='meM,psp,,,,,,'>
+3	GI	VM	<fs poslcat='NM' af='GI,n,m,sg,3,d,0,0'>
+4	dAlakara	VM	<fs af='dAla,v,any,any,any,,kara,kara'>
+5	panIra	NN	<fs af='panIra,n,m,sg,3,o,0,0'>
+6	ke	PSP	<fs af='kA,psp,m,pl,,o,kA,kA'>
+7	tukadZoM	NN	<fs af='tukadZA,n,m,pl,3,o,0,0'>
+8	ko	PSP	<fs af='ko,psp,,,,,,'>
+9	halkA	JJ	<fs af='halkA,adj,m,sg,,d,,'>
+10	sunaharA	JJ	<fs af='sunaharA,adj,m,sg,,d,,'>
+11	hone	VM	<fs af='ho,v,m,pl,any,,nA,nA'>
+12	waka	PSP	<fs af='waka,psp,,,,,,'>
+13	PrAI	NN	<fs af='PrAI,n,m,sg,3,d,0,0'>
+14	karake	VM	<fs af='karaka,v,any,sg,2,,e,e'>
+15	pleta	NN	<fs af='pleta,n,f,sg,3,o,0,0'>
+16	meM	PSP	<fs af='meM,psp,,,,,,'>
+17	nikAla	VM	<fs af='nikAla,v,any,any,any,,0,0'>
+18	leM	VAUX	<fs af='le,v,any,pl,1,,e,e'>
+19	.	SYM	<fs af='.,punc,,,,,,'>
+</Sentence>

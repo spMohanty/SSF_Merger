@@ -1,0 +1,14 @@
+<Sentence id="1">
+1	garamA	NNC	<fs poslcat='NM' af='garamA,v,any,any,any,,0,0'>
+2	-JOIN	SYM	<fs poslcat='NM' af='-OIN,unk,,,,,,'>
+3	garama	JJ	<fs af='garama,adj,any,any,,any,,'>
+4	lajIja	NNPC	<fs poslcat='NM' af='lajIja,adj,any,any,,any,,'>
+5	raMgabiraMgI	JJ	<fs af='raMgabiraMgI,adj,f,any,,any,,'>
+6	kokonata	NNP	<fs af='kokonata,n,m,sg,3,d,0,0'>
+7	birayAnI	NNP	<fs af='birayAnI,n,f,sg,3,d,0,0'>
+8	mehamAnoM	NN	<fs af='mehamAna,n,m,pl,3,o,0,0'>
+9	ko	PSP	<fs af='ko,psp,,,,,,'>
+10	peSa	JJ	<fs af='peSa,adj,any,any,,any,,'>
+11	kareM	VM	<fs af='kara,v,any,pl,1,,e,e'>
+12	.	SYM	<fs af='.,punc,,,,,,'>
+</Sentence>

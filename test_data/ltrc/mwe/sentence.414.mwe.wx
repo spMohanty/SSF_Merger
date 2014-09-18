@@ -1,0 +1,16 @@
+<Sentence id="1">
+1	gehUM	NN	<fs af='gehUz,n,m,sg,3,o,0,0'>
+2	ke	PSP	<fs af='kA,psp,m,sg,,o,kA,kA'>
+3	Ate	NN	<fs af='AtA,n,m,sg,3,o,0,0'>
+4	meM	PSP	<fs af='meM,psp,,,,,,'>
+5	moyana	NNP	<fs af='moyana,n,m,sg,3,d,0,0'>
+6	va	CC	<fs af='va,avy,,,,,,'>
+7	namaka	NN	<fs af='namaka,n,m,sg,3,d,0,0'>
+8	dAlakara	VM	<fs af='dAla,v,any,any,any,,kara,kara'>
+9	WodZA	QF	<fs af='WodZA,adj,m,sg,,d,,'>
+10	kadZA	JJ	<fs af='kadZA,adj,m,sg,,d,,'>
+11	AtA	NN	<fs af='AtA,n,m,sg,3,d,0,0'>
+12	gUMWa	VM	<fs af='gUMWa,v,any,any,any,,0,0'>
+13	leM	VAUX	<fs af='le,v,any,pl,1,,e,e'>
+14	.	SYM	<fs af='.,punc,,,,,,'>
+</Sentence>

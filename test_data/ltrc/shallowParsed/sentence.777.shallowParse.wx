@@ -1,0 +1,21 @@
+<Sentence id="1">			
+1	((	VGNF	
+1.1	ubAlawe	VM	<fs af='ubAla,v,m,pl,any,,wA,wA'>
+	))		
+2	((	NP	
+2.1	samaya	NN	<fs af='samaya,n,m,sg,3,d,0,0'>
+	))		
+3	((	NP	
+3.1	soyAbIna	NN	<fs af='soyAbIna,n,m,sg,3,o,0,0'>
+3.2	meM	PSP	<fs af='meM,psp,,,,,,'>
+	))		
+4	((	JJP	
+4.1	namaka	JJ	<fs af='namaka,n,m,sg,3,d,0,0' poslcat="NM">
+	))		
+5	((	VGF	
+5.1	dAleM	VM	<fs af='dAla,v,any,pl,1,,e,e'>
+	))		
+6	((	BLK	
+6.1	.	SYM	<fs af='.,punc,,,,,,'>
+	))		
+</Sentence>			

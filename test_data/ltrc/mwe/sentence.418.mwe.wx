@@ -1,0 +1,12 @@
+<Sentence id="1">
+1	usa	PRP	<fs af='vaha,pn,any,sg,3,o,0,0'>
+2	para	PSP	<fs af='para,psp,,,,,,'>
+3	panIra	NN	<fs af='panIra,n,m,sg,3,o,0,0'>
+4	kA	PSP	<fs af='kA,psp,m,sg,,d,kA,kA'>
+5	miSraNa	NN	<fs af='miSraNa,n,m,sg,3,d,0,0'>
+6	BareM	NN	<fs poslcat='NM' af='Bara,v,any,pl,1,,e,e'>
+7	Ora	CC	<fs af='Ora,avy,,,,,,'>
+8	bela	VM	<fs af='bela,v,any,any,any,,0,0'>
+9	leM	VAUX	<fs af='le,v,any,pl,1,,e,e'>
+10	.	SYM	<fs af='.,punc,,,,,,'>
+</Sentence>

@@ -1,0 +1,17 @@
+<Sentence id="1">
+1	pEna	NN	<fs af='pEna,n,m,sg,3,d,0,0'>
+2	yA	CC	<fs af='yA,avy,,,,,,'>
+3	hAMdI	NN	<fs af='hAMdI,n,f,sg,3,o,0,0'>
+4	kA	PSP	<fs af='kA,psp,m,sg,,d,kA,kA'>
+5	muMha	NN	<fs af='muzha,n,m,sg,,d,0,0'>
+6	parosane	VM	<fs af='parosa,v,m,pl,any,,nA,nA'>
+7	se	PSP	<fs af='se,psp,,,,,,'>
+8	TIka	RP	<fs af='TIka,avy,,,,,,'>
+9	pahale	NST	<fs af='pahale,adv,,,,,,'>
+10	hI	RP	<fs af='hI,avy,,,,,,'>
+11	KoleM	VM	<fs af='Kola,v,any,pl,1,,e,e'>
+12	va	CC	<fs af='va,avy,,,,,,'>
+13	wuraMwa	RB	<fs af='wuraMwa,adv,,,,,,'>
+14	paroseM	VM	<fs af='parosa,v,any,pl,1,,e,e'>
+15	.	SYM	<fs af='.,punc,,,,,,'>
+</Sentence>

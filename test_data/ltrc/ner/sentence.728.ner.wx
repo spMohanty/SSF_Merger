@@ -1,0 +1,18 @@
+<Sentence id="1">
+1	garma	unk
+2	-JOIN	unk
+3	garma	unk
+4	kurakurI	unk
+5	((	NP	<fs etype='ne' esubtype='person'>
+5.1	sabjI	unk	<fs etype='ne' esubtype='person'>
+	))
+6	ko	unk
+7	kasI	unk
+8	huI	unk
+9	cIja	unk
+10	se	unk
+11	sajAkara	unk
+12	sarva	unk
+13	kareM	unk
+14	.	unk
+</Sentence>

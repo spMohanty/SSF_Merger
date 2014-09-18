@@ -1,0 +1,30 @@
+<Sentence id="1">
+1	eka	unk
+2	sarviga	unk
+3	diSa	unk
+4	meM	unk
+5	panIra	unk
+6	((	NP	<fs etype='ne' esubtype='person'>
+6.1	pAkIjA	unk	<fs etype='ne' esubtype='person'>
+6.2	raKakara	unk	<fs etype='ne' esubtype='person'>
+	))
+7	grevI	unk
+8	((	NP	<fs etype='ne' esubtype='person'>
+8.1	dAle	unk	<fs etype='ne' esubtype='person'>
+	))
+9	Ora	unk
+10	((	NP	<fs etype='ne' esubtype='person'>
+10.1	harI	unk	<fs etype='ne' esubtype='person'>
+	))
+11	mirca	unk
+12	,	unk
+13	harA	unk
+14	XaniyA	unk
+15	va	unk
+16	krIma	unk
+17	se	unk
+18	sajAkara	unk
+19	sarva	unk
+20	kareM	unk
+21	.	unk
+</Sentence>

@@ -1,0 +1,12 @@
+<Sentence id="1">
+1	eka	QC	<fs af='eka,adj,any,any,,any,,'>
+2	nAnastika	JJ	<fs poslcat='NM' af='nAnastika,unk,,,,,,'>
+3	wave	PRP	<fs poslcat='NM' af='wavA,n,m,sg,3,o,0,0'>
+4	para	PSP	<fs af='para,psp,,,,,,'>
+5	wela	NN	<fs af='wela,n,m,sg,3,d,0,0'>
+6	dAlakara	VM	<fs af='dAla,v,any,any,any,,kara,kara'>
+7	halkA	JJ	<fs af='halkA,adj,m,sg,,d,,'>
+8	seka	NN	<fs poslcat='NM' af='seka,v,any,any,any,,0,0'>
+9	leM	VAUX	<fs af='le,v,any,pl,1,,e,e'>
+10	.	SYM	<fs af='.,punc,,,,,,'>
+</Sentence>

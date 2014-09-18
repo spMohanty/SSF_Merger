@@ -1,0 +1,33 @@
+<Sentence id="1">			
+1	((	BLK	
+1.1	GI	RP	<fs af='GI,n,m,sg,3,d,0,0' poslcat="NM">
+	))		
+2	((	VGNN	
+2.1	CodZane	VM	<fs af='CodZa,v,m,pl,any,,nA,nA'>
+2.2	para	PSP	<fs af='para,psp,,,,,,'>
+	))		
+3	((	VGNF	
+3.1	pise	VM	<fs af='pisa,v,any,sg,2,,e,e'>
+3.2	hue	VAUX	<fs af='ho,v,any,sg,2,,e,e'>
+	))		
+4	((	NP	
+4.1	sAre	QF	<fs af='sArA,adj,m,sg,,o,,'>
+4.2	masAle	NN	<fs af='masAlA,n,m,pl,3,d,0,0'>
+4.3	,	SYM	<fs af='&comma,punc,,,,,,'>
+	))		
+5	((	NP	
+5.1	namaka	NN	<fs af='namaka,n,m,sg,3,d,0,0'>
+5.2	,	SYM	<fs af='&comma,punc,,,,,,'>
+	))		
+6	((	NP	
+6.1	halxI	NN	<fs af='halxI,n,f,sg,3,d,0,0'>
+	))		
+7	((	VGF	
+7.1	dAla	VM	<fs af='dAla,v,any,any,any,,0,0'>
+7.2	kara	VAUX	<fs af='kara,v,any,any,any,,0,0'>
+7.3	BUneM	VAUX	<fs af='BUna,v,any,pl,1,,e,e'>
+	))		
+8	((	BLK	
+8.1	.	SYM	<fs af='.,punc,,,,,,'>
+	))		
+</Sentence>			

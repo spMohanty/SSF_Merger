@@ -1,0 +1,30 @@
+<Sentence id="1">
+1	wawpaScAwa	unk
+2	eka	unk
+3	((	NP	<fs etype='ne' esubtype='person'>
+3.1	pEna	unk	<fs etype='ne' esubtype='person'>
+	))
+4	meM	unk
+5	halkA	unk
+6	-JOIN	unk
+7	sA	unk
+8	wela	unk
+9	lagAkara	unk
+10	garma	unk
+11	kareM	unk
+12	,	unk
+13	Pira	unk
+14	wEyAra	unk
+15	goloM	unk
+16	ko	unk
+17	ulata	unk
+18	-JOIN	unk
+19	palata	unk
+20	kara	unk
+21	sunaharA	unk
+22	hone	unk
+23	waka	unk
+24	wala	unk
+25	leM	unk
+26	.	unk
+</Sentence>

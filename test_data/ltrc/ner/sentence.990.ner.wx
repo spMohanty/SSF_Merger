@@ -1,0 +1,19 @@
+<Sentence id="1">
+1	ovana	unk
+2	se	unk
+3	nikAlakara	unk
+4	halkA	unk
+5	sA	unk
+6	wela	unk
+7	lagAeM	unk
+8	Ora	unk
+9	xobArA	unk
+10	10	unk
+11	minata	unk
+12	waka	unk
+13	((	NP	<fs etype='ne' esubtype='person'>
+13.1	beka	unk	<fs etype='ne' esubtype='person'>
+	))
+14	kareM	unk
+15	.	unk
+</Sentence>

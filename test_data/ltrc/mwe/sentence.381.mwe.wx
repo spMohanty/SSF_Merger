@@ -1,0 +1,11 @@
+<Sentence id="1">
+1	usake	PRP	<fs agr_num='pl' agr_cas='d' agr_gen='m' af='vaha,pn,any,sg,3,o,kA,kA'>
+2	bAxa	NST	<fs af='bAxa,adv,,,,,,'>
+3	usameM	PRP	<fs af='vaha,pn,any,sg,3,o,meM,meM'>
+4	nIMbU	NN	<fs af='nIMbU,n,m,sg,3,d,0,0'>
+5	rasa	NN	<fs af='rasa,n,m,sg,3,d,0,0'>
+6	va	CC	<fs af='va,avy,,,,,,'>
+7	cInI	JJ	<fs af='cInI,adj,any,any,,any,,'>
+8	milAeM	VM	<fs af='milA,v,any,pl,1,,e,e'>
+9	.	SYM	<fs af='.,punc,,,,,,'>
+</Sentence>

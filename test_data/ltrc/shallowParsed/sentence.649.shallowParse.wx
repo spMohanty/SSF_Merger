@@ -1,0 +1,19 @@
+<Sentence id="1">			
+1	((	JJP	
+1.1	namaka	JJ	<fs af='namaka,n,m,sg,3,o,0,0' poslcat="NM">
+	))		
+2	((	VGNF	
+2.1	milAkara	VM	<fs af='milA,v,any,any,any,,kara,kara'>
+	))		
+3	((	NP	
+3.1	15-20	QC	<fs af='15-20,num,,,,,,'>
+3.2	minata	NN	<fs af='minata,n,m,sg,3,o,0,0'>
+3.3	waka	PSP	<fs af='waka,psp,,,,,,'>
+	))		
+4	((	VGF	
+4.1	raKeM	VM	<fs af='raKa,v,any,pl,1,,e,e'>
+	))		
+5	((	BLK	
+5.1	.	SYM	<fs af='.,punc,,,,,,'>
+	))		
+</Sentence>			

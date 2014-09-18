@@ -1,0 +1,12 @@
+<Sentence id="1">
+1	CalanI	NNP	<fs af='CalanI,n,f,sg,3,o,0,0'>
+2	meM	PSP	<fs af='meM,psp,,,,,,'>
+3	CAnakara	VM	<fs af='CAna,v,any,any,any,,kara,kara'>
+4	xUXa	NN	<fs af='xUXa,n,m,sg,3,d,0,0'>
+5	((	J_MWE	<fs etype="mwe" esubtype="idiomatic">
+5.1	alaga	JJ	<fs af='alaga,adj,any,any,,any,,'>
+5.2	nikAla	VM	<fs af='nikAla,v,any,any,any,,0,0'>
+	))		
+6	leM	VAUX	<fs af='le,v,any,pl,1,,e,e'>
+7	.	SYM	<fs af='.,punc,,,,,,'>
+</Sentence>

@@ -1,0 +1,37 @@
+<Sentence id="1">
+1	halke	unk
+2	hAWa	unk
+3	se	unk
+4	motA	unk
+5	((	NP	<fs etype='ne' esubtype='location'>
+5.1	bela	unk	<fs etype='ne' esubtype='location'>
+	))
+6	leM	unk
+7	Ora	unk
+8	sabase	unk
+9	nIce	unk
+10	harA	unk
+11	,	unk
+12	Pira	unk
+13	saPexa	unk
+14	Ora	unk
+15	Upara	unk
+16	pIle	unk
+17	raMga	unk
+18	kI	unk
+19	jamA	unk
+20	xeM	unk
+21	Ora	unk
+22	halke	unk
+23	se	unk
+24	hAWa	unk
+25	se	unk
+26	xabA	unk
+27	kara	unk
+28	((	NP	<fs etype='ne' esubtype='person'>
+28.1	baraka	unk	<fs etype='ne' esubtype='person'>
+	))
+29	cipakA	unk
+30	xeM	unk
+31	.	unk
+</Sentence>

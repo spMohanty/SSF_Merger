@@ -1,0 +1,37 @@
+<Sentence id="1">
+1	jaba	unk
+2	rAI	unk
+3	va	unk
+4	jIrA	unk
+5	cataKane	unk
+6	lage	unk
+7	waba	unk
+8	lAla	unk
+9	cane	unk
+10	,	unk
+11	axaraka	unk
+12	-JOIN	unk
+13	((	NP	<fs etype='ne' esubtype='person'>
+13.1	harI	unk	<fs etype='ne' esubtype='person'>
+	))
+14	mirca	unk
+15	pesta	unk
+16	,	unk
+17	pisI	unk
+18	mirca	unk
+19	,	unk
+20	halxI	unk
+21	Ora	unk
+22	namaka	unk
+23	xo	unk
+24	kapa	unk
+25	pAnI	unk
+26	ke	unk
+27	sAWa	unk
+28	dAleM	unk
+29	Ora	unk
+30	xo	unk
+31	sItI	unk
+32	lagAeM	unk
+33	.	unk
+</Sentence>

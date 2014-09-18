@@ -1,0 +1,16 @@
+<Sentence id="1">
+1	moyana	NN	<fs af='moyana,n,m,sg,3,o,0,0'>
+2	ke	PSP	<fs af='kA,psp,m,sg,,o,kA,kA'>
+3	lie	PSP	<fs af='lie,psp,,,,,,'>
+4	WodZA	QF	<fs af='WodZA,adj,m,sg,,d,,'>
+5	-JOIN	SYM	<fs poslcat='NM' af='-OIN,unk,,,,,,'>
+6	sA	RP	<fs af='sA,avy,,,,,,'>
+7	GI	NNPC	<fs af='GI,n,m,sg,3,d,0,0'>
+8	aWavA	CC	<fs af='aWavA,avy,,,,,,'>
+9	wela	NNC	<fs af='wela,n,m,sg,3,d,0,0'>
+10	Gola	NN	<fs af='Gola,n,m,sg,3,o,0,0'>
+11	meM	PSP	<fs af='meM,psp,,,,,,'>
+12	dAla	VM	<fs af='dAla,v,any,any,any,,0,0'>
+13	xeM	VAUX	<fs af='xe,v,any,pl,1,,e,e'>
+14	.	SYM	<fs af='.,punc,,,,,,'>
+</Sentence>

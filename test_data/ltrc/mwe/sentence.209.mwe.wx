@@ -1,0 +1,14 @@
+<Sentence id="1">
+1	eka	PRPC	<fs poslcat='NM' af='eka,adj,any,any,,any,,'>
+2	xUsare	QO	<fs af='xUsarA,adj,m,sg,,o,,'>
+3	barwana	NN	<fs af='barwana,n,m,sg,3,o,0,0'>
+4	meM	PSP	<fs af='meM,psp,,,,,,'>
+5	uparokwa	JJ	<fs af='uparokwa,adj,any,any,,any,,'>
+6	saBI	QF	<fs af='saBI,adj,any,any,,any,,'>
+7	sAmagrI	NN	<fs af='sAmagrI,n,f,sg,3,d,0,0'>
+8	milAkara	VM	<fs af='milA,v,any,any,any,,kara,kara'>
+9	pesta	NN	<fs af='pesta,n,m,sg,3,d,0,0'>
+10	banA	VM	<fs af='banA,v,any,any,any,,0,0'>
+11	lIjie	VAUX	<fs hon='y' af='le,v,any,sg,2,,e,e'>
+12	.	SYM	<fs af='.,punc,,,,,,'>
+</Sentence>

@@ -1,0 +1,21 @@
+<Sentence id="1">
+1	panIra	unk
+2	ke	unk
+3	tukadZoM	unk
+4	para	unk
+5	namaka	unk
+6	,	unk
+7	kAlI	unk
+8	((	NP	<fs etype='ne' esubtype='location'>
+8.1	mirca	unk	<fs etype='ne' esubtype='location'>
+	))
+9	,	unk
+10	((	NP	<fs etype='ne' esubtype='location'>
+10.1	cilI	unk	<fs etype='ne' esubtype='location'>
+	))
+11	pAudara	unk
+12	va	unk
+13	wela	unk
+14	lapeteM	unk
+15	.	unk
+</Sentence>

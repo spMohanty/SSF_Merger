@@ -1,0 +1,10 @@
+<Sentence id="1">
+1	eka	QC	<fs af='eka,adj,any,any,,any,,'>
+2	wAra	NN	<fs af='wAra,n,m,sg,3,o,0,0'>
+3	kI	PSP	<fs af='kA,psp,f,sg,,d,kA,kA'>
+4	cASanI	NN	<fs af='cASanI,n,f,sg,3,d,0,0'>
+5	banane	VM	<fs af='bana,v,m,pl,any,,nA,nA'>
+6	waka	PSP	<fs af='waka,psp,,,,,,'>
+7	pakAeM	VM	<fs af='pakA,v,any,pl,1,,e,e'>
+8	.	SYM	<fs af='.,punc,,,,,,'>
+</Sentence>

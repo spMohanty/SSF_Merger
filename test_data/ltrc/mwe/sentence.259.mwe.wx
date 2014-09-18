@@ -1,0 +1,20 @@
+<Sentence id="1">
+1	aba	PRP	<fs poslcat='NM' af='aba,adv,,,,,,'>
+2	Upara	NST	<fs af='Upara,adv,,,,,,'>
+3	se	PSP	<fs af='se,psp,,,,,,'>
+4	kAlA	JJ	<fs af='kAlA,adj,m,sg,,d,,'>
+5	namaka	NN	<fs af='namaka,n,m,sg,3,d,0,0'>
+6	,	SYM	<fs af='&comma,punc,,,,,,'>
+7	kAlI	NNP	<fs af='kAlI,n,f,sg,3,d,0,0'>
+8	mirca	NN	<fs af='mirca,n,f,sg,3,o,0,0'>
+9	kA	PSP	<fs af='kA,psp,m,sg,,d,kA,kA'>
+10	pAvadara	NN	<fs af='pAvadara,n,m,sg,3,d,0,0'>
+11	,	SYM	<fs af='&comma,punc,,,,,,'>
+12	pisA	VM	<fs af='pisA,v,any,any,any,,0,0'>
+13	jIrA	NNP	<fs af='jIrA,n,m,sg,3,d,0,0'>
+14	va	CC	<fs af='va,avy,,,,,,'>
+15	sAxA	NN	<fs af='sAxA,n,m,sg,3,d,0,0'>
+16	namaka	JJ	<fs poslcat='NM' af='namaka,n,m,sg,3,d,0,0'>
+17	burakAeM	NN	<fs poslcat='NM' af='burakA,v,any,pl,1,,e,e'>
+18	.	SYM	<fs af='.,punc,,,,,,'>
+</Sentence>

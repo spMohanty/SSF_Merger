@@ -1,0 +1,23 @@
+<Sentence id="1">
+1	tosta	unk
+2	ko	unk
+3	BUrA	unk
+4	hone	unk
+5	waka	unk
+6	((	NP	<fs etype='ne' esubtype='person'>
+6.1	beka	unk	<fs etype='ne' esubtype='person'>
+	))
+7	kareM	unk
+8	Ora	unk
+9	garamA	unk
+10	-JOIN	unk
+11	garama	unk
+12	kurakure	unk
+13	tosta	unk
+14	kA	unk
+15	((	NP	<fs etype='ne' esubtype='person'>
+15.1	luwPa	unk	<fs etype='ne' esubtype='person'>
+	))
+16	uTAie	unk
+17	.	unk
+</Sentence>

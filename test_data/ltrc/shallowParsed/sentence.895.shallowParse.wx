@@ -1,0 +1,55 @@
+<Sentence id="1">			
+1	((	NP	
+1.1	panIra	NN	<fs af='panIra,n,m,sg,3,d,0,0'>
+	))		
+2	((	VGNF	
+2.1	dAlakara	VM	<fs af='dAla,v,any,any,any,,kara,kara'>
+	))		
+3	((	NP	
+3.1	5	QC	<fs af='5,num,,,,,,'>
+3.2	minata	NN	<fs af='minata,n,m,sg,3,o,0,0'>
+3.3	waka	PSP	<fs af='waka,psp,,,,,,'>
+	))		
+4	((	CCP	
+4.1	Ora	CC	<fs af='Ora,avy,,,,,,'>
+	))		
+5	((	VGF	
+5.1	pakAye	VM	<fs af='pakA,v,any,sg,2,,e,e'>
+5.2	,	SYM	<fs af='&comma,punc,,,,,,'>
+	))		
+6	((	NP	
+6.1	garama	JJ	<fs af='garama,adj,any,any,,any,,'>
+6.2	masAlA	NN	<fs af='masAlA,n,m,sg,3,d,0,0'>
+	))		
+7	((	CCP	
+7.1	Ora	CC	<fs af='Ora,avy,,,,,,'>
+	))		
+8	((	NP	
+8.1	hare	QF	<fs af='harA,adj,m,sg,,o,,'>
+8.2	Xaniye	NN	<fs af='Xaniye,unk,,,,,,' poslcat="NM">
+8.3	se	PSP	<fs af='se,psp,,,,,,'>
+	))		
+9	((	VGNF	
+9.1	sajAkara	VM	<fs af='sajA,v,any,any,any,,kara,kara'>
+	))		
+10	((	NP	
+10.1	nAna	NN	<fs af='nAna,n,m,sg,3,d,0,0'>
+	))		
+11	((	CCP	
+11.1	yA	CC	<fs af='yA,avy,,,,,,'>
+	))		
+12	((	NP	
+12.1	parATe	NN	<fs af='parATA,n,m,sg,3,o,0,0'>
+12.2	ke	PSP	<fs af='kA,psp,m,sg,,o,kA,kA'>
+12.3	sAWa	NST	<fs af='sAWa,adv,,,,,,'>
+	))		
+13	((	NP	
+13.1	sarva	NN	<fs af='sarva,n,f,sg,3,d,0,0'>
+	))		
+14	((	VGF	
+14.1	kareM	VM	<fs af='kara,v,any,pl,1,,e,e'>
+	))		
+15	((	BLK	
+15.1	.	SYM	<fs af='.,punc,,,,,,'>
+	))		
+</Sentence>			

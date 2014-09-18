@@ -1,0 +1,38 @@
+<Sentence id="1">			
+1	((	RBP	
+1.1	Pira	RB	<fs af='Pira,adv,,,,,,'>
+	))		
+2	((	NP	
+2.1	xo	QC	<fs af='xo,adj,any,pl,,d,,'>
+2.2	cammaca	NN	<fs af='cammaca,n,m,sg,3,d,0,0'>
+	))		
+3	((	NP	
+3.1	wela	NNC	<fs af='wela,n,m,sg,3,d,0,0'>
+3.2	kadZAhI	NN	<fs af='kadAhI,n,f,sg,,o,0,0'>
+3.3	meM	PSP	<fs af='meM,psp,,,,,,'>
+	))		
+4	((	VGNF	
+4.1	dAla	VM	<fs af='dAla,v,any,any,any,,0,0'>
+4.2	kara	VAUX	<fs af='kara,v,any,any,any,,0,0'>
+	))		
+5	((	NP	
+5.1	usameM	PRP	<fs af='vaha,pn,any,sg,3,o,meM,meM'>
+	))		
+6	((	NP	
+6.1	rAI	NNPC	<fs af='rAI,n,f,sg,3,d,0,0'>
+6.2	-JOIN	SYM	<fs af='-OIN,unk,,,,,,' poslcat="NM">
+6.3	jIrA	NN	<fs af='jIrA,n,m,sg,3,d,0,0'>
+	))		
+7	((	CCP	
+7.1	va	CC	<fs af='va,avy,,,,,,'>
+	))		
+8	((	NP	
+8.1	sOMPa	NN	<fs af='sOMPa,n,f,sg,3,d,0,0'>
+	))		
+9	((	NP	
+9.1	wadZakAeM	NN	<fs af='wadZakA,v,any,pl,1,,e,e' poslcat="NM">
+	))		
+10	((	BLK	
+10.1	.	SYM	<fs af='.,punc,,,,,,'>
+	))		
+</Sentence>			

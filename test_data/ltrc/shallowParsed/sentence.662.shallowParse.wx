@@ -1,0 +1,23 @@
+<Sentence id="1">			
+1	((	VGNF	
+1.1	ubale	VM	<fs af='ubala,v,any,sg,2,,e,e'>
+1.2	hue	VAUX	<fs af='ho,v,any,sg,2,,e,e'>
+	))		
+2	((	NP	
+2.1	AlU	NN	<fs af='AlU,n,m,sg,3,d,0,0'>
+	))		
+3	((	CCP	
+3.1	Ora	CC	<fs af='Ora,avy,,,,,,'>
+	))		
+4	((	NP	
+4.1	panIra	NN	<fs af='panIra,n,m,sg,3,o,0,0'>
+4.2	ko	PSP	<fs af='ko,psp,,,,,,'>
+	))		
+5	((	VGF	
+5.1	kAta	VM	<fs af='kAta,v,any,any,any,,0,0'>
+5.2	leM	VAUX	<fs af='le,v,any,pl,1,,e,e'>
+	))		
+6	((	BLK	
+6.1	.	SYM	<fs af='.,punc,,,,,,'>
+	))		
+</Sentence>			

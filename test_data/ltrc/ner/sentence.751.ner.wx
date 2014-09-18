@@ -1,0 +1,10 @@
+<Sentence id="1">
+1	AlU	unk
+2	ko	unk
+3	((	NP	<fs etype='ne' esubtype='person'>
+3.1	CIlakara	unk	<fs etype='ne' esubtype='person'>
+	))
+4	kAta	unk
+5	leM	unk
+6	.	unk
+</Sentence>

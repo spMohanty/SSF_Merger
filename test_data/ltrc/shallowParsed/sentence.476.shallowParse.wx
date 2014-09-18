@@ -1,0 +1,20 @@
+<Sentence id="1">			
+1	((	NP	
+1.1	halxI	NN	<fs af='halxI,n,f,sg,3,d,0,0'>
+	))		
+2	((	CCP	
+2.1	Ora	CC	<fs af='Ora,avy,,,,,,'>
+	))		
+3	((	NP	
+3.1	svAxAnusAra	NN	<fs af='svAxAnusAra,adv,,,,,,' poslcat="NM">
+	))		
+4	((	NP	
+4.1	namaka	NN	<fs af='namaka,n,m,sg,3,d,0,0'>
+	))		
+5	((	VGF	
+5.1	milAeM	VM	<fs af='milA,v,any,pl,1,,e,e'>
+	))		
+6	((	BLK	
+6.1	.	SYM	<fs af='.,punc,,,,,,'>
+	))		
+</Sentence>			

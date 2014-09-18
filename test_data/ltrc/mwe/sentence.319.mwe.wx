@@ -1,0 +1,17 @@
+<Sentence id="1">
+1	Pira	RB	<fs af='Pira,adv,,,,,,'>
+2	isakI	PRP	<fs agr_num='sg' agr_cas='d' agr_gen='f' af='yaha,pn,any,sg,3,o,kA,kA'>
+3	loiyAM	NN	<fs af='loI,n,f,pl,3,d,0,0'>
+4	banAkara	VM	<fs af='banA,v,any,any,any,,kara,kara'>
+5	pUrI	JJ	<fs af='pUrI,adj,f,any,,any,,'>
+6	beleM	NN	<fs af='bela,n,f,pl,3,d,0,0'>
+7	evaM	CC	<fs af='evaM,avy,,,,,,'>
+8	garma	JJ	<fs af='garma,adj,any,any,,any,,'>
+9	wela	NN	<fs af='wela,n,m,sg,3,o,0,0'>
+10	meM	PSP	<fs af='meM,psp,,,,,,'>
+11	sunaharI	JJ	<fs af='sunaharI,adj,f,any,,any,,'>
+12	BUrI	JJ	<fs af='BUrI,adj,f,any,,any,,'>
+13	wala	NN	<fs af='wala,n,m,sg,3,d,0,0'>
+14	leM	VAUX	<fs af='le,v,any,pl,1,,e,e'>
+15	.	SYM	<fs af='.,punc,,,,,,'>
+</Sentence>

@@ -1,0 +1,13 @@
+<Sentence id="1">
+1	mirca	NN	<fs af='mirca,n,f,sg,3,d,0,0'>
+2	kuCa	QF	<fs af='kuCa,adj,any,any,,any,,'>
+3	narma	NN	<fs af='narma,n,m,sg,3,d,0,0'>
+4	hone	VM	<fs af='ho,v,m,pl,any,,nA,nA'>
+5	para	PSP	<fs af='para,psp,,,,,,'>
+6	tamAtara	NN	<fs af='tamAtara,n,m,sg,3,d,0,0'>
+7	KUba	JJ	<fs af='KUba,adj,any,any,,any,,'>
+8	mahIna	NN	<fs af='mahIna,n,m,sg,3,d,0,0'>
+9	kAtakara	VM	<fs af='kAta,v,any,any,any,,kara,kara'>
+10	dAleM	VM	<fs af='dAla,v,any,pl,1,,e,e'>
+11	.	SYM	<fs af='.,punc,,,,,,'>
+</Sentence>

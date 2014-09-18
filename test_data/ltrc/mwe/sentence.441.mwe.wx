@@ -1,0 +1,11 @@
+<Sentence id="1">
+1	pyAja	NN	<fs af='pyAja,n,f,sg,3,o,0,0'>
+2	ko	PSP	<fs af='ko,psp,,,,,,'>
+3	sAPa	JJ	<fs af='sAPa,adj,any,any,,any,,'>
+4	CIlakara	VM	<fs af='CIla,v,any,any,any,,kara,kara'>
+5	unake	PRP	<fs agr_num='pl' agr_cas='d' agr_gen='m' af='vaha,pn,any,pl,3,o,kA,kA'>
+6	tukadZe	NN	<fs af='tukadZA,n,m,pl,3,d,0,0'>
+7	kara	VM	<fs af='kara,v,any,any,any,,0,0'>
+8	leM	VAUX	<fs af='le,v,any,pl,1,,e,e'>
+9	.	SYM	<fs af='.,punc,,,,,,'>
+</Sentence>

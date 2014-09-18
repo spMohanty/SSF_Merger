@@ -1,0 +1,28 @@
+<Sentence id="1">			
+1	((	RBP	
+1.1	cAhe	RB	<fs af='cAhe,adv,,,,,,'>
+1.2	wo	RP	<fs af='wo,avy,,,,,,'>
+	))		
+2	((	NP	
+2.1	ise	PRP	<fs af='yaha,pn,any,sg,3,o,ko,ko'>
+	))		
+3	((	NP	
+3.1	cAta	NN	<fs af='cAta,n,m,sg,3,o,0,0'>
+3.2	kI	PSP	<fs af='kA,psp,f,sg,,d,kA,kA'>
+	))		
+4	((	NP	
+4.1	sAmagrI	NN	<fs af='sAmagrI,n,f,sg,3,d,0,0'>
+	))		
+5	((	VGNF	
+5.1	dalakara	VM	<fs af='dala,v,any,any,any,,kara,kara'>
+5.2	BI	RP	<fs af='BI,avy,,,,,,'>
+	))		
+6	((	VGF	
+6.1	KA	VM	<fs af='KA,v,any,any,any,,0,0'>
+6.2	sakawe	VAUX	<fs af='saka,v,m,pl,any,,wA,wA'>
+6.3	hEM	VAUX	<fs af='hE,v,any,pl,1,,hE,hE'>
+	))		
+7	((	BLK	
+7.1	.	SYM	<fs af='.,punc,,,,,,'>
+	))		
+</Sentence>			

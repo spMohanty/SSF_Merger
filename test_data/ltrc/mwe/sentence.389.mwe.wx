@@ -1,0 +1,12 @@
+<Sentence id="1">
+1	TaMdI	JJ	<fs af='TaMdI,adj,f,any,,any,,'>
+2	hone	VM	<fs af='ho,v,m,pl,any,,nA,nA'>
+3	para	PSP	<fs af='para,psp,,,,,,'>
+4	eyara	NNPC	<fs af='eyara,n,m,sg,3,d,0,0'>
+5	tAita	NNPC	<fs poslcat='NM' af='tAita,adj,any,any,,any,,'>
+6	dibbe	NN	<fs af='dibbA,n,m,sg,3,o,0,0'>
+7	meM	PSP	<fs af='meM,psp,,,,,,'>
+8	Barakara	VM	<fs af='Bara,v,any,any,any,,kara,kara'>
+9	raKeM	VM	<fs af='raKa,v,any,pl,1,,e,e'>
+10	.	SYM	<fs af='.,punc,,,,,,'>
+</Sentence>

@@ -1,0 +1,27 @@
+<Sentence id="1">
+1	((	NP	<fs etype='ne' esubtype='person'>
+1.1	avana	unk	<fs etype='ne' esubtype='person'>
+	))
+2	ko	unk
+3	acCA	unk
+4	garama	unk
+5	karane	unk
+6	ke	unk
+7	bAxa	unk
+8	usameM	unk
+9	keka	unk
+10	tIna	unk
+11	ko	unk
+12	raKakara	unk
+13	karIba	unk
+14	pEMwIsa	unk
+15	-JOIN	unk
+16	cAlIsa	unk
+17	minata	unk
+18	waka	unk
+19	((	NP	<fs etype='ne' esubtype='person'>
+19.1	beka	unk	<fs etype='ne' esubtype='person'>
+	))
+20	kareM	unk
+21	.	unk
+</Sentence>

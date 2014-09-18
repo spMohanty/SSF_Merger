@@ -1,0 +1,23 @@
+<Sentence id="1">
+1	usake	PRP	<fs agr_num='pl' agr_cas='d' agr_gen='m' af='vaha,pn,any,sg,3,o,kA,kA'>
+2	bAxa	NST	<fs af='bAxa,adv,,,,,,'>
+3	eka	QC	<fs af='eka,adj,any,any,,any,,'>
+4	pEna	NN	<fs af='pEna,n,m,sg,3,o,0,0'>
+5	meM	PSP	<fs af='meM,psp,,,,,,'>
+6	WodZA	QF	<fs af='WodZA,adj,m,sg,,d,,'>
+7	sA	RP	<fs af='sA,avy,,,,,,'>
+8	wela	NN	<fs af='wela,n,m,sg,3,d,0,0'>
+9	dAlakara	VM	<fs af='dAla,v,any,any,any,,kara,kara'>
+10	pesta	NN	<fs af='pesta,n,m,sg,3,o,0,0'>
+11	ko	PSP	<fs af='ko,psp,,,,,,'>
+12	10-15	QC	<fs af='10-15,num,,,,,,'>
+13	minata	NN	<fs af='minata,n,m,sg,3,o,0,0'>
+14	waka	PSP	<fs af='waka,psp,,,,,,'>
+15	calAwe	VM	<fs af='calA,v,m,pl,any,,wA,wA'>
+16	hue	VAUX	<fs af='ho,v,any,sg,2,,e,e'>
+17	XImI	JJ	<fs af='XImI,adj,f,any,,any,,'>
+18	AMca	NN	<fs af='AMca,n,f,sg,3,o,0,0'>
+19	para	PSP	<fs af='para,psp,,,,,,'>
+20	pakAeM	VM	<fs af='pakA,v,any,pl,1,,e,e'>
+21	.	SYM	<fs af='.,punc,,,,,,'>
+</Sentence>

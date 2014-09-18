@@ -1,0 +1,7 @@
+<Sentence id="1">
+1	makkA	NNP	<fs af='makkA,n,m,sg,3,d,0,0'>
+2	AtA	NN	<fs af='AtA,n,m,sg,3,d,0,0'>
+3	CAna	VM	<fs af='CAna,v,any,any,any,,0,0'>
+4	leM	VAUX	<fs af='le,v,any,pl,1,,e,e'>
+5	.	SYM	<fs af='.,punc,,,,,,'>
+</Sentence>

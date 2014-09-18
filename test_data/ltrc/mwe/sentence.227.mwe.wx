@@ -1,0 +1,9 @@
+<Sentence id="1">
+1	tamAtaroM	NN	<fs af='tamAtara,n,m,pl,3,o,0,0'>
+2	ko	PSP	<fs af='ko,psp,,,,,,'>
+3	CIlakara	VM	<fs af='CIla,v,any,any,any,,kara,kara'>
+4	unake	PRP	<fs agr_num='pl' agr_cas='d' agr_gen='m' af='vaha,pn,any,pl,3,o,kA,kA'>
+5	tukadZe	NN	<fs af='tukadZA,n,m,pl,3,d,0,0'>
+6	kareM	VM	<fs af='kara,v,any,pl,1,,e,e'>
+7	.	SYM	<fs af='.,punc,,,,,,'>
+</Sentence>

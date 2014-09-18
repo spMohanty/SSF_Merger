@@ -1,0 +1,8 @@
+<Sentence id="1">
+1	pyAja	NN	<fs af='pyAja,n,f,sg,3,d,0,0'>
+2	BI	RP	<fs af='BI,avy,,,,,,'>
+3	bArIka	JJ	<fs af='bArIka,adj,any,any,,any,,'>
+4	kAta	VM	<fs af='kAta,v,any,any,any,,0,0'>
+5	leM	VAUX	<fs af='le,v,any,pl,1,,e,e'>
+6	.	SYM	<fs af='.,punc,,,,,,'>
+</Sentence>

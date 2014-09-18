@@ -1,0 +1,9 @@
+<Sentence id="1">
+1	isI	DEM	<fs emph='y' af='yaha,pn,any,sg,3,o,0,0'>
+2	waraha	NN	<fs af='waraha,n,m,sg,3,d,0,0'>
+3	saBI	QF	<fs af='saBI,adj,any,any,,any,,'>
+4	moxaka	NN	<fs af='moxaka,n,m,sg,3,d,0,0'>
+5	banA	VM	<fs af='banA,v,any,any,any,,0,0'>
+6	leM	VAUX	<fs af='le,v,any,pl,1,,e,e'>
+7	.	SYM	<fs af='.,punc,,,,,,'>
+</Sentence>

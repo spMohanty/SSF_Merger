@@ -1,0 +1,35 @@
+<Sentence id="1">			
+1	((	NP	
+1.1	isa	DEM	<fs af='yaha,pn,any,sg,3,o,0,0'>
+	))		
+2	((	VGNF	
+2.1	Cane	VM	<fs af='Cana,v,any,sg,2,,e,e'>
+2.2	hue	VAUX	<fs af='ho,v,any,sg,2,,e,e'>
+	))		
+3	((	NP	
+3.1	pyAja	NN	<fs af='pyAja,n,f,sg,3,o,0,0'>
+3.2	ke	PSP	<fs af='kA,psp,m,sg,,o,kA,kA'>
+	))		
+4	((	NP	
+4.1	rasa	NN	<fs af='rasa,n,m,sg,3,o,0,0'>
+4.2	meM	PSP	<fs af='meM,psp,,,,,,'>
+	))		
+5	((	NP	
+5.1	makKana	NN	<fs af='makKana,n,m,sg,3,d,0,0'>
+5.2	,	SYM	<fs af='&comma,punc,,,,,,'>
+	))		
+6	((	NP	
+6.1	namaka	NN	<fs af='namaka,n,m,sg,3,d,0,0'>
+6.2	,	SYM	<fs af='&comma,punc,,,,,,'>
+	))		
+7	((	NP	
+7.1	mirca	NN	<fs af='mirca,n,f,sg,3,d,0,0'>
+	))		
+8	((	VGF	
+8.1	milA	VM	<fs af='milA,v,any,any,any,,0,0'>
+8.2	xeM	VAUX	<fs af='xe,v,any,pl,1,,e,e'>
+	))		
+9	((	BLK	
+9.1	.	SYM	<fs af='.,punc,,,,,,'>
+	))		
+</Sentence>			

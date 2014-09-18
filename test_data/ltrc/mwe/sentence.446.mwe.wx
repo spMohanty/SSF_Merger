@@ -1,0 +1,13 @@
+<Sentence id="1">
+1	AMca	NN	<fs af='AMca,n,f,sg,3,o,0,0'>
+2	para	PSP	<fs af='para,psp,,,,,,'>
+3	xo	QC	<fs af='xo,adj,any,pl,,d,,'>
+4	-JOIN	SYM	<fs poslcat='NM' af='-OIN,unk,,,,,,'>
+5	wIna	QC	<fs af='wIna,adj,any,pl,,d,,'>
+6	minata	NN	<fs af='minata,n,m,sg,3,d,0,0'>
+7	puna	NN	<fs poslcat='NM' af='puna,v,any,any,any,,0,0'>
+8	:	SYM	<fs af=':,punc,,,,,,'>
+9	pakA	VM	<fs af='pakA,v,any,any,any,,0,0'>
+10	leM	VAUX	<fs af='le,v,any,pl,1,,e,e'>
+11	.	SYM	<fs af='.,punc,,,,,,'>
+</Sentence>

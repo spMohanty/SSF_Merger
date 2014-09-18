@@ -1,0 +1,24 @@
+<Sentence id="1">
+1	kadZAhI	unk
+2	meM	unk
+3	wela	unk
+4	garma	unk
+5	karake	unk
+6	rAI	unk
+7	,	unk
+8	cane	unk
+9	Ora	unk
+10	udZaxa	unk
+11	((	NP	<fs etype='ne' esubtype='person'>
+11.1	xAla	unk	<fs etype='ne' esubtype='person'>
+	))
+12	,	unk
+13	((	NP	<fs etype='ne' esubtype='person'>
+13.1	bArIka	unk	<fs etype='ne' esubtype='person'>
+	))
+14	kate	unk
+15	pyAja	unk
+16	dAla	unk
+17	xeM	unk
+18	.	unk
+</Sentence>

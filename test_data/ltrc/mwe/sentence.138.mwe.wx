@@ -1,0 +1,25 @@
+<Sentence id="1">
+1	eka	QC	<fs af='eka,adj,any,any,,any,,'>
+2	kadZAhI	NN	<fs af='kadAhI,n,f,sg,,o,0,0'>
+3	meM	PSP	<fs af='meM,psp,,,,,,'>
+4	wela	NN	<fs af='wela,n,m,sg,3,d,0,0'>
+5	garama	JJ	<fs af='garama,adj,any,any,,any,,'>
+6	kara	VM	<fs af='kara,v,any,any,any,,0,0'>
+7	rola	NN	<fs af='rola,n,m,sg,3,o,0,0'>
+8	ko	PSP	<fs af='ko,psp,,,,,,'>
+9	xonoM	QC	<fs emph='y' af='xonoM,adj,any,pl,,d,,'>
+10	waraPa	NST	<fs af='waraPa,adv,,,,,,'>
+11	se	PSP	<fs af='se,psp,,,,,,'>
+12	aMgUTe	NN	<fs af='aMgUTA,n,m,sg,3,o,0,0'>
+13	se	PSP	<fs af='se,psp,,,,,,'>
+14	xabAkara	VM	<fs af='xabA,v,any,any,any,,kara,kara'>
+15	XImI	JJ	<fs af='XImI,adj,f,any,,any,,'>
+16	AMca	NN	<fs af='AMca,n,f,sg,3,o,0,0'>
+17	para	PSP	<fs af='para,psp,,,,,,'>
+18	gulAbI	JJ	<fs af='gulAbI,adj,any,any,,any,,'>
+19	-JOIN	SYM	<fs poslcat='NM' af='-OIN,unk,,,,,,'>
+20	sunaharA	JJ	<fs af='sunaharA,adj,m,sg,,d,,'>
+21	wala	NN	<fs af='wala,n,m,sg,3,d,0,0'>
+22	leM	VAUX	<fs af='le,v,any,pl,1,,e,e'>
+23	.	SYM	<fs af='.,punc,,,,,,'>
+</Sentence>

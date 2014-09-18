@@ -1,0 +1,11 @@
+<Sentence id="1">
+1	grAiMdara	unk
+2	meM	unk
+3	dAlakara	unk
+4	bArIka	unk
+5	((	NP	<fs etype='ne' esubtype='person'>
+5.1	pIsa	unk	<fs etype='ne' esubtype='person'>
+	))
+6	leM	unk
+7	.	unk
+</Sentence>

@@ -1,0 +1,19 @@
+<Sentence id="1">
+1	cane	VM	<fs poslcat='NM' af='canA,n,m,pl,3,d,0,0'>
+2	jaba	PRP	<fs poslcat='NM' af='jaba,adv,,,,,,'>
+3	acCI	JJ	<fs af='acCI,adj,f,any,,any,,'>
+4	waraha	NN	<fs af='waraha,n,m,sg,3,d,0,0'>
+5	gala	NNPC	<fs poslcat='NM' af='gala,v,any,any,any,,0,0'>
+6	jAeM	VAUX	<fs af='jA,v,any,pl,1,,e,e'>
+7	waba	PRP	<fs poslcat='NM' af='waba,adv,,,,,,'>
+8	eka	QC	<fs af='eka,adj,any,any,,any,,'>
+9	BArI	JJ	<fs af='BArI,adj,any,any,,any,,'>
+10	wale	NN	<fs af='walA,n,m,sg,3,o,0,0'>
+11	ke	PSP	<fs af='kA,psp,m,sg,,o,kA,kA'>
+12	pEna	NN	<fs af='pEna,n,m,sg,3,o,0,0'>
+13	meM	PSP	<fs af='meM,psp,,,,,,'>
+14	wela	NN	<fs af='wela,n,m,sg,3,d,0,0'>
+15	garma	NN	<fs poslcat='NM' af='garma,adj,any,any,,any,,'>
+16	kareM	VM	<fs af='kara,v,any,pl,1,,e,e'>
+17	.	SYM	<fs af='.,punc,,,,,,'>
+</Sentence>

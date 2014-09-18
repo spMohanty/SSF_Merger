@@ -1,0 +1,13 @@
+<Sentence id="1">
+1	ulata	NNC	<fs poslcat='NM' af='ulata,v,any,any,any,,0,0'>
+2	-JOIN	SYM	<fs poslcat='NM' af='-OIN,unk,,,,,,'>
+3	palata	VM	<fs af='palata,v,any,any,any,,0,0'>
+4	kara	VAUX	<fs af='kara,v,any,any,any,,0,0'>
+5	8-10	QC	<fs af='8-10,num,,,,,,'>
+6	minata	NN	<fs af='minata,n,m,sg,3,o,0,0'>
+7	waka	PSP	<fs af='waka,psp,,,,,,'>
+8	galane	VM	<fs af='gala,v,m,pl,any,,nA,nA'>
+9	waka	PSP	<fs af='waka,psp,,,,,,'>
+10	pakAeM	VM	<fs af='pakA,v,any,pl,1,,e,e'>
+11	.	SYM	<fs af='.,punc,,,,,,'>
+</Sentence>

@@ -1,0 +1,40 @@
+<Sentence id="1">
+1	pawalI	unk
+2	-JOIN	unk
+3	pawalI	unk
+4	pUrI	unk
+5	belakara	unk
+6	pahale	unk
+7	usameM	unk
+8	masAlA	unk
+9	cipaka	unk
+10	jAe	unk
+11	,	unk
+12	isake	unk
+13	lie	unk
+14	xahI	unk
+15	meM	unk
+16	namaka	unk
+17	dAlakara	unk
+18	PeMta	unk
+19	((	NP	<fs etype='ne' esubtype='person'>
+19.1	leM	unk	<fs etype='ne' esubtype='person'>
+	))
+20	va	unk
+21	((	NP	<fs etype='ne' esubtype='person'>
+21.1	belI	unk	<fs etype='ne' esubtype='person'>
+	))
+22	huI	unk
+23	pUrI	unk
+24	para	unk
+25	pahale	unk
+26	PeMtA	unk
+27	huA	unk
+28	xahI	unk
+29	saba	unk
+30	waraPa	unk
+31	acCI	unk
+32	waraha	unk
+33	lagAeM	unk
+34	.	unk
+</Sentence>

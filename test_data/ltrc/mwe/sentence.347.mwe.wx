@@ -1,0 +1,11 @@
+<Sentence id="1">
+1	Pira	RB	<fs af='Pira,adv,,,,,,'>
+2	namaka	JJ	<fs poslcat='NM' af='namaka,n,m,sg,3,d,0,0'>
+3	-JOIN	SYM	<fs poslcat='NM' af='-OIN,unk,,,,,,'>
+4	mirca	NNP	<fs af='mirca,n,f,sg,3,d,0,0'>
+5	va	CC	<fs af='va,avy,,,,,,'>
+6	jIrA	NN	<fs af='jIrA,n,m,sg,3,d,0,0'>
+7	pAvadara	NN	<fs af='pAvadara,n,m,sg,3,d,0,0'>
+8	dAleM	VM	<fs af='dAla,v,any,pl,1,,e,e'>
+9	.	SYM	<fs af='.,punc,,,,,,'>
+</Sentence>

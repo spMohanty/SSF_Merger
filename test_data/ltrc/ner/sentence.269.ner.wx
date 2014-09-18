@@ -1,0 +1,58 @@
+<Sentence id="1">
+1	eka	unk
+2	samawala	unk
+3	jagaha	unk
+4	((	NP	<fs etype='ne' esubtype='location'>
+4.1	para	unk	<fs etype='ne' esubtype='location'>
+	))
+5	eka	unk
+6	breda	unk
+7	raKeM	unk
+8	,	unk
+9	usa	unk
+10	para	unk
+11	((	NP	<fs etype='ne' esubtype='person'>
+11.1	harI	unk	<fs etype='ne' esubtype='person'>
+	))
+12	catanI	unk
+13	lagAeM	unk
+14	,	unk
+15	usa	unk
+16	para	unk
+17	xUsarI	unk
+18	breda	unk
+19	raKakara	unk
+20	AlU	unk
+21	kA	unk
+22	miSraNa	unk
+23	PElAeM	unk
+24	,	unk
+25	usa	unk
+26	para	unk
+27	wIsarI	unk
+28	breda	unk
+29	raKakara	unk
+30	tamAtara	unk
+31	sOYsa	unk
+32	lagAkara	unk
+33	cOWI	unk
+34	breda	unk
+35	se	unk
+36	DaMka	unk
+37	kara	unk
+38	sAvaXAnIpUrvaka	unk
+39	uTAkara	unk
+40	besana	unk
+41	ke	unk
+42	Gola	unk
+43	se	unk
+44	lapeteM	unk
+45	Ora	unk
+46	garama	unk
+47	wela	unk
+48	BUre	unk
+49	hone	unk
+50	waka	unk
+51	waleM	unk
+52	.	unk
+</Sentence>

@@ -1,0 +1,13 @@
+<Sentence id="1">
+1	AisiMga	NN	<fs poslcat='NM' af='AisiMga,unk,,,,,,'>
+2	se	PSP	<fs af='se,psp,,,,,,'>
+3	sajAkara	VM	<fs af='sajA,v,any,any,any,,kara,kara'>
+4	testI	NN	<fs poslcat='NM' af='testI,adj,any,any,,any,,'>
+5	potato	NNP	<fs poslcat='NM' af='potato,unk,,,,,,'>
+6	-JOIN	SYM	<fs poslcat='NM' af='-OIN,unk,,,,,,'>
+7	egja	NNPC	<fs poslcat='NM' af='egja,unk,,,,,,'>
+8	keka	NN	<fs af='keka,n,m,sg,3,d,0,0'>
+9	sarva	NN	<fs af='sarva,n,f,sg,3,d,0,0'>
+10	kareM	VM	<fs af='kara,v,any,pl,1,,e,e'>
+11	.	SYM	<fs af='.,punc,,,,,,'>
+</Sentence>

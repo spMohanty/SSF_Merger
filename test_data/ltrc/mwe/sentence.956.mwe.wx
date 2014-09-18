@@ -1,0 +1,13 @@
+<Sentence id="1">
+1	usameM	PRP	<fs af='vaha,pn,any,sg,3,o,meM,meM'>
+2	wejapawwA	NNP	<fs af='wejapawwA,n,m,sg,3,d,0,0'>
+3	,	SYM	<fs af='&comma,punc,,,,,,'>
+4	xAlacInI	NNP	<fs af='xAlacInI,n,f,sg,3,d,0,0'>
+5	,	SYM	<fs af='&comma,punc,,,,,,'>
+6	ilAyacI	NNP	<fs af='ilAyacI,n,f,sg,3,d,0,0'>
+7	va	CC	<fs af='va,avy,,,,,,'>
+8	lOMga	NN	<fs af='lOMga,n,f,sg,3,d,0,0'>
+9	dAlakara	VM	<fs af='dAla,v,any,any,any,,kara,kara'>
+10	hilAeM	VM	<fs af='hilA,v,any,pl,1,,e,e'>
+11	.	SYM	<fs af='.,punc,,,,,,'>
+</Sentence>

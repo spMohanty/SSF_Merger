@@ -1,0 +1,23 @@
+<Sentence id="1">
+1	moxaka	unk
+2	((	NP	<fs etype='ne' esubtype='location'>
+2.1	mahArARtra	unk	<fs etype='ne' esubtype='location'>
+	))
+3	meM	unk
+4	KAyA	unk
+5	jAne	unk
+6	vAlA	unk
+7	Ora	unk
+8	BagavAna	unk
+9	((	NP	<fs etype='ne' esubtype='abbreviation'>
+9.1	SrI	unk	<fs etype='ne' esubtype='abbreviation'>
+	))
+10	((	NP	<fs etype='ne' esubtype='person'>
+10.1	gaNeSa	unk	<fs etype='ne' esubtype='person'>
+	))
+11	kA	unk
+12	priya	unk
+13	vyaMjana	unk
+14	hE	unk
+15	.	unk
+</Sentence>

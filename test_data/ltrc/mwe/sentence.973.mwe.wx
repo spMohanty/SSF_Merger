@@ -1,0 +1,21 @@
+<Sentence id="1">
+1	PUlagoBI	NN	<fs af='PUlagoBI,n,f,sg,3,o,0,0'>
+2	ko	PSP	<fs af='ko,psp,,,,,,'>
+3	CotA	JJ	<fs af='CotA,adj,m,sg,,d,,'>
+4	-JOIN	SYM	<fs poslcat='NM' af='-OIN,unk,,,,,,'>
+5	CotA	JJ	<fs af='CotA,adj,m,sg,,d,,'>
+6	kAta	NNPC	<fs af='kAta,n,f,sg,3,d,0,0'>
+7	lIjie	VAUX	<fs hon='y' af='le,v,any,sg,2,,e,e'>
+8	Ora	CC	<fs af='Ora,avy,,,,,,'>
+9	ubalawe	VM	<fs af='ubala,v,m,pl,any,,wA,wA'>
+10	namakIna	JJ	<fs af='namakIna,adj,any,any,,any,,'>
+11	pAnI	NN	<fs af='pAnI,n,m,sg,3,o,0,0'>
+12	meM	PSP	<fs af='meM,psp,,,,,,'>
+13	eka	QC	<fs af='eka,adj,any,any,,any,,'>
+14	se	PSP	<fs af='se,psp,,,,,,'>
+15	xo	QC	<fs af='xo,adj,any,pl,,d,,'>
+16	minata	NN	<fs af='minata,n,m,sg,3,o,0,0'>
+17	waka	PSP	<fs af='waka,psp,,,,,,'>
+18	ubAleM	VM	<fs af='ubAla,v,any,pl,1,,e,e'>
+19	.	SYM	<fs af='.,punc,,,,,,'>
+</Sentence>

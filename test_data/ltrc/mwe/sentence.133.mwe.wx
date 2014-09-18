@@ -1,0 +1,16 @@
+<Sentence id="1">
+1	agara	CC	<fs af='agara,avy,,,,,,'>
+2	cAheM	VM	<fs af='cAha,v,any,pl,1,,e,e'>
+3	wo	RP	<fs af='wo,avy,,,,,,'>
+4	WodZI	QF	<fs af='WodZI,adj,f,any,,any,,'>
+5	sI	RP	<fs af='sI,avy,,,,,,'>
+6	Sakkara	NNP	<fs af='Sakkara,n,f,sg,3,d,0,0'>
+7	va	CC	<fs af='va,avy,,,,,,'>
+8	amacUra	JJ	<fs poslcat='NM' af='amacUra,n,m,sg,3,d,0,0'>
+9	pAvadara	NN	<fs af='pAvadara,n,m,sg,3,d,0,0'>
+10	BI	RP	<fs af='BI,avy,,,,,,'>
+11	dAla	VM	<fs af='dAla,v,any,any,any,,0,0'>
+12	sakawe	VAUX	<fs af='saka,v,m,pl,any,,wA,wA'>
+13	hEM	VAUX	<fs af='hE,v,any,pl,1,,hE,hE'>
+14	.	SYM	<fs af='.,punc,,,,,,'>
+</Sentence>

@@ -1,0 +1,10 @@
+<Sentence id="1">
+1	xo	unk
+2	kA	unk
+3	eka	unk
+4	((	NP	<fs etype='ne' esubtype='location'>
+4.1	seta	unk	<fs etype='ne' esubtype='location'>
+	))
+5	banegA	unk
+6	.	unk
+</Sentence>

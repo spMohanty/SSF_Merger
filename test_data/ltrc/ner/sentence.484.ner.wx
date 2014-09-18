@@ -1,0 +1,18 @@
+<Sentence id="1">
+1	eka	unk
+2	GaMte	unk
+3	bAxa	unk
+4	mExe	unk
+5	kI	unk
+6	badZI	unk
+7	loI	unk
+8	karake	unk
+9	pawalA	unk
+10	evaM	unk
+11	badZA	unk
+12	((	NP	<fs etype='ne' esubtype='location'>
+12.1	bela	unk	<fs etype='ne' esubtype='location'>
+	))
+13	leM	unk
+14	.	unk
+</Sentence>

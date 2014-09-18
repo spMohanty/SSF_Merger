@@ -1,0 +1,15 @@
+<Sentence id="1">			
+1	((	NP	
+1.1	nOYna	NNPC	<fs af='nOYna,unk,,,,,,' poslcat="NM">
+1.2	stika	NNC	<fs af='stika,unk,,,,,,' poslcat="NM">
+1.3	wave	NN	<fs af='wavA,n,m,sg,3,o,0,0'>
+1.4	meM	PSP	<fs af='meM,psp,,,,,,'>
+	))		
+2	((	NP	
+2.1	wala	NN	<fs af='wala,n,m,sg,3,d,0,0'>
+2.2	leM	VAUX	<fs af='le,v,any,pl,1,,e,e'>
+	))		
+3	((	BLK	
+3.1	.	SYM	<fs af='.,punc,,,,,,'>
+	))		
+</Sentence>			

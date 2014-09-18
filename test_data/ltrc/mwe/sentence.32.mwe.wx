@@ -1,0 +1,18 @@
+<Sentence id="1">
+1	aba	PRP	<fs poslcat='NM' af='aba,adv,,,,,,'>
+2	avana	NN	<fs af='avana,n,m,sg,3,o,0,0'>
+3	ko	PSP	<fs af='ko,psp,,,,,,'>
+4	200	QC	<fs af='200,num,,,,,,'>
+5	seMtIgreda	NN	<fs af='seMtIgreda,n,m,sg,3,o,0,0'>
+6	para	PSP	<fs af='para,psp,,,,,,'>
+7	garama	JJ	<fs af='garama,adj,any,any,,any,,'>
+8	karake	VM	<fs af='karaka,v,any,sg,2,,e,e'>
+9	‍keka	NN	<fs af='karakA,n,m,sg,3,o,0,0'>
+10	ko	PSP	<fs af='ko,psp,,,,,,'>
+11	20	QC	<fs af='20,num,,,,,,'>
+12	minata	NN	<fs af='minata,n,m,sg,3,o,0,0'>
+13	waka	PSP	<fs af='waka,psp,,,,,,'>
+14	beka	NN	<fs poslcat='NM' af='beka,unk,,,,,,'>
+15	kareM	VM	<fs af='kara,v,any,pl,1,,e,e'>
+16	.	SYM	<fs af='.,punc,,,,,,'>
+</Sentence>

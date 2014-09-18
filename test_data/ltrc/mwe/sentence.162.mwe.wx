@@ -1,0 +1,15 @@
+<Sentence id="1">
+1	yaha	DEM	<fs af='yaha,pn,any,sg,3,d,0,0'>
+2	kacorI	NN	<fs af='kacorI,n,f,sg,3,d,0,0'>
+3	cAra	QC	<fs af='cAra,adj,any,pl,,d,,'>
+4	xina	NN	<fs af='xina,n,m,sg,3,o,0,0'>
+5	ke	PSP	<fs af='kA,psp,m,sg,,o,kA,kA'>
+6	lie	PSP	<fs af='lie,psp,,,,,,'>
+7	raKane	VM	<fs af='raKa,v,m,pl,any,,nA,nA'>
+8	para	PSP	<fs af='para,psp,,,,,,'>
+9	BI	RP	<fs af='BI,avy,,,,,,'>
+10	KarAba	JJ	<fs af='KarAba,adj,any,any,,any,,'>
+11	nahIM	NEG	<fs af='nahIM,adv,,,,,,'>
+12	howI	VM	<fs af='ho,v,f,sg,any,,wA,wA'>
+13	.	SYM	<fs af='.,punc,,,,,,'>
+</Sentence>

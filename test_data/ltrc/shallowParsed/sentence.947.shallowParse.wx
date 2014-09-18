@@ -1,0 +1,64 @@
+<Sentence id="1">			
+1	((	NP	
+1.1	aba	PRP	<fs af='aba,adv,,,,,,' poslcat="NM">
+	))		
+2	((	NP	
+2.1	kadZAhI	NN	<fs af='kadAhI,n,f,sg,,o,0,0'>
+2.2	meM	PSP	<fs af='meM,psp,,,,,,'>
+	))		
+3	((	VGF	
+3.1	bacA	VM	<fs af='bacA,v,any,any,any,,0,0'>
+3.2	huA	VAUX	<fs af='ho,v,m,sg,any,,yA,yA'>
+3.3	GI	VAUX	<fs af='GI,n,m,sg,3,d,0,0' poslcat="NM">
+	))		
+4	((	VGNN	
+4.1	dAlakara	VM	<fs af='dAla,v,any,any,any,,kara,kara'>
+	))		
+5	((	JJP	
+5.1	garama	JJ	<fs af='garama,adj,any,any,,any,,'>
+	))		
+6	((	VGF	
+6.1	kareM	VM	<fs af='kara,v,any,pl,1,,e,e'>
+	))		
+7	((	NP	
+7.1	aba	PRP	<fs af='aba,adv,,,,,,' poslcat="NM">
+	))		
+8	((	NP	
+8.1	isameM	PRP	<fs af='yaha,pn,any,sg,3,o,meM,meM'>
+	))		
+9	((	NP	
+9.1	grAiMdara	NN	<fs af='grAiMdara,unk,,,,,,' poslcat="NM">
+9.2	meM	PSP	<fs af='meM,psp,,,,,,'>
+	))		
+10	((	VGNF	
+10.1	pisI	VM	<fs af='pisa,v,f,sg,any,,yA,yA'>
+	))		
+11	((	VGNF	
+11.1	huI	VM	<fs af='ho,v,f,sg,any,,yA,yA'>
+	))		
+12	((	NP	
+12.1	grevI	NNPC	<fs af='grevI,unk,,,,,,' poslcat="NM">
+	))		
+13	((	VGF	
+13.1	dAla	VM	<fs af='dAla,v,any,any,any,,0,0'>
+13.2	xeM	VAUX	<fs af='xe,v,any,pl,1,,e,e'>
+13.3	,	SYM	<fs af='&comma,punc,,,,,,'>
+	))		
+14	((	NP	
+14.1	grevI	NNP	<fs af='grevI,unk,,,,,,' poslcat="NM">
+14.2	ko	PSP	<fs af='ko,psp,,,,,,'>
+	))		
+15	((	NP	
+15.1	gADZA	NN	<fs af='gADZA,n,m,sg,3,d,0,0'>
+	))		
+16	((	VGNN	
+16.1	hone	VM	<fs af='ho,v,m,pl,any,,nA,nA'>
+16.2	waka	PSP	<fs af='waka,psp,,,,,,'>
+	))		
+17	((	VGF	
+17.1	pakAye	VM	<fs af='pakA,v,any,sg,2,,e,e'>
+	))		
+18	((	BLK	
+18.1	.	SYM	<fs af='.,punc,,,,,,'>
+	))		
+</Sentence>			

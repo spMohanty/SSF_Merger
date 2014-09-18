@@ -1,0 +1,23 @@
+<Sentence id="1">
+1	isameM	unk
+2	namaka	unk
+3	,	unk
+4	halxI	unk
+5	,	unk
+6	hIMga	unk
+7	,	unk
+8	PrUta	unk
+9	((	NP	<fs etype='ne' esubtype='location'>
+9.1	sOYlta	unk	<fs etype='ne' esubtype='location'>
+	))
+10	,	unk
+11	((	NP	<fs etype='ne' esubtype='location'>
+11.1	nIMbU	unk	<fs etype='ne' esubtype='location'>
+	))
+12	kA	unk
+13	rasa	unk
+14	Ora	unk
+15	pAnI	unk
+16	milAeM	unk
+17	.	unk
+</Sentence>

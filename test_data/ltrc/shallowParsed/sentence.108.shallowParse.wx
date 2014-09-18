@@ -1,0 +1,23 @@
+<Sentence id="1">			
+1	((	NP	
+1.1	xonoM	QC	<fs af='xonoM,adj,any,pl,,d,,' emph='y'>
+1.2	waraPa	NST	<fs af='waraPa,adv,,,,,,'>
+1.3	se	PSP	<fs af='se,psp,,,,,,'>
+	))		
+2	((	NP	
+2.1	kurakure	NN	<fs af='kurakurA,n,m,pl,3,d,0,0'>
+	))		
+3	((	VGNN	
+3.1	hone	VM	<fs af='ho,v,m,pl,any,,nA,nA'>
+	))		
+4	((	JJP	
+4.1	‍waka	JJ	<fs af='ho,v,m,pl,any,,nA,nA' poslcat="NM">
+	))		
+5	((	NP	
+5.1	seMka	NN	<fs af='seMka,v,any,any,any,,0,0' poslcat="NM">
+5.2	leM	VAUX	<fs af='le,v,any,pl,1,,e,e'>
+	))		
+6	((	BLK	
+6.1	.	SYM	<fs af='.,punc,,,,,,'>
+	))		
+</Sentence>			

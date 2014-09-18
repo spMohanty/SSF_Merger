@@ -1,0 +1,10 @@
+<Sentence id="1">
+1	1.	NNPC	<fs poslcat='NM' af='1.,num,,,,,,'>
+2	eka	QC	<fs af='eka,adj,any,any,,any,,'>
+3	pEna	NN	<fs af='pEna,n,m,sg,3,o,0,0'>
+4	meM	PSP	<fs af='meM,psp,,,,,,'>
+5	makKana	NN	<fs af='makKana,n,m,sg,3,d,0,0'>
+6	dAlakara	VM	<fs af='dAla,v,any,any,any,,kara,kara'>
+7	piGalAeM	VM	<fs af='piGalA,v,any,pl,1,,e,e'>
+8	.	SYM	<fs af='.,punc,,,,,,'>
+</Sentence>

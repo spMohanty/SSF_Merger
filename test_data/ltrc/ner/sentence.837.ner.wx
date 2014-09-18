@@ -1,0 +1,25 @@
+<Sentence id="1">
+1	aba	unk
+2	eka	unk
+3	((	NP	<fs etype='ne' esubtype='person'>
+3.1	pEna	unk	<fs etype='ne' esubtype='person'>
+	))
+4	meM	unk
+5	GI	unk
+6	garama	unk
+7	kara	unk
+8	usameM	unk
+9	tOYmeto	unk
+10	pyUrI	unk
+11	,	unk
+12	lAla	unk
+13	mirca	unk
+14	pAudara	unk
+15	,	unk
+16	cInI	unk
+17	Ora	unk
+18	namaka	unk
+19	dAla	unk
+20	xeM	unk
+21	.	unk
+</Sentence>

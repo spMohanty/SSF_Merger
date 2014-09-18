@@ -1,0 +1,13 @@
+<Sentence id="1">
+1	aba	unk
+2	tamAtara	unk
+3	,	unk
+4	axaraka	unk
+5	va	unk
+6	lahasuna	unk
+7	((	NP	<fs etype='ne' esubtype='person'>
+7.1	pIsa	unk	<fs etype='ne' esubtype='person'>
+	))
+8	leM	unk
+9	.	unk
+</Sentence>

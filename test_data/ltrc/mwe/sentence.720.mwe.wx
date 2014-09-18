@@ -1,0 +1,11 @@
+<Sentence id="1">
+1	XyAna	NN	<fs af='XyAna,n,m,sg,3,d,0,0'>
+2	rahe	VM	<fs af='raha,v,any,sg,2,,e,e'>
+3	,	SYM	<fs af='&comma,punc,,,,,,'>
+4	ve	PRP	<fs af='vaha,pn,any,pl,3,d,0,0'>
+5	nIce	NST	<fs af='nIce,adv,,,,,,'>
+6	se	PSP	<fs af='se,psp,,,,,,'>
+7	judZe	VM	<fs af='judZa,v,any,sg,2,,e,e'>
+8	raheM	VAUX	<fs af='raha,v,any,pl,1,,e,e'>
+9	.	SYM	<fs af='.,punc,,,,,,'>
+</Sentence>

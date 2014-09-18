@@ -1,0 +1,26 @@
+<Sentence id="1">
+1	wEyAra	JJ	<fs af='wEyAra,adj,any,any,,any,,'>
+2	kurakurI	NNP	<fs poslcat='NM' af='kurakurI,adj,f,any,,any,,'>
+3	evaM	CC	<fs af='evaM,avy,,,,,,'>
+4	lajIja	JJ	<fs af='lajIja,adj,any,any,,any,,'>
+5	pAlaka	JJ	<fs af='pAlaka,adj,any,any,,any,,'>
+6	pU‍rI	NNP	<fs poslcat='NM' af='pU,unk,,,,,,'>
+7	ko	PSP	<fs af='ko,psp,,,,,,'>
+8	harI	JJ	<fs af='harI,adj,f,any,,any,,'>
+9	catanI	NNP	<fs af='catanI,n,f,sg,3,d,0,0'>
+10	,	SYM	<fs af='&comma,punc,,,,,,'>
+11	nIMbU	NN	<fs af='nIMbU,n,m,sg,3,o,0,0'>
+12	kA	PSP	<fs af='kA,psp,m,sg,,d,kA,kA'>
+13	acAra	NN	<fs af='acAra,n,m,sg,3,d,0,0'>
+14	,	SYM	<fs af='&comma,punc,,,,,,'>
+15	aWavA	CC	<fs af='aWavA,avy,,,,,,'>
+16	garamA	NNC	<fs poslcat='NM' af='garamA,v,any,any,any,,0,0'>
+17	-JOIN	SYM	<fs poslcat='NM' af='-OIN,unk,,,,,,'>
+18	garama	JJ	<fs af='garama,adj,any,any,,any,,'>
+19	kaDZI	NNP	<fs poslcat='NM' af='kaDZa,v,f,sg,any,,yA,yA'>
+20	ke	PSP	<fs af='kA,psp,m,sg,,o,kA,kA'>
+21	sAWa	NST	<fs af='sAWa,adv,,,,,,'>
+22	sarva	NN	<fs af='sarva,n,f,sg,3,d,0,0'>
+23	kareM	VM	<fs af='kara,v,any,pl,1,,e,e'>
+24	.	SYM	<fs af='.,punc,,,,,,'>
+</Sentence>

@@ -1,0 +1,13 @@
+<Sentence id="1">
+1	eka	unk
+2	gahare	unk
+3	((	NP	<fs etype='ne' esubtype='person'>
+3.1	pEna	unk	<fs etype='ne' esubtype='person'>
+	))
+4	meM	unk
+5	wela	unk
+6	dAlakara	unk
+7	garma	unk
+8	kareM	unk
+9	.	unk
+</Sentence>

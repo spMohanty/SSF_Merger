@@ -1,0 +1,20 @@
+<Sentence id="1">
+1	garmAgarma	NN	<fs poslcat='NM' af='garmAgarma,adj,any,any,,any,,'>
+2	kabAba	NN	<fs af='kabAba,n,m,sg,3,d,0,0'>
+3	cAta	NN	<fs af='cAta,n,m,sg,3,d,0,0'>
+4	masAlA	NNPC	<fs af='masAlA,n,m,sg,3,d,0,0'>
+5	CidZakakara	VM	<fs af='CidZaka,v,any,any,any,,kara,kara'>
+6	,	SYM	<fs af='&comma,punc,,,,,,'>
+7	puxIne	NN	<fs af='puxInA,n,m,sg,3,o,0,0'>
+8	kI	PSP	<fs af='kA,psp,f,sg,,d,kA,kA'>
+9	catanI	NN	<fs af='catanI,n,f,sg,3,d,0,0'>
+10	Ora	CC	<fs af='Ora,avy,,,,,,'>
+11	katI	VM	<fs af='kata,v,f,sg,any,,yA,yA'>
+12	huI	VM	<fs af='ho,v,f,sg,any,,yA,yA'>
+13	pyAja	NN	<fs af='pyAja,n,f,sg,3,o,0,0'>
+14	ke	PSP	<fs af='kA,psp,m,sg,,o,kA,kA'>
+15	sAWa	NST	<fs af='sAWa,adv,,,,,,'>
+16	sarva	NN	<fs af='sarva,n,f,sg,3,d,0,0'>
+17	kareM	VM	<fs af='kara,v,any,pl,1,,e,e'>
+18	.	SYM	<fs af='.,punc,,,,,,'>
+</Sentence>

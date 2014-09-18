@@ -1,0 +1,23 @@
+<Sentence id="1">			
+1	((	RBP	
+1.1	Pira	RB	<fs af='Pira,adv,,,,,,'>
+	))		
+2	((	NP	
+2.1	AXe	QF	<fs af='AXA,adj,m,sg,,o,,'>
+2.2	GaMte	NN	<fs af='GaMtA,n,m,sg,3,o,0,0'>
+2.3	waka	PSP	<fs af='waka,psp,,,,,,'>
+	))		
+3	((	JJP	
+3.1	AXA	QF	<fs af='AXA,adj,m,sg,,d,,'>
+	))		
+4	((	VGNN	
+4.1	hone	VM	<fs af='ho,v,m,pl,any,,nA,nA'>
+4.2	waka	PSP	<fs af='waka,psp,,,,,,'>
+	))		
+5	((	VGF	
+5.1	pakAeM	VM	<fs af='pakA,v,any,pl,1,,e,e'>
+	))		
+6	((	BLK	
+6.1	.	SYM	<fs af='.,punc,,,,,,'>
+	))		
+</Sentence>			

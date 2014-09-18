@@ -1,0 +1,33 @@
+<Sentence id="1">			
+1	((	NP	
+1.1	aba	PRP	<fs af='aba,adv,,,,,,' poslcat="NM">
+	))		
+2	((	NP	
+2.1	usake	PRP	<fs af='vaha,pn,any,sg,3,o,kA,kA' agr_gen='m'  agr_cas='d'  agr_num='pl'>
+2.2	Upara	NST	<fs af='Upara,adv,,,,,,'>
+	))		
+3	((	NP	
+3.1	breda	NN	<fs af='breda,n,m,sg,3,o,0,0'>
+3.2	kI	PSP	<fs af='kA,psp,f,sg,,d,kA,kA'>
+	))		
+4	((	NP	
+4.1	wIsarI	QO	<fs af='wIsarI,adj,f,any,,any,,'>
+4.2	s‍lAisa	NN	<fs af='s,unk,,,,,,' poslcat="NM">
+	))		
+5	((	VGNF	
+5.1	raKakara	VM	<fs af='raKa,v,any,any,any,,kara,kara'>
+	))		
+6	((	NP	
+6.1	usa	PRP	<fs af='vaha,pn,any,sg,3,o,0,0'>
+6.2	para	PSP	<fs af='para,psp,,,,,,'>
+	))		
+7	((	NP	
+7.1	jEma	NN	<fs af='jEma,n,m,sg,3,d,0,0'>
+	))		
+8	((	VGF	
+8.1	lagAeM	VM	<fs af='lagA,v,any,pl,1,,e,e'>
+	))		
+9	((	BLK	
+9.1	.	SYM	<fs af='.,punc,,,,,,'>
+	))		
+</Sentence>			

@@ -1,0 +1,17 @@
+<Sentence id="1">
+1	((	NP	<fs etype='ne' esubtype='location'>
+1.1	pyAja	unk	<fs etype='ne' esubtype='location'>
+	))
+2	Ora	unk
+3	((	NP	<fs etype='ne' esubtype='location'>
+3.1	SimalA	unk	<fs etype='ne' esubtype='location'>
+	))
+4	mirca	unk
+5	laMbI	unk
+6	-JOIN	unk
+7	laMbI	unk
+8	mahIna	unk
+9	kAta	unk
+10	leM	unk
+11	.	unk
+</Sentence>

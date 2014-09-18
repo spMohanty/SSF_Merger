@@ -1,0 +1,16 @@
+<Sentence id="1">
+1	xUsare	QO	<fs af='xUsarA,adj,m,sg,,o,,'>
+2	BAga	NN	<fs af='BAga,n,m,sg,3,o,0,0'>
+3	meM	PSP	<fs af='meM,psp,,,,,,'>
+4	mITA	NNPC	<fs af='mITA,n,m,sg,3,d,0,0'>
+5	pIlA	NNP	<fs af='pIlA,n,m,sg,3,d,0,0'>
+6	va	CC	<fs af='va,avy,,,,,,'>
+7	wIsare	QO	<fs af='wIsarA,adj,m,sg,,o,,'>
+8	BAga	NN	<fs af='BAga,n,m,sg,3,o,0,0'>
+9	meM	PSP	<fs af='meM,psp,,,,,,'>
+10	harA	QF	<fs af='harA,adj,m,sg,,d,,'>
+11	raMga	NN	<fs af='raMga,n,m,sg,3,d,0,0'>
+12	milA	VM	<fs af='milA,v,any,any,any,,0,0'>
+13	leM	VAUX	<fs af='le,v,any,pl,1,,e,e'>
+14	.	SYM	<fs af='.,punc,,,,,,'>
+</Sentence>

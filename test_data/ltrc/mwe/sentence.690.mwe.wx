@@ -1,0 +1,15 @@
+<Sentence id="1">
+1	ise	PRP	<fs af='yaha,pn,any,sg,3,o,ko,ko'>
+2	barAbara	PSP	<fs poslcat='NM' af='barAbara,n,m,sg,3,d,0,0'>
+3	calAwI	VM	<fs af='calA,v,f,sg,any,,wA,wA'>
+4	raheM	VAUX	<fs af='raha,v,any,pl,1,,e,e'>
+5	,	SYM	<fs af='&comma,punc,,,,,,'>
+6	xo	QC	<fs af='xo,adj,any,pl,,d,,'>
+7	-JOIN	SYM	<fs poslcat='NM' af='-OIN,unk,,,,,,'>
+8	wIna	QC	<fs af='wIna,adj,any,pl,,d,,'>
+9	minata	NN	<fs af='minata,n,m,sg,3,o,0,0'>
+10	meM	PSP	<fs af='meM,psp,,,,,,'>
+11	uwAra	VM	<fs af='uwAra,v,any,any,any,,0,0'>
+12	leM	VAUX	<fs af='le,v,any,pl,1,,e,e'>
+13	.	SYM	<fs af='.,punc,,,,,,'>
+</Sentence>

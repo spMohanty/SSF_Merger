@@ -1,0 +1,25 @@
+<Sentence id="1">			
+1	((	NP	
+1.1	Dakkana	NN	<fs af='Dakkana,n,m,sg,3,d,0,0'>
+	))		
+2	((	VGNF	
+2.1	lagAkara	VM	<fs af='lagA,v,any,any,any,,kara,kara'>
+	))		
+3	((	NP	
+3.1	5	QC	<fs af='5,num,,,,,,'>
+3.2	se	PSP	<fs af='se,psp,,,,,,'>
+	))		
+4	((	NP	
+4.1	7	QC	<fs af='7,num,,,,,,'>
+4.2	minata	NN	<fs af='minata,n,m,sg,3,d,0,0'>
+	))		
+5	((	CCP	
+5.1	Ora	CC	<fs af='Ora,avy,,,,,,'>
+	))		
+6	((	VGF	
+6.1	pakAeM	VM	<fs af='pakA,v,any,pl,1,,e,e'>
+	))		
+7	((	BLK	
+7.1	.	SYM	<fs af='.,punc,,,,,,'>
+	))		
+</Sentence>			

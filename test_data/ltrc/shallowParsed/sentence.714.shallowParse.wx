@@ -1,0 +1,40 @@
+<Sentence id="1">			
+1	((	NP	
+1.1	bIca	NST	<fs af='bIca,adv,,,,,,'>
+1.2	-JOIN	SYM	<fs af='-OIN,unk,,,,,,' poslcat="NM">
+1.3	bIca	NST	<fs af='bIca,adv,,,,,,'>
+1.4	meM	PSP	<fs af='meM,psp,,,,,,'>
+	))		
+2	((	VGF	
+2.1	calAwe	VM	<fs af='calA,v,m,pl,any,,wA,wA'>
+2.2	raheM	VAUX	<fs af='raha,v,any,pl,1,,e,e'>
+	))		
+3	((	CCP	
+3.1	Ora	CC	<fs af='Ora,avy,,,,,,'>
+	))		
+4	((	NP	
+4.1	namaka	NN	<fs af='namaka,n,m,sg,3,d,0,0'>
+	))		
+5	((	CCP	
+5.1	Ora	CC	<fs af='Ora,avy,,,,,,'>
+	))		
+6	((	NP	
+6.1	amacUra	JJ	<fs af='amacUra,n,m,sg,3,d,0,0' poslcat="NM">
+6.2	pAudara	NN	<fs af='pAudara,n,m,sg,3,d,0,0'>
+	))		
+7	((	VGNF	
+7.1	dAlakara	VM	<fs af='dAla,v,any,any,any,,kara,kara'>
+	))		
+8	((	NP	
+8.1	2	QC	<fs af='2,num,,,,,,'>
+8.2	minata	NN	<fs af='minata,n,m,sg,3,o,0,0'>
+8.3	waka	PSP	<fs af='waka,psp,,,,,,'>
+	))		
+9	((	VGF	
+9.1	pakane	VM	<fs af='paka,v,m,pl,any,,nA,nA'>
+9.2	xeM	VAUX	<fs af='xe,v,any,pl,1,,e,e'>
+	))		
+10	((	BLK	
+10.1	.	SYM	<fs af='.,punc,,,,,,'>
+	))		
+</Sentence>			

@@ -1,0 +1,19 @@
+<Sentence id="1">
+1	kAle	JJ	<fs af='kAlA,adj,m,sg,,o,,'>
+2	cano	NN	<fs poslcat='NM' af='cano,unk,,,,,,'>
+3	ko	PSP	<fs af='ko,psp,,,,,,'>
+4	sAPa	JJ	<fs af='sAPa,adj,any,any,,any,,'>
+5	karake	VM	<fs af='karaka,v,any,sg,2,,e,e'>
+6	Xo	VM	<fs af='Xo,v,any,any,any,,0,0'>
+7	lIjiye	VM	<fs hon='y' af='le,v,any,sg,2,,e,e'>
+8	Ora	CC	<fs af='Ora,avy,,,,,,'>
+9	5	QC	<fs af='5,num,,,,,,'>
+10	GaMte	NN	<fs af='GaMtA,n,m,sg,3,o,0,0'>
+11	ke	PSP	<fs af='kA,psp,m,sg,,o,kA,kA'>
+12	lie	PSP	<fs af='lie,psp,,,,,,'>
+13	pAnI	NN	<fs af='pAnI,n,m,sg,3,o,0,0'>
+14	meM	PSP	<fs af='meM,psp,,,,,,'>
+15	Bigo	VM	<fs af='Bigo,v,any,any,any,,0,0'>
+16	xeM	VM	<fs af='xe,v,any,pl,1,,e,e'>
+17	.	SYM	<fs af='.,punc,,,,,,'>
+</Sentence>

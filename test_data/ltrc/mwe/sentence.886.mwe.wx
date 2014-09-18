@@ -1,0 +1,18 @@
+<Sentence id="1">
+1	jaba	PRP	<fs poslcat='NM' af='jaba,adv,,,,,,'>
+2	SimalA	NNP	<fs af='SimalA,n,m,sg,3,d,0,0'>
+3	mirca	NNPC	<fs af='mirca,n,f,sg,3,d,0,0'>
+4	gala	NNPC	<fs poslcat='NM' af='gala,v,any,any,any,,0,0'>
+5	jAye	VAUX	<fs af='jA,v,any,sg,2,,e,e'>
+6	AMca	NN	<fs af='AMca,n,f,sg,3,o,0,0'>
+7	se	PSP	<fs af='se,psp,,,,,,'>
+8	uwArakara	VM	<fs af='uwAra,v,any,any,any,,kara,kara'>
+9	nAna	NN	<fs af='nAna,n,m,sg,3,d,0,0'>
+10	yA	CC	<fs af='yA,avy,,,,,,'>
+11	parATe	NN	<fs af='parATA,n,m,sg,3,o,0,0'>
+12	ke	PSP	<fs af='kA,psp,m,sg,,o,kA,kA'>
+13	sAWa	NST	<fs af='sAWa,adv,,,,,,'>
+14	sarva	NN	<fs af='sarva,n,f,sg,3,d,0,0'>
+15	kareM	VM	<fs af='kara,v,any,pl,1,,e,e'>
+16	.	SYM	<fs af='.,punc,,,,,,'>
+</Sentence>

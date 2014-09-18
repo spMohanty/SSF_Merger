@@ -1,0 +1,26 @@
+<Sentence id="1">
+1	aba	unk
+2	wEyAra	unk
+3	keka	unk
+4	para	unk
+5	AisiMga	unk
+6	Sugara	unk
+7	kI	unk
+8	sahAyawA	unk
+9	se	unk
+10	((	NP	<fs etype='ne' esubtype='person'>
+10.1	liKeM	unk	<fs etype='ne' esubtype='person'>
+	))
+11	Ora	unk
+12	((	NP	<fs etype='ne' esubtype='person'>
+12.1	raMgabiraMgI	unk	<fs etype='ne' esubtype='person'>
+12.2	jemsa	unk	<fs etype='ne' esubtype='person'>
+	))
+13	kI	unk
+14	goliyAz	unk
+15	cipakA	unk
+16	kara	unk
+17	sajA	unk
+18	xeM	unk
+19	.	unk
+</Sentence>

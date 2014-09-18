@@ -1,0 +1,25 @@
+<Sentence id="1">
+1	wawpaScAwa	JJ	<fs poslcat='NM' af='wawpaScAwa,adv,,,,,,'>
+2	inakI	PRP	<fs agr_num='sg' agr_cas='d' agr_gen='f' af='yaha,pn,any,pl,3,o,kA,kA'>
+3	CotI	JJ	<fs af='CotI,adj,f,any,,any,,'>
+4	-JOIN	SYM	<fs poslcat='NM' af='-OIN,unk,,,,,,'>
+5	CotI	JJ	<fs af='CotI,adj,f,any,,any,,'>
+6	tikiyA	NNP	<fs af='tikiyA,n,f,sg,3,d,0,0'>
+7	banAkara	VM	<fs af='banA,v,any,any,any,,kara,kara'>
+8	dIpa	NNPC	<fs poslcat='NM' af='dIpa,adj,any,any,,any,,'>
+9	PrAI	VM	<fs poslcat='NM' af='PrAI,n,m,sg,3,d,0,0'>
+10	aWavA	CC	<fs af='aWavA,avy,,,,,,'>
+11	wave	PRP	<fs poslcat='NM' af='wavA,n,m,sg,3,o,0,0'>
+12	para	PSP	<fs af='para,psp,,,,,,'>
+13	wela	NN	<fs af='wela,n,m,sg,3,d,0,0'>
+14	lagAkara	VM	<fs af='lagA,v,any,any,any,,kara,kara'>
+15	xonoM	QC	<fs emph='y' af='xonoM,adj,any,pl,,d,,'>
+16	waraPa	NST	<fs af='waraPa,adv,,,,,,'>
+17	se	PSP	<fs af='se,psp,,,,,,'>
+18	kurakurI	NN	<fs poslcat='NM' af='kurakurI,adj,f,any,,any,,'>
+19	hone	VM	<fs af='ho,v,m,pl,any,,nA,nA'>
+20	‍waka	JJ	<fs poslcat='NM' af='ho,v,m,pl,any,,nA,nA'>
+21	seMka	NN	<fs poslcat='NM' af='seMka,v,any,any,any,,0,0'>
+22	leM	VAUX	<fs af='le,v,any,pl,1,,e,e'>
+23	.	SYM	<fs af='.,punc,,,,,,'>
+</Sentence>

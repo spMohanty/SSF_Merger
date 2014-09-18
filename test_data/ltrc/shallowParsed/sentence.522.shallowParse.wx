@@ -1,0 +1,28 @@
+<Sentence id="1">			
+1	((	NP	
+1.1	WodZe	QF	<fs af='WodZA,adj,m,sg,,o,,'>
+1.2	se	PSP	<fs af='se,psp,,,,,,'>
+	))		
+2	((	NP	
+2.1	wela	NN	<fs af='wela,n,m,sg,3,o,0,0'>
+2.2	ko	PSP	<fs af='ko,psp,,,,,,'>
+	))		
+3	((	NP	
+3.1	pEna	NN	<fs af='pEna,n,m,sg,3,o,0,0'>
+3.2	se	PSP	<fs af='se,psp,,,,,,'>
+	))		
+4	((	VGNF	
+4.1	lekara	VM	<fs af='le,v,any,any,any,,kara,kara'>
+	))		
+5	((	NP	
+5.1	tamAtara	NN	<fs af='tamAtara,n,m,sg,3,o,0,0'>
+5.2	para	PSP	<fs af='para,psp,,,,,,'>
+	))		
+6	((	VGF	
+6.1	dAla	VM	<fs af='dAla,v,any,any,any,,0,0'>
+6.2	xeM	VAUX	<fs af='xe,v,any,pl,1,,e,e'>
+	))		
+7	((	BLK	
+7.1	.	SYM	<fs af='.,punc,,,,,,'>
+	))		
+</Sentence>			

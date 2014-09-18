@@ -1,0 +1,50 @@
+<Sentence id="1">
+1	kadZAhI	unk
+2	ko	unk
+3	gEsa	unk
+4	para	unk
+5	raKeM	unk
+6	,	unk
+7	usameM	unk
+8	xo	unk
+9	cammaca	unk
+10	wela	unk
+11	raKakara	unk
+12	sOMPa	unk
+13	va	unk
+14	hIMga	unk
+15	kA	unk
+16	baGAra	unk
+17	xekara	unk
+18	axaraka	unk
+19	-JOIN	unk
+20	lahasuna	unk
+21	kA	unk
+22	pesta	unk
+23	dAlakara	unk
+24	halkA	unk
+25	-JOIN	unk
+26	sA	unk
+27	seMkeM	unk
+28	va	unk
+29	pisI	unk
+30	huI	unk
+31	((	NP	<fs etype='ne' esubtype='person'>
+31.1	xAla	unk	<fs etype='ne' esubtype='person'>
+	))
+32	va	unk
+33	((	NP	<fs etype='ne' esubtype='person'>
+33.1	saBI	unk	<fs etype='ne' esubtype='person'>
+	))
+34	masAle	unk
+35	dAlakara	unk
+36	XImI	unk
+37	AMca	unk
+38	para	unk
+39	halkA	unk
+40	gulAbI	unk
+41	hone	unk
+42	waka	unk
+43	sekeM	unk
+44	.	unk
+</Sentence>

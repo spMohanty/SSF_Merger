@@ -1,0 +1,33 @@
+<Sentence id="1">
+1	aba	unk
+2	keka	unk
+3	ke	unk
+4	miSraNa	unk
+5	ko	unk
+6	gEsa	unk
+7	((	NP	<fs etype='ne' esubtype='person'>
+7.1	avana	unk	<fs etype='ne' esubtype='person'>
+	))
+8	meM	unk
+9	45	unk
+10	minata	unk
+11	yA	unk
+12	mAikroveva	unk
+13	((	NP	<fs etype='ne' esubtype='person'>
+13.1	avana	unk	<fs etype='ne' esubtype='person'>
+	))
+14	meM	unk
+15	20	unk
+16	minata	unk
+17	((	NP	<fs etype='ne' esubtype='person'>
+17.1	brAuna	unk	<fs etype='ne' esubtype='person'>
+	))
+18	hone	unk
+19	waka	unk
+20	((	NP	<fs etype='ne' esubtype='person'>
+20.1	beka	unk	<fs etype='ne' esubtype='person'>
+	))
+21	kara	unk
+22	leM	unk
+23	.	unk
+</Sentence>

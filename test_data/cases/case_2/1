@@ -1,0 +1,12 @@
+<Sentence id="1">
+1	((	NP	<fs etype='ne'>
+1.1 	राम 	NNP	<fs etype='ne'>
+1.2	के	PSP	<fs etype='ne'>
+1.3	नाम	NN	<fs etype='ne'>
+	))
+2	डाक्यूमैंट्री	NN	<fs>
+3	बहुत	INTF	<fs>
+4	प्रसिद्ध	JJ	<fs>
+5	है	VM    	<fs>
+
+</Sentence>

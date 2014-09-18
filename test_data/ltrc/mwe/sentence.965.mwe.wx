@@ -1,0 +1,14 @@
+<Sentence id="1">
+1	isake	PRP	<fs agr_num='pl' agr_cas='d' agr_gen='m' af='yaha,pn,any,sg,3,o,kA,kA'>
+2	bAxa	NST	<fs af='bAxa,adv,,,,,,'>
+3	pyAja	NN	<fs af='pyAja,n,f,sg,3,d,0,0'>
+4	,	SYM	<fs af='&comma,punc,,,,,,'>
+5	axaraka	NN	<fs af='axaraka,n,m,sg,3,d,0,0'>
+6	Ora	CC	<fs af='Ora,avy,,,,,,'>
+7	harA	NNPC	<fs af='harA,n,m,sg,3,d,0,0'>
+8	XaniyA	NNP	<fs af='XaniyA,n,f,sg,3,d,0,0'>
+9	BI	RP	<fs af='BI,avy,,,,,,'>
+10	kAta	VM	<fs af='kAta,v,any,any,any,,0,0'>
+11	leM	VAUX	<fs af='le,v,any,pl,1,,e,e'>
+12	.	SYM	<fs af='.,punc,,,,,,'>
+</Sentence>

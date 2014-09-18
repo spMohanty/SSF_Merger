@@ -1,0 +1,11 @@
+<Sentence id="1">
+1	jIrA	unk
+2	-JOIN	unk
+3	ajavAina	unk
+4	ko	unk
+5	((	NP	<fs etype='ne' esubtype='person'>
+5.1	pIsa	unk	<fs etype='ne' esubtype='person'>
+	))
+6	leM	unk
+7	.	unk
+</Sentence>

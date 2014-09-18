@@ -1,0 +1,27 @@
+<Sentence id="1">
+1	aba	PRP	<fs poslcat='NM' af='aba,adv,,,,,,'>
+2	kisI	PRP	<fs af='koI,pn,any,sg,3,o,0,0'>
+3	pleta	NN	<fs af='pleta,n,f,sg,3,o,0,0'>
+4	meM	PSP	<fs af='meM,psp,,,,,,'>
+5	eka	QC	<fs af='eka,adj,any,any,,any,,'>
+6	breda	NNC	<fs af='breda,n,m,sg,3,d,0,0'>
+7	raKeM	VM	<fs af='raKa,v,any,pl,1,,e,e'>
+8	,	SYM	<fs af='&comma,punc,,,,,,'>
+9	usa	PRP	<fs af='vaha,pn,any,sg,3,o,0,0'>
+10	para	PSP	<fs af='para,psp,,,,,,'>
+11	Ama	NN	<fs af='Ama,n,m,sg,3,o,0,0'>
+12	kA	PSP	<fs af='kA,psp,m,sg,,d,kA,kA'>
+13	miSraNa	NN	<fs af='miSraNa,n,m,sg,3,d,0,0'>
+14	PElAeM	VM	<fs af='PElA,v,any,pl,1,,e,e'>
+15	,	SYM	<fs af='&comma,punc,,,,,,'>
+16	isa	PRP	<fs af='yaha,pn,any,sg,3,o,0,0'>
+17	para	PSP	<fs af='para,psp,,,,,,'>
+18	xUsarI	QO	<fs af='xUsarI,adj,f,any,,any,,'>
+19	breda	NN	<fs af='breda,n,m,sg,3,d,0,0'>
+20	raKakara	VM	<fs af='raKa,v,any,any,any,,kara,kara'>
+21	malAI	NN	<fs af='malAI,n,f,sg,3,o,0,0'>
+22	kA	PSP	<fs af='kA,psp,m,sg,,d,kA,kA'>
+23	miSraNa	NN	<fs af='miSraNa,n,m,sg,3,d,0,0'>
+24	PElAeM	VM	<fs af='PElA,v,any,pl,1,,e,e'>
+25	.	SYM	<fs af='.,punc,,,,,,'>
+</Sentence>

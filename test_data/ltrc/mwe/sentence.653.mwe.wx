@@ -1,0 +1,9 @@
+<Sentence id="1">
+1	isakI	PRP	<fs agr_num='sg' agr_cas='d' agr_gen='f' af='yaha,pn,any,sg,3,o,kA,kA'>
+2	CotI	JJ	<fs af='CotI,adj,f,any,,any,,'>
+3	goliyAM	NN	<fs af='golI,n,f,pl,3,d,0,0'>
+4	banA	VM	<fs af='banA,v,any,any,any,,0,0'>
+5	kara	VAUX	<fs af='kara,v,any,any,any,,0,0'>
+6	waleM	VAUX	<fs af='wala,v,any,pl,1,,e,e'>
+7	.	SYM	<fs af='.,punc,,,,,,'>
+</Sentence>

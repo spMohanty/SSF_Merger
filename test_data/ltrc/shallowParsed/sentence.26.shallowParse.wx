@@ -1,0 +1,21 @@
+<Sentence id="1">			
+1	((	NP	
+1.1	sarvapraWama	NNPC	<fs af='sarvapraWama,adv,,,,,,' poslcat="NM">
+1.2	mExA	NNP	<fs af='mExA,n,m,sg,3,d,0,0'>
+	))		
+2	((	CCP	
+2.1	va	CC	<fs af='va,avy,,,,,,'>
+	))		
+3	((	NP	
+3.1	bekiMga	JJ	<fs af='bekiMga,unk,,,,,,' poslcat="NM">
+3.2	pAvadara	NN	<fs af='pAvadara,n,m,sg,3,o,0,0'>
+3.3	ko	PSP	<fs af='ko,psp,,,,,,'>
+	))		
+4	((	VGF	
+4.1	CAna	VM	<fs af='CAna,v,any,any,any,,0,0'>
+4.2	leM	VAUX	<fs af='le,v,any,pl,1,,e,e'>
+	))		
+5	((	BLK	
+5.1	.	SYM	<fs af='.,punc,,,,,,'>
+	))		
+</Sentence>			

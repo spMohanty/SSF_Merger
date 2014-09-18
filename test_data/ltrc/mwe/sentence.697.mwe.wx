@@ -1,0 +1,13 @@
+<Sentence id="1">
+1	Pira	RB	<fs af='Pira,adv,,,,,,'>
+2	pisA	VM	<fs af='pisA,v,any,any,any,,0,0'>
+3	huA	VAUX	<fs af='ho,v,m,sg,any,,yA,yA'>
+4	garama	JJ	<fs af='garama,adj,any,any,,any,,'>
+5	masAlA	NN	<fs af='masAlA,n,m,sg,3,d,0,0'>
+6	dAlakara	VM	<fs af='dAla,v,any,any,any,,kara,kara'>
+7	2-3	QC	<fs af='2-3,num,,,,,,'>
+8	minata	NN	<fs af='minata,n,m,sg,3,o,0,0'>
+9	waka	PSP	<fs af='waka,psp,,,,,,'>
+10	BUneM	VM	<fs af='BUna,v,any,pl,1,,e,e'>
+11	.	SYM	<fs af='.,punc,,,,,,'>
+</Sentence>

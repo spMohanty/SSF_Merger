@@ -1,0 +1,9 @@
+<Sentence id="1">
+1	kAjU	NNPC	<fs af='kAjU,n,m,sg,3,d,0,0'>
+2	pesta	NN	<fs af='pesta,n,m,sg,3,d,0,0'>
+3	dAlakara	VM	<fs af='dAla,v,any,any,any,,kara,kara'>
+4	5-6	QC	<fs af='5-6,num,,,,,,'>
+5	minata	NN	<fs af='minata,n,m,sg,3,d,0,0'>
+6	pakAeM	VM	<fs af='pakA,v,any,pl,1,,e,e'>
+7	.	SYM	<fs af='.,punc,,,,,,'>
+</Sentence>

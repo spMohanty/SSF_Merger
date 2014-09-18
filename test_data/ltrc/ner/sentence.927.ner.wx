@@ -1,0 +1,29 @@
+<Sentence id="1">
+1	aba	unk
+2	soyA	unk
+3	((	NP	<fs etype='ne' esubtype='location'>
+3.1	sOYsa	unk	<fs etype='ne' esubtype='location'>
+	))
+4	,	unk
+5	((	NP	<fs etype='ne' esubtype='location'>
+5.1	spriMga	unk	<fs etype='ne' esubtype='location'>
+	))
+6	OYniyana	unk
+7	,	unk
+8	PrAida	unk
+9	panIra	unk
+10	Ora	unk
+11	Ora	unk
+12	2	unk
+13	kapa	unk
+14	pAnI	unk
+15	((	NP	<fs etype='ne' esubtype='person'>
+15.1	dAlakara	unk	<fs etype='ne' esubtype='person'>
+	))
+16	XImI	unk
+17	AMca	unk
+18	para	unk
+19	pakane	unk
+20	xeM	unk
+21	.	unk
+</Sentence>

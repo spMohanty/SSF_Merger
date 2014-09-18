@@ -1,0 +1,32 @@
+<Sentence id="1">			
+1	((	NP	
+1.1	xUsare	QO	<fs af='xUsarA,adj,m,sg,,o,,'>
+1.2	BAga	NN	<fs af='BAga,n,m,sg,3,o,0,0'>
+1.3	meM	PSP	<fs af='meM,psp,,,,,,'>
+	))		
+2	((	NP	
+2.1	mITA	NNPC	<fs af='mITA,n,m,sg,3,d,0,0'>
+2.2	pIlA	NNP	<fs af='pIlA,n,m,sg,3,d,0,0'>
+	))		
+3	((	CCP	
+3.1	va	CC	<fs af='va,avy,,,,,,'>
+	))		
+4	((	NP	
+4.1	wIsare	QO	<fs af='wIsarA,adj,m,sg,,o,,'>
+	))		
+5	((	NP	
+5.1	BAga	NN	<fs af='BAga,n,m,sg,3,o,0,0'>
+5.2	meM	PSP	<fs af='meM,psp,,,,,,'>
+	))		
+6	((	NP	
+6.1	harA	QF	<fs af='harA,adj,m,sg,,d,,'>
+6.2	raMga	NN	<fs af='raMga,n,m,sg,3,d,0,0'>
+	))		
+7	((	VGF	
+7.1	milA	VM	<fs af='milA,v,any,any,any,,0,0'>
+7.2	leM	VAUX	<fs af='le,v,any,pl,1,,e,e'>
+	))		
+8	((	BLK	
+8.1	.	SYM	<fs af='.,punc,,,,,,'>
+	))		
+</Sentence>			

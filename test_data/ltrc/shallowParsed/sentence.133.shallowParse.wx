@@ -1,0 +1,30 @@
+<Sentence id="1">			
+1	((	CCP	
+1.1	agara	CC	<fs af='agara,avy,,,,,,'>
+	))		
+2	((	VGNF	
+2.1	cAheM	VM	<fs af='cAha,v,any,pl,1,,e,e'>
+2.2	wo	RP	<fs af='wo,avy,,,,,,'>
+	))		
+3	((	NP	
+3.1	WodZI	QF	<fs af='WodZI,adj,f,any,,any,,'>
+3.2	sI	RP	<fs af='sI,avy,,,,,,'>
+3.3	Sakkara	NNP	<fs af='Sakkara,n,f,sg,3,d,0,0'>
+	))		
+4	((	CCP	
+4.1	va	CC	<fs af='va,avy,,,,,,'>
+	))		
+5	((	NP	
+5.1	amacUra	JJ	<fs af='amacUra,n,m,sg,3,d,0,0' poslcat="NM">
+5.2	pAvadara	NN	<fs af='pAvadara,n,m,sg,3,d,0,0'>
+5.3	BI	RP	<fs af='BI,avy,,,,,,'>
+	))		
+6	((	VGF	
+6.1	dAla	VM	<fs af='dAla,v,any,any,any,,0,0'>
+6.2	sakawe	VAUX	<fs af='saka,v,m,pl,any,,wA,wA'>
+6.3	hEM	VAUX	<fs af='hE,v,any,pl,1,,hE,hE'>
+	))		
+7	((	BLK	
+7.1	.	SYM	<fs af='.,punc,,,,,,'>
+	))		
+</Sentence>			

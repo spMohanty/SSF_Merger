@@ -1,0 +1,21 @@
+<Sentence id="1">
+1	acCI	unk
+2	waraha	unk
+3	Buna	unk
+4	jAne	unk
+5	((	NP	<fs etype='ne' esubtype='person'>
+5.1	para	unk	<fs etype='ne' esubtype='person'>
+	))
+6	,	unk
+7	((	NP	<fs etype='ne' esubtype='person'>
+7.1	harI	unk	<fs etype='ne' esubtype='person'>
+	))
+8	mirca	unk
+9	-JOIN	unk
+10	axaraka	unk
+11	kA	unk
+12	pesta	unk
+13	dAla	unk
+14	xeM	unk
+15	.	unk
+</Sentence>

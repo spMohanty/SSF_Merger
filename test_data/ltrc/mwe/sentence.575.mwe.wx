@@ -1,0 +1,12 @@
+<Sentence id="1">
+1	krIma	NNP	<fs af='krIma,n,f,sg,3,d,0,0'>
+2	,	SYM	<fs af='&comma,punc,,,,,,'>
+3	XaniyA	NNP	<fs af='XaniyA,n,f,sg,3,d,0,0'>
+4	,	SYM	<fs af='&comma,punc,,,,,,'>
+5	bAxAma	NN	<fs af='bAxAma,n,m,sg,3,o,0,0'>
+6	se	PSP	<fs af='se,psp,,,,,,'>
+7	sajAkara	VM	<fs af='sajA,v,any,any,any,,kara,kara'>
+8	sarva	NN	<fs af='sarva,n,f,sg,3,d,0,0'>
+9	kareM	VM	<fs af='kara,v,any,pl,1,,e,e'>
+10	.	SYM	<fs af='.,punc,,,,,,'>
+</Sentence>

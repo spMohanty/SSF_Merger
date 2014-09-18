@@ -1,0 +1,24 @@
+<Sentence id="1">
+1	sabase	unk
+2	pahale	unk
+3	cAvala	unk
+4	,	unk
+5	udZaxa	unk
+6	((	NP	<fs etype='ne' esubtype='person'>
+6.1	xAla	unk	<fs etype='ne' esubtype='person'>
+	))
+7	Ora	unk
+8	((	NP	<fs etype='ne' esubtype='person'>
+8.1	canA	unk	<fs etype='ne' esubtype='person'>
+8.2	xAla	unk	<fs etype='ne' esubtype='person'>
+	))
+9	ko	unk
+10	rAwa	unk
+11	Bara	unk
+12	pAnI	unk
+13	meM	unk
+14	Bigo	unk
+15	kara	unk
+16	raKeM	unk
+17	.	unk
+</Sentence>

@@ -1,0 +1,38 @@
+<Sentence id="1">			
+1	((	NP	
+1.1	jaba	PRP	<fs af='jaba,adv,,,,,,' poslcat="NM">
+	))		
+2	((	NP	
+2.1	matara	NN	<fs af='matara,n,f,sg,3,d,0,0'>
+	))		
+3	((	NP	
+3.1	gala	NNPC	<fs af='gala,v,any,any,any,,0,0' poslcat="NM">
+3.2	jAe	VAUX	<fs af='jA,v,any,sg,2,,e,e'>
+	))		
+4	((	CCP	
+4.1	va	CC	<fs af='va,avy,,,,,,'>
+	))		
+5	((	NP	
+5.1	grevI	NN	<fs af='grevI,unk,,,,,,' poslcat="NM">
+	))		
+6	((	NP	
+6.1	gADZI	NN	<fs af='gADI,adj,f,any,,any,,' poslcat="NM">
+	))		
+7	((	VGF	
+7.1	ho	VM	<fs af='ho,v,any,any,any,,0,0'>
+7.2	jAe	VAUX	<fs af='jA,v,any,sg,2,,e,e'>
+	))		
+8	((	NP	
+8.1	waba	PRP	<fs af='waba,adv,,,,,,' poslcat="NM">
+	))		
+9	((	NP	
+9.1	kesara	NN	<fs af='kesara,n,f,sg,3,d,0,0'>
+	))		
+10	((	VGF	
+10.1	dAla	VM	<fs af='dAla,v,any,any,any,,0,0'>
+10.2	xeM	VAUX	<fs af='xe,v,any,pl,1,,e,e'>
+	))		
+11	((	BLK	
+11.1	.	SYM	<fs af='.,punc,,,,,,'>
+	))		
+</Sentence>			

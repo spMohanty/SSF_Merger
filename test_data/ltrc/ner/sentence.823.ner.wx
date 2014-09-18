@@ -1,0 +1,30 @@
+<Sentence id="1">
+1	jaba	unk
+2	sAbuwa	unk
+3	garama	unk
+4	masAlA	unk
+5	Buna	unk
+6	jAye	unk
+7	wo	unk
+8	usameM	unk
+9	axaraka	unk
+10	-JOIN	unk
+11	lahasuna	unk
+12	kA	unk
+13	pesta	unk
+14	Ora	unk
+15	bArIka	unk
+16	((	NP	<fs etype='ne' esubtype='person'>
+16.1	katI	unk	<fs etype='ne' esubtype='person'>
+	))
+17	pyAja	unk
+18	dAlakara	unk
+19	halkI	unk
+20	((	NP	<fs etype='ne' esubtype='person'>
+20.1	brAuna	unk	<fs etype='ne' esubtype='person'>
+	))
+21	hone	unk
+22	wakaBUna	unk
+23	leM	unk
+24	.	unk
+</Sentence>

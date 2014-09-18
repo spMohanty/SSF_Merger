@@ -1,0 +1,17 @@
+<Sentence id="1">
+1	aba	PRP	<fs poslcat='NM' af='aba,adv,,,,,,'>
+2	Ate	NN	<fs af='AtA,n,m,sg,3,o,0,0'>
+3	kI	PSP	<fs af='kA,psp,f,sg,,d,kA,kA'>
+4	CotI	JJ	<fs af='CotI,adj,f,any,,any,,'>
+5	-JOIN	SYM	<fs poslcat='NM' af='-OIN,unk,,,,,,'>
+6	CotI	JJ	<fs af='CotI,adj,f,any,,any,,'>
+7	loI	VAUX	<fs poslcat='NM' af='loI,n,f,sg,3,d,0,0'>
+8	banA	VM	<fs af='banA,v,any,any,any,,0,0'>
+9	kara	VAUX	<fs af='kara,v,any,any,any,,0,0'>
+10	bela	NNC	<fs af='bela,n,f,sg,3,d,0,0'>
+11	leM	VAUX	<fs af='le,v,any,pl,1,,e,e'>
+12	Ora	CC	<fs af='Ora,avy,,,,,,'>
+13	masAlA	NN	<fs af='masAlA,n,m,sg,3,d,0,0'>
+14	Bare	VM	<fs af='Bara,v,any,sg,2,,e,e'>
+15	.	SYM	<fs af='.,punc,,,,,,'>
+</Sentence>

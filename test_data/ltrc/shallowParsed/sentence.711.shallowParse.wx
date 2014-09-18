@@ -1,0 +1,45 @@
+<Sentence id="1">			
+1	((	NP	
+1.1	jIrA	NN	<fs af='jIrA,n,m,sg,3,d,0,0'>
+	))		
+2	((	VGF	
+2.1	Buna	VM	<fs af='Buna,v,any,any,any,,0,0'>
+2.2	jAe	VAUX	<fs af='jA,v,any,sg,2,,e,e'>
+	))		
+3	((	CCP	
+3.1	wo	CC	<fs af='wo,avy,,,,,,'>
+	))		
+4	((	NP	
+4.1	usameM	PRP	<fs af='vaha,pn,any,sg,3,o,meM,meM'>
+	))		
+5	((	VGNF	
+5.1	katI	VM	<fs af='kata,v,f,sg,any,,yA,yA'>
+	))		
+6	((	VGF	
+6.1	huI	VM	<fs af='ho,v,f,sg,any,,yA,yA'>
+	))		
+7	((	NP	
+7.1	pyAja	NN	<fs af='pyAja,n,f,sg,3,d,0,0'>
+	))		
+8	((	CCP	
+8.1	Ora	CC	<fs af='Ora,avy,,,,,,'>
+	))		
+9	((	NP	
+9.1	harI	JJ	<fs af='harI,adj,f,any,,any,,'>
+9.2	mirca	NN	<fs af='mirca,n,f,sg,3,d,0,0'>
+	))		
+10	((	VGNF	
+10.1	dAlakara	VM	<fs af='dAla,v,any,any,any,,kara,kara'>
+	))		
+11	((	NP	
+11.1	30	QC	<fs af='30,num,,,,,,'>
+11.2	sekeMda	NN	<fs af='sekeMda,n,m,sg,3,o,0,0'>
+11.3	waka	PSP	<fs af='waka,psp,,,,,,'>
+	))		
+12	((	VGF	
+12.1	BUneM	VM	<fs af='BUna,v,any,pl,1,,e,e'>
+	))		
+13	((	BLK	
+13.1	.	SYM	<fs af='.,punc,,,,,,'>
+	))		
+</Sentence>			

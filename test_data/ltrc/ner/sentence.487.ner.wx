@@ -1,0 +1,25 @@
+<Sentence id="1">
+1	eka	unk
+2	-JOIN	unk
+3	eka	unk
+4	cammaca	unk
+5	BarAvana	unk
+6	eka	unk
+7	-JOIN	unk
+8	eka	unk
+9	((	NP	<fs etype='ne' esubtype='person'>
+9.1	pattI	unk	<fs etype='ne' esubtype='person'>
+	))
+10	ke	unk
+11	kone	unk
+12	para	unk
+13	raKakara	unk
+14	use	unk
+15	wrikoNa	unk
+16	ke	unk
+17	AkAra	unk
+18	meM	unk
+19	modZawe	unk
+20	jAeM	unk
+21	.	unk
+</Sentence>

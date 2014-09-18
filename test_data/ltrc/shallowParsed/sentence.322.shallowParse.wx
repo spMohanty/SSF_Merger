@@ -1,0 +1,12 @@
+<Sentence id="1">			
+1	((	NP	
+1.1	lahasuna	NNPC	<fs af='lahasuna,n,m,sg,3,d,0,0'>
+	))		
+2	((	VGF	
+2.1	CIla	VM	<fs af='CIla,v,any,any,any,,0,0'>
+2.2	leM	VAUX	<fs af='le,v,any,pl,1,,e,e'>
+	))		
+3	((	BLK	
+3.1	.	SYM	<fs af='.,punc,,,,,,'>
+	))		
+</Sentence>			

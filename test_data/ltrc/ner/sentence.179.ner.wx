@@ -1,0 +1,10 @@
+<Sentence id="1">
+1	TaMdA	unk
+2	hone	unk
+3	para	unk
+4	((	NP	<fs etype='ne' esubtype='person'>
+4.1	pIsa	unk	<fs etype='ne' esubtype='person'>
+	))
+5	leM	unk
+6	.	unk
+</Sentence>

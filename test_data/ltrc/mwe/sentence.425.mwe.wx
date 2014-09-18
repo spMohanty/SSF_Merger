@@ -1,0 +1,13 @@
+<Sentence id="1">
+1	manacAhe	JJ	<fs af='manacAhA,adj,m,sg,,o,,'>
+2	AkAra	NN	<fs af='AkAra,n,m,sg,3,o,0,0'>
+3	meM	PSP	<fs af='meM,psp,,,,,,'>
+4	CotI	JJ	<fs af='CotI,adj,f,any,,any,,'>
+5	-JOIN	SYM	<fs poslcat='NM' af='-OIN,unk,,,,,,'>
+6	CotI	JJ	<fs af='CotI,adj,f,any,,any,,'>
+7	capatI	NNPC	<fs af='capatI,n,f,sg,3,d,0,0'>
+8	tikiyAM	NN	<fs af='tikiyA,n,f,pl,3,d,0,0'>
+9	banA	VM	<fs af='banA,v,any,any,any,,0,0'>
+10	leM	VAUX	<fs af='le,v,any,pl,1,,e,e'>
+11	.	SYM	<fs af='.,punc,,,,,,'>
+</Sentence>

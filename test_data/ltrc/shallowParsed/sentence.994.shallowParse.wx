@@ -1,0 +1,18 @@
+<Sentence id="1">			
+1	((	NP	
+1.1	sarasoM	NN	<fs af='sarasoM,n,f,sg,3,o,0,0'>
+1.2	ke	PSP	<fs af='kA,psp,m,sg,,o,kA,kA'>
+	))		
+2	((	VGNF	
+2.1	xAne	VM	<fs af='xA,v,m,pl,any,,nA,nA'>
+	))		
+3	((	VGNF	
+3.1	dAlakara	VM	<fs af='dAla,v,any,any,any,,kara,kara'>
+	))		
+4	((	VGF	
+4.1	catakAeM	VM	<fs af='catakA,v,any,pl,1,,e,e'>
+	))		
+5	((	BLK	
+5.1	.	SYM	<fs af='.,punc,,,,,,'>
+	))		
+</Sentence>			

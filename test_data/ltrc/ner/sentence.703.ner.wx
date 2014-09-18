@@ -1,0 +1,17 @@
+<Sentence id="1">
+1	kapadZe	unk
+2	meM	unk
+3	((	NP	<fs etype='ne' esubtype='person'>
+3.1	dAlakara	unk	<fs etype='ne' esubtype='person'>
+	))
+4	pAnI	unk
+5	((	NP	<fs etype='ne' esubtype='person'>
+5.1	nicodZakara	unk	<fs etype='ne' esubtype='person'>
+	))
+6	pAlaka	unk
+7	((	NP	<fs etype='ne' esubtype='person'>
+7.1	pIsa	unk	<fs etype='ne' esubtype='person'>
+	))
+8	leM	unk
+9	.	unk
+</Sentence>

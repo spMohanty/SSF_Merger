@@ -1,0 +1,28 @@
+<Sentence id="1">			
+1	((	NP	
+1.1	acCI	JJ	<fs af='acCI,adj,f,any,,any,,'>
+1.2	waraha	NN	<fs af='waraha,n,m,sg,3,d,0,0'>
+	))		
+2	((	VGNF	
+2.1	milAkara	VM	<fs af='milA,v,any,any,any,,kara,kara'>
+	))		
+3	((	NP	
+3.1	5-7	QC	<fs af='5-7,num,,,,,,'>
+3.2	minata	NN	<fs af='minata,n,m,sg,3,o,0,0'>
+3.3	waka	PSP	<fs af='waka,psp,,,,,,'>
+	))		
+4	((	NP	
+4.1	XImI	JJ	<fs af='XImI,adj,f,any,,any,,'>
+4.2	AMca	NN	<fs af='AMca,n,f,sg,3,o,0,0'>
+4.3	para	PSP	<fs af='para,psp,,,,,,'>
+	))		
+5	((	VGNF	
+5.1	pakane	VM	<fs af='paka,v,m,pl,any,,nA,nA'>
+	))		
+6	((	VGF	
+6.1	xeM	VM	<fs af='xe,v,any,pl,1,,e,e'>
+	))		
+7	((	BLK	
+7.1	.	SYM	<fs af='.,punc,,,,,,'>
+	))		
+</Sentence>			

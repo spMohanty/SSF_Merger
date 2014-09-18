@@ -1,0 +1,36 @@
+<Sentence id="1">
+1	aba	unk
+2	((	NP	<fs etype='ne' esubtype='person'>
+2.1	pEna	unk	<fs etype='ne' esubtype='person'>
+	))
+3	meM	unk
+4	wela	unk
+5	garma	unk
+6	kareM	unk
+7	,	unk
+8	usameM	unk
+9	jIrA	unk
+10	dAleM	unk
+11	,	unk
+12	Pira	unk
+13	((	NP	<fs etype='ne' esubtype='person'>
+13.1	pEna	unk	<fs etype='ne' esubtype='person'>
+	))
+14	meM	unk
+15	kate	unk
+16	tamAtara	unk
+17	dAlakara	unk
+18	waleM	unk
+19	,	unk
+20	usameM	unk
+21	halxI	unk
+22	,	unk
+23	mirca	unk
+24	pAudara	unk
+25	dAlakara	unk
+26	acCI	unk
+27	waraha	unk
+28	BUna	unk
+29	leM	unk
+30	.	unk
+</Sentence>

@@ -1,0 +1,16 @@
+<Sentence id="1">
+1	garama	JJ	<fs af='garama,adj,any,any,,any,,'>
+2	masAlA	NN	<fs af='masAlA,n,m,sg,3,d,0,0'>
+3	Ora	CC	<fs af='Ora,avy,,,,,,'>
+4	katI	VM	<fs af='kata,v,f,sg,any,,yA,yA'>
+5	huI	VM	<fs af='ho,v,f,sg,any,,yA,yA'>
+6	harI	JJ	<fs af='harI,adj,f,any,,any,,'>
+7	XaniyA	NNP	<fs af='XaniyA,n,f,sg,3,o,0,0'>
+8	kI	PSP	<fs af='kA,psp,f,sg,,d,kA,kA'>
+9	pawwI	NN	<fs af='pawwI,n,f,sg,3,d,0,0'>
+10	milAkara	VM	<fs af='milA,v,any,any,any,,kara,kara'>
+11	garamAgarama	JJ	<fs af='garamAgarama,adj,any,any,,any,,'>
+12	sarva	NN	<fs af='sarva,n,f,sg,3,d,0,0'>
+13	kareM	VM	<fs af='kara,v,any,pl,1,,e,e'>
+14	.	SYM	<fs af='.,punc,,,,,,'>
+</Sentence>

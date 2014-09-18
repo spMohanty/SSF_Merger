@@ -1,0 +1,15 @@
+<Sentence id="1">
+1	panIra	NN	<fs af='panIra,n,m,sg,3,o,0,0'>
+2	ko	PSP	<fs af='ko,psp,,,,,,'>
+3	kisI	PRP	<fs af='koI,pn,any,sg,3,o,0,0'>
+4	katorI	NN	<fs af='katorI,n,f,sg,3,d,0,0'>
+5	yA	CC	<fs af='yA,avy,,,,,,'>
+6	Da1kana	NN	<fs poslcat='NM' af='Da1kana,unk,,,,,,'>
+7	se	PSP	<fs af='se,psp,,,,,,'>
+8	gola	NNC	<fs af='gola,n,m,sg,3,d,0,0'>
+9	-JOIN	SYM	<fs poslcat='NM' af='-OIN,unk,,,,,,'>
+10	gola	NN	<fs af='gola,n,m,sg,3,d,0,0'>
+11	kAta	VM	<fs af='kAta,v,any,any,any,,0,0'>
+12	leM	VAUX	<fs af='le,v,any,pl,1,,e,e'>
+13	.	SYM	<fs af='.,punc,,,,,,'>
+</Sentence>

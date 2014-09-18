@@ -1,0 +1,28 @@
+<Sentence id="1">
+1	sabase	unk
+2	pahale	unk
+3	Ate	unk
+4	meM	unk
+5	wela	unk
+6	,	unk
+7	namaka	unk
+8	((	NP	<fs etype='ne' esubtype='person'>
+8.1	dAlakara	unk	<fs etype='ne' esubtype='person'>
+	))
+9	pAnI	unk
+10	((	NP	<fs etype='ne' esubtype='person'>
+10.1	milAkara	unk	<fs etype='ne' esubtype='person'>
+	))
+11	mulAyama	unk
+12	gUMWa	unk
+13	leM	unk
+14	waWA	unk
+15	20-25	unk
+16	minata	unk
+17	ke	unk
+18	lie	unk
+19	DaMkakara	unk
+20	raKa	unk
+21	xeM	unk
+22	.	unk
+</Sentence>

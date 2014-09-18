@@ -1,0 +1,24 @@
+<Sentence id="1">
+1	garmAgarma	unk
+2	kabAba	unk
+3	cAta	unk
+4	masAlA	unk
+5	CidZakakara	unk
+6	,	unk
+7	puxIne	unk
+8	kI	unk
+9	((	NP	<fs etype='ne' esubtype='person'>
+9.1	catanI	unk	<fs etype='ne' esubtype='person'>
+	))
+10	Ora	unk
+11	((	NP	<fs etype='ne' esubtype='person'>
+11.1	katI	unk	<fs etype='ne' esubtype='person'>
+	))
+12	huI	unk
+13	pyAja	unk
+14	ke	unk
+15	sAWa	unk
+16	sarva	unk
+17	kareM	unk
+18	.	unk
+</Sentence>

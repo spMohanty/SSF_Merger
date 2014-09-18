@@ -1,0 +1,17 @@
+<Sentence id="1">
+1	axaraka	NN	<fs af='axaraka,n,m,sg,3,d,0,0'>
+2	-JOIN	SYM	<fs poslcat='NM' af='-OIN,unk,,,,,,'>
+3	lahasuna	NNPC	<fs af='lahasuna,n,m,sg,3,d,0,0'>
+4	pesta	NN	<fs af='pesta,n,m,sg,3,d,0,0'>
+5	Ora	CC	<fs af='Ora,avy,,,,,,'>
+6	tomEto	NNP	<fs poslcat='NM' af='tomEto,unk,,,,,,'>
+7	pyUrI	NN	<fs poslcat='NM' af='pyUrI,unk,,,,,,'>
+8	dAlakara	VM	<fs af='dAla,v,any,any,any,,kara,kara'>
+9	wIna	QC	<fs af='wIna,adj,any,pl,,d,,'>
+10	-JOIN	SYM	<fs poslcat='NM' af='-OIN,unk,,,,,,'>
+11	cAra	QC	<fs af='cAra,adj,any,pl,,d,,'>
+12	minata	NN	<fs af='minata,n,m,sg,3,o,0,0'>
+13	waka	PSP	<fs af='waka,psp,,,,,,'>
+14	pakAeM	VM	<fs af='pakA,v,any,pl,1,,e,e'>
+15	.	SYM	<fs af='.,punc,,,,,,'>
+</Sentence>

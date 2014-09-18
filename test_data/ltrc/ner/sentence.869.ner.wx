@@ -1,0 +1,34 @@
+<Sentence id="1">
+1	Pira	unk
+2	((	NP	<fs etype='ne' esubtype='location'>
+2.1	SimalA	unk	<fs etype='ne' esubtype='location'>
+	))
+3	mirca	unk
+4	,	unk
+5	namaka	unk
+6	,	unk
+7	kAlI	unk
+8	((	NP	<fs etype='ne' esubtype='person'>
+8.1	mirca	unk	<fs etype='ne' esubtype='person'>
+	))
+9	,	unk
+10	((	NP	<fs etype='ne' esubtype='person'>
+10.1	harI	unk	<fs etype='ne' esubtype='person'>
+	))
+11	mirca	unk
+12	dAlakara	unk
+13	waba	unk
+14	waka	unk
+15	pakAeM	unk
+16	,	unk
+17	jaba	unk
+18	waka	unk
+19	ki	unk
+20	cikena	unk
+21	acCI	unk
+22	waraha	unk
+23	paka	unk
+24	na	unk
+25	jAe	unk
+26	.	unk
+</Sentence>

@@ -1,0 +1,10 @@
+<Sentence id="1">
+1	Pira	RB	<fs af='Pira,adv,,,,,,'>
+2	weja	JJ	<fs af='weja,adj,any,any,,any,,'>
+3	AMca	NN	<fs af='AMca,n,f,sg,3,o,0,0'>
+4	para	PSP	<fs af='para,psp,,,,,,'>
+5	matara	NN	<fs af='matara,n,f,sg,3,d,0,0'>
+6	dAlakara	VM	<fs af='dAla,v,any,any,any,,kara,kara'>
+7	BUneM	VM	<fs af='BUna,v,any,pl,1,,e,e'>
+8	.	SYM	<fs af='.,punc,,,,,,'>
+</Sentence>

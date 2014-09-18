@@ -1,0 +1,8 @@
+<Sentence id="1">
+1	ButtoM	NN	<fs af='ButtA,n,m,pl,3,o,0,0'>
+2	ko	PSP	<fs af='ko,psp,,,,,,'>
+3	kaxxUkasa	NN	<fs af='kaxxUkasa,n,m,sg,3,d,0,0'>
+4	kara	VM	<fs af='kara,v,any,any,any,,0,0'>
+5	leM	VAUX	<fs af='le,v,any,pl,1,,e,e'>
+6	.	SYM	<fs af='.,punc,,,,,,'>
+</Sentence>

@@ -1,0 +1,10 @@
+<Sentence id="1">
+1	axaraka	NN	<fs af='axaraka,n,m,sg,3,d,0,0'>
+2	BUneM	NN	<fs poslcat='NM' af='BUna,v,any,pl,1,,e,e'>
+3	Pira	RB	<fs af='Pira,adv,,,,,,'>
+4	kAjU	NNPC	<fs af='kAjU,n,m,sg,3,d,0,0'>
+5	pAvadara	NN	<fs af='pAvadara,n,m,sg,3,d,0,0'>
+6	dAla	VM	<fs af='dAla,v,any,any,any,,0,0'>
+7	xeM	VAUX	<fs af='xe,v,any,pl,1,,e,e'>
+8	.	SYM	<fs af='.,punc,,,,,,'>
+</Sentence>

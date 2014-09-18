@@ -1,0 +1,21 @@
+<Sentence id="1">
+1	aba	unk
+2	isameM	unk
+3	panIra	unk
+4	ke	unk
+5	laMbe	unk
+6	-JOIN	unk
+7	laMbe	unk
+8	kate	unk
+9	hue	unk
+10	((	NP	<fs etype='ne' esubtype='person'>
+10.1	pIsa	unk	<fs etype='ne' esubtype='person'>
+10.2	dAlakara	unk	<fs etype='ne' esubtype='person'>
+	))
+11	wela	unk
+12	meM	unk
+13	PrAI	unk
+14	kara	unk
+15	leM	unk
+16	.	unk
+</Sentence>

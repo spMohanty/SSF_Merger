@@ -1,0 +1,18 @@
+<Sentence id="1">
+1	basa	unk
+2	harA	unk
+3	XaniyA	unk
+4	dAlakara	unk
+5	sajAeM	unk
+6	Ora	unk
+7	stImda	unk
+8	((	NP	<fs etype='ne' esubtype='person'>
+8.1	rAisa	unk	<fs etype='ne' esubtype='person'>
+	))
+9	ke	unk
+10	sAWa	unk
+11	garmAgarma	unk
+12	sarva	unk
+13	kareM	unk
+14	.	unk
+</Sentence>

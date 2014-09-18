@@ -1,0 +1,26 @@
+<Sentence id="1">
+1	matara	unk
+2	,	unk
+3	xahI	unk
+4	,	unk
+5	mirca	unk
+6	pAudara	unk
+7	,	unk
+8	tamAtara	unk
+9	Ora	unk
+10	namaka	unk
+11	dAlakara	unk
+12	AvaSyakawAnusAra	unk
+13	pAnI	unk
+14	((	NP	<fs etype='ne' esubtype='person'>
+14.1	dAlakara	unk	<fs etype='ne' esubtype='person'>
+	))
+15	5-6	unk
+16	minata	unk
+17	waka	unk
+18	XImI	unk
+19	AMca	unk
+20	para	unk
+21	pakAye	unk
+22	.	unk
+</Sentence>

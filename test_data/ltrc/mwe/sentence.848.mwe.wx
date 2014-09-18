@@ -1,0 +1,9 @@
+<Sentence id="1">
+1	bIca	NST	<fs af='bIca,adv,,,,,,'>
+2	-JOIN	SYM	<fs poslcat='NM' af='-OIN,unk,,,,,,'>
+3	bIca	NST	<fs af='bIca,adv,,,,,,'>
+4	meM	PSP	<fs af='meM,psp,,,,,,'>
+5	calAwI	VM	<fs af='calA,v,f,sg,any,,wA,wA'>
+6	raheM	VAUX	<fs af='raha,v,any,pl,1,,e,e'>
+7	.	SYM	<fs af='.,punc,,,,,,'>
+</Sentence>

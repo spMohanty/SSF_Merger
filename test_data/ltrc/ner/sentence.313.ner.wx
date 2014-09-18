@@ -1,0 +1,22 @@
+<Sentence id="1">
+1	banAne	unk
+2	se	unk
+3	pUrva	unk
+4	rAwri	unk
+5	meM	unk
+6	mUMga	unk
+7	((	NP	<fs etype='ne' esubtype='person'>
+7.1	xAla	unk	<fs etype='ne' esubtype='person'>
+	))
+8	kI	unk
+9	cUrI	unk
+10	ko	unk
+11	((	NP	<fs etype='ne' esubtype='person'>
+11.1	Xokara	unk	<fs etype='ne' esubtype='person'>
+	))
+12	pAnI	unk
+13	meM	unk
+14	Bigo	unk
+15	xeM	unk
+16	.	unk
+</Sentence>

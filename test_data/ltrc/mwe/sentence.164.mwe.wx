@@ -1,0 +1,14 @@
+<Sentence id="1">
+1	kOYteja	NNPC	<fs poslcat='NM' af='kOYteja,unk,,,,,,'>
+2	cIja	NN	<fs af='cIja,n,f,sg,3,o,0,0'>
+3	ke	PSP	<fs af='kA,psp,m,sg,,o,kA,kA'>
+4	deDZa	QC	<fs af='deDZa,adj,any,any,,any,,'>
+5	-JOIN	SYM	<fs poslcat='NM' af='-OIN,unk,,,,,,'>
+6	deDZa	QC	<fs af='deDZa,adj,any,any,,any,,'>
+7	iMca	NN	<fs af='iMca,n,m,sg,3,o,0,0'>
+8	ke	PSP	<fs af='kA,psp,m,pl,,d,kA,kA'>
+9	tukadZe	NN	<fs af='tukadZA,n,m,pl,3,d,0,0'>
+10	kAta	VM	<fs af='kAta,v,any,any,any,,0,0'>
+11	leM	VAUX	<fs af='le,v,any,pl,1,,e,e'>
+12	.	SYM	<fs af='.,punc,,,,,,'>
+</Sentence>

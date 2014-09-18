@@ -1,0 +1,23 @@
+<Sentence id="1">
+1	garamA	NNC	<fs poslcat='NM' af='garamA,v,any,any,any,,0,0'>
+2	-JOIN	SYM	<fs poslcat='NM' af='-OIN,unk,,,,,,'>
+3	garama	JJ	<fs af='garama,adj,any,any,,any,,'>
+4	kAjU	NNPC	<fs af='kAjU,n,m,sg,3,d,0,0'>
+5	-JOIN	SYM	<fs poslcat='NM' af='-OIN,unk,,,,,,'>
+6	kiSamiSa	NN	<fs af='kiSamiSa,n,f,sg,3,o,0,0'>
+7	se	PSP	<fs af='se,psp,,,,,,'>
+8	bane	VM	<fs af='bana,v,any,sg,2,,e,e'>
+9	SAhI	JJ	<fs af='SAhI,adj,any,any,,any,,'>
+10	rola	NN	<fs af='rola,n,m,sg,3,d,0,0'>
+11	tomato	NNP	<fs af='tomato,n,m,sg,3,d,0,0'>
+12	kEcaapa	NNP	<fs poslcat='NM' af='kEcaapa,unk,,,,,,'>
+13	yA	CC	<fs af='yA,avy,,,,,,'>
+14	imalI	NN	<fs af='imalI,n,f,sg,3,o,0,0'>
+15	kI	PSP	<fs af='kA,psp,f,sg,,o,kA,kA'>
+16	catanI	NN	<fs af='catanI,n,f,sg,3,o,0,0'>
+17	ke	PSP	<fs af='kA,psp,m,sg,,o,kA,kA'>
+18	sAWa	NST	<fs af='sAWa,adv,,,,,,'>
+19	peSa	JJ	<fs af='peSa,adj,any,any,,any,,'>
+20	kareM	VM	<fs af='kara,v,any,pl,1,,e,e'>
+21	.	SYM	<fs af='.,punc,,,,,,'>
+</Sentence>

@@ -1,0 +1,38 @@
+<Sentence id="1">			
+1	((	NP	
+1.1	Ama	JJ	<fs af='Ama,adj,any,any,,any,,'>
+1.2	,	SYM	<fs af='&comma,punc,,,,,,'>
+	))		
+2	((	NP	
+2.1	strOYberI	NNP	<fs af='strOYberI,n,f,sg,3,d,0,0'>
+	))		
+3	((	CCP	
+3.1	va	CC	<fs af='va,avy,,,,,,'>
+	))		
+4	((	NP	
+4.1	rasaBarI	NN	<fs af='rasaBarI,n,f,sg,3,o,0,0'>
+4.2	ko	PSP	<fs af='ko,psp,,,,,,'>
+	))		
+5	((	NP	
+5.1	cInI	NN	<fs af='cInI,n,m,sg,3,o,0,0'>
+5.2	ke	PSP	<fs af='kA,psp,m,sg,,o,kA,kA'>
+5.3	sAWa	NST	<fs af='sAWa,adv,,,,,,'>
+	))		
+6	((	NP	
+6.1	miksa	NN	<fs af='miksa,n,m,sg,3,d,0,0'>
+	))		
+7	((	VGNF	
+7.1	karake	VM	<fs af='karaka,v,any,sg,2,,e,e'>
+	))		
+8	((	NP	
+8.1	miksI	NN	<fs af='miksI,n,f,sg,3,o,0,0'>
+8.2	meM	PSP	<fs af='meM,psp,,,,,,'>
+	))		
+9	((	VGF	
+9.1	calA	VM	<fs af='calA,v,any,any,any,,0,0'>
+9.2	leM	VAUX	<fs af='le,v,any,pl,1,,e,e'>
+	))		
+10	((	BLK	
+10.1	.	SYM	<fs af='.,punc,,,,,,'>
+	))		
+</Sentence>			

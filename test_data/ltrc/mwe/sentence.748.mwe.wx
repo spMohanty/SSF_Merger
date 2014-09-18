@@ -1,0 +1,12 @@
+<Sentence id="1">
+1	garmAgarma	NN	<fs poslcat='NM' af='garmAgarma,adj,any,any,,any,,'>
+2	krImI	NNP	<fs poslcat='NM' af='krImI,unk,,,,,,'>
+3	goBI	NN	<fs af='goBI,n,f,sg,3,d,0,0'>
+4	hare	QF	<fs af='harA,adj,m,sg,,o,,'>
+5	Xaniye	NN	<fs poslcat='NM' af='Xaniye,unk,,,,,,'>
+6	se	PSP	<fs af='se,psp,,,,,,'>
+7	sajAkara	VM	<fs af='sajA,v,any,any,any,,kara,kara'>
+8	sarva	NN	<fs af='sarva,n,f,sg,3,d,0,0'>
+9	kareM	VM	<fs af='kara,v,any,pl,1,,e,e'>
+10	.	SYM	<fs af='.,punc,,,,,,'>
+</Sentence>

@@ -1,0 +1,11 @@
+<Sentence id="1">
+1	gaNawaMwra	NNPC	<fs af='gaNawaMwra,n,m,sg,3,d,0,0'>
+2	xivasa	NNP	<fs af='xivasa,n,m,sg,3,o,0,0'>
+3	para	PSP	<fs af='para,psp,,,,,,'>
+4	wEyAra	JJ	<fs af='wEyAra,adj,any,any,,any,,'>
+5	hE	VM	<fs af='hE,v,any,sg,2,,hE,hE'>
+6	svAxiR‍ta	NN	<fs poslcat='NM' af='svAxiR,unk,,,,,,'>
+7	wiraMgA	NNP	<fs af='wiraMgA,n,m,sg,3,d,0,0'>
+8	keka	NN	<fs af='keka,n,m,sg,3,d,0,0'>
+9	.	SYM	<fs af='.,punc,,,,,,'>
+</Sentence>

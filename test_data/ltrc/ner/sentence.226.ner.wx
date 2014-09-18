@@ -1,0 +1,24 @@
+<Sentence id="1">
+1	KajUra	unk
+2	Ora	unk
+3	kiSamiSa	unk
+4	ko	unk
+5	((	NP	<fs etype='ne' esubtype='person'>
+5.1	Xokara	unk	<fs etype='ne' esubtype='person'>
+	))
+6	,	unk
+7	((	NP	<fs etype='ne' esubtype='person'>
+7.1	suKAkara	unk	<fs etype='ne' esubtype='person'>
+	))
+8	WodZe	unk
+9	-JOIN	unk
+10	se	unk
+11	sirake	unk
+12	meM	unk
+13	inheM	unk
+14	xalakara	unk
+15	ekasAra	unk
+16	kara	unk
+17	leM	unk
+18	.	unk
+</Sentence>

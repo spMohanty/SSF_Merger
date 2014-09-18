@@ -1,0 +1,28 @@
+<Sentence id="1">			
+1	((	NP	
+1.1	AXA	QF	<fs af='AXA,adj,m,sg,,d,,'>
+1.2	masAlA	NN	<fs af='masAlA,n,m,sg,3,d,0,0'>
+	))		
+2	((	NP	
+2.1	bEMgana	NNP	<fs af='bEMgana,n,m,sg,3,o,0,0'>
+2.2	meM	PSP	<fs af='meM,psp,,,,,,'>
+2.3	Bara	RP	<fs af='Bara,adv,,,,,,' poslcat="NM">
+	))		
+3	((	VGF	
+3.1	xeM	VM	<fs af='xe,v,any,pl,1,,e,e'>
+	))		
+4	((	CCP	
+4.1	va	CC	<fs af='va,avy,,,,,,'>
+	))		
+5	((	JJP	
+5.1	AXA	QF	<fs af='AXA,adj,m,sg,,d,,'>
+5.2	alaga	JJ	<fs af='alaga,adj,any,any,,any,,'>
+	))		
+6	((	VGF	
+6.1	raKa	VM	<fs af='raKa,v,any,any,any,,0,0'>
+6.2	leM	VAUX	<fs af='le,v,any,pl,1,,e,e'>
+	))		
+7	((	BLK	
+7.1	.	SYM	<fs af='.,punc,,,,,,'>
+	))		
+</Sentence>			

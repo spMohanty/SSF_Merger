@@ -1,0 +1,38 @@
+<Sentence id="1">			
+1	((	NP	
+1.1	kevadZA	NNPC	<fs af='kevadZA,n,m,sg,3,d,0,0'>
+1.2	pAnI	NN	<fs af='pAnI,n,m,sg,3,d,0,0'>
+1.3	,	SYM	<fs af='&comma,punc,,,,,,'>
+	))		
+2	((	NP	
+2.1	garama	JJ	<fs af='garama,adj,any,any,,any,,'>
+2.2	masAlA	NN	<fs af='masAlA,n,m,sg,3,d,0,0'>
+2.3	,	SYM	<fs af='&comma,punc,,,,,,'>
+	))		
+3	((	NP	
+3.1	nIbU	NN	<fs af='nIbU,n,m,sg,3,o,0,0'>
+3.2	kA	PSP	<fs af='kA,psp,m,sg,,d,kA,kA'>
+	))		
+4	((	NP	
+4.1	rasa	NN	<fs af='rasa,n,m,sg,3,d,0,0'>
+	))		
+5	((	CCP	
+5.1	Ora	CC	<fs af='Ora,avy,,,,,,'>
+	))		
+6	((	NP	
+6.1	XaniyA	NNPC	<fs af='XaniyA,n,f,sg,3,d,0,0'>
+6.2	dAleM	NN	<fs af='dAla,n,f,pl,3,d,0,0'>
+	))		
+7	((	CCP	
+7.1	Ora	CC	<fs af='Ora,avy,,,,,,'>
+	))		
+8	((	VGNF	
+8.1	calAkara	VM	<fs af='calA,v,any,any,any,,kara,kara'>
+	))		
+9	((	VGF	
+9.1	uwAreM	VM	<fs af='uwAra,v,any,pl,1,,e,e'>
+	))		
+10	((	BLK	
+10.1	.	SYM	<fs af='.,punc,,,,,,'>
+	))		
+</Sentence>			

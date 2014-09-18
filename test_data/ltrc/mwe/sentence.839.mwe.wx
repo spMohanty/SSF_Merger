@@ -1,0 +1,17 @@
+<Sentence id="1">
+1	5	QC	<fs af='5,num,,,,,,'>
+2	minata	NN	<fs af='minata,n,m,sg,3,o,0,0'>
+3	waka	PSP	<fs af='waka,psp,,,,,,'>
+4	lagAwAra	RB	<fs af='lagAwAra,adv,,,,,,'>
+5	calAwe	VM	<fs af='calA,v,m,pl,any,,wA,wA'>
+6	hue	VAUX	<fs af='ho,v,any,sg,2,,e,e'>
+7	BUna	NNC	<fs poslcat='NM' af='BUna,v,any,any,any,,0,0'>
+8	leM	VAUX	<fs af='le,v,any,pl,1,,e,e'>
+9	aba	PRP	<fs poslcat='NM' af='aba,adv,,,,,,'>
+10	isameM	PRP	<fs af='yaha,pn,any,sg,3,o,meM,meM'>
+11	panIra	NN	<fs af='panIra,n,m,sg,3,d,0,0'>
+12	BI	RP	<fs af='BI,avy,,,,,,'>
+13	dAla	VM	<fs af='dAla,v,any,any,any,,0,0'>
+14	xeM	VAUX	<fs af='xe,v,any,pl,1,,e,e'>
+15	.	SYM	<fs af='.,punc,,,,,,'>
+</Sentence>

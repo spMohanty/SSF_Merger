@@ -1,0 +1,19 @@
+<Sentence id="1">			
+1	((	NP	
+1.1	WodZA	QF	<fs af='WodZA,adj,m,sg,,d,,'>
+1.2	-JOIN	SYM	<fs af='-OIN,unk,,,,,,' poslcat="NM">
+1.3	sA	RP	<fs af='sA,avy,,,,,,'>
+1.4	makKana	NNPC	<fs af='makKana,n,m,sg,3,d,0,0'>
+1.5	rola	NN	<fs af='rola,n,m,sg,3,o,0,0'>
+1.6	ke	PSP	<fs af='kA,psp,m,sg,,o,kA,kA'>
+1.7	Upara	NST	<fs af='Upara,adv,,,,,,'>
+1.8	BI	RP	<fs af='BI,avy,,,,,,'>
+	))		
+2	((	VGF	
+2.1	lagA	VM	<fs af='lagA,v,any,any,any,,0,0'>
+2.2	xeM	VAUX	<fs af='xe,v,any,pl,1,,e,e'>
+	))		
+3	((	BLK	
+3.1	.	SYM	<fs af='.,punc,,,,,,'>
+	))		
+</Sentence>			

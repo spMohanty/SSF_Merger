@@ -1,0 +1,21 @@
+<Sentence id="1">
+1	wrikoNa	NNPC	<fs af='wrikoNa,n,m,sg,3,d,0,0'>
+2	AkAra	NN	<fs af='AkAra,n,m,sg,3,d,0,0'>
+3	xewe	VM	<fs af='xe,v,m,pl,any,,wA,wA'>
+4	samaya	PSP	<fs poslcat='NM' af='samaya,n,m,sg,3,d,0,0'>
+5	cipakAne	VM	<fs af='cipakA,v,m,pl,any,,nA,nA'>
+6	ke	PSP	<fs af='kA,psp,m,sg,,o,kA,kA'>
+7	lie	PSP	<fs af='lie,psp,,,,,,'>
+8	xUXa	NN	<fs af='xUXa,n,m,sg,3,o,0,0'>
+9	kA	PSP	<fs af='kA,psp,m,sg,,d,kA,kA'>
+10	upayoga	NN	<fs af='upayoga,n,m,sg,3,d,0,0'>
+11	kareM	VM	<fs af='kara,v,any,pl,1,,e,e'>
+12	,	SYM	<fs af='&comma,punc,,,,,,'>
+13	jisase	PRP	<fs af='jo,pn,any,sg,3,o,se,se'>
+14	samose	NN	<fs af='samosA,n,m,sg,3,o,0,0'>
+15	ke	PSP	<fs af='kA,psp,m,sg,,o,kA,kA'>
+16	muMha	NN	<fs af='muzha,n,m,sg,,d,0,0'>
+17	Pate	JJ	<fs af='PatA,adj,m,sg,,o,,'>
+18	nahIM	NEG	<fs af='nahIM,adv,,,,,,'>
+19	.	SYM	<fs af='.,punc,,,,,,'>
+</Sentence>

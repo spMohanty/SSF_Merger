@@ -1,0 +1,42 @@
+<Sentence id="1">			
+1	((	NP	
+1.1	2-3	QC	<fs af='2-3,num,,,,,,'>
+1.2	minata	NN	<fs af='minata,n,m,sg,3,o,0,0'>
+1.3	waka	PSP	<fs af='waka,psp,,,,,,'>
+	))		
+2	((	VGNF	
+2.1	pakA	VM	<fs af='pakA,v,any,any,any,,0,0'>
+	))		
+3	((	VGNF	
+3.1	kara	VM	<fs af='kara,v,any,any,any,,0,0'>
+	))		
+4	((	NP	
+4.1	isameM	PRP	<fs af='yaha,pn,any,sg,3,o,meM,meM'>
+	))		
+5	((	NP	
+5.1	maSarUma	NN	<fs af='maSarUma,n,m,sg,3,d,0,0'>
+5.2	BI	RP	<fs af='BI,avy,,,,,,'>
+	))		
+6	((	VGF	
+6.1	dAla	VM	<fs af='dAla,v,any,any,any,,0,0'>
+6.2	xeM	VAUX	<fs af='xe,v,any,pl,1,,e,e'>
+6.3	,	SYM	<fs af='&comma,punc,,,,,,'>
+	))		
+7	((	NP	
+7.1	halkI	JJ	<fs af='halkI,adj,f,any,,any,,'>
+7.2	AMca	NN	<fs af='AMca,n,f,sg,3,o,0,0'>
+7.3	para	PSP	<fs af='para,psp,,,,,,'>
+	))		
+8	((	NP	
+8.1	5	QC	<fs af='5,num,,,,,,'>
+8.2	minata	NN	<fs af='minata,n,m,sg,3,o,0,0'>
+8.3	waka	PSP	<fs af='waka,psp,,,,,,'>
+	))		
+9	((	VGF	
+9.1	pakane	VM	<fs af='paka,v,m,pl,any,,nA,nA'>
+9.2	xeM	VAUX	<fs af='xe,v,any,pl,1,,e,e'>
+	))		
+10	((	BLK	
+10.1	.	SYM	<fs af='.,punc,,,,,,'>
+	))		
+</Sentence>			

@@ -1,0 +1,11 @@
+<Sentence id="1">
+1	jarUrawa	NN	<fs af='jarUrawa,n,f,sg,3,d,0,0'>
+2	ho	VM	<fs af='ho,v,any,any,any,,0,0'>
+3	wo	CC	<fs af='wo,avy,,,,,,'>
+4	2-3	QC	<fs af='2-3,num,,,,,,'>
+5	tebala	NN	<fs af='tebala,n,m,sg,3,d,0,0'>
+6	spUna	NN	<fs af='spUna,n,m,sg,3,d,0,0'>
+7	pAnI	NN	<fs af='pAnI,n,m,sg,3,d,0,0'>
+8	milAeM	VM	<fs af='milA,v,any,pl,1,,e,e'>
+9	.	SYM	<fs af='.,punc,,,,,,'>
+</Sentence>

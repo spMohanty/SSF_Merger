@@ -1,0 +1,19 @@
+<Sentence id="1">
+1	xahI	unk
+2	dAlakara	unk
+3	5	unk
+4	minata	unk
+5	waka	unk
+6	pakAye	unk
+7	,	unk
+8	1/2	unk
+9	kapa	unk
+10	pAnI	unk
+11	((	NP	<fs etype='ne' esubtype='person'>
+11.1	dAlakara	unk	<fs etype='ne' esubtype='person'>
+	))
+12	TaMdA	unk
+13	hone	unk
+14	xeM	unk
+15	.	unk
+</Sentence>

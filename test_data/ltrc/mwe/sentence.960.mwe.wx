@@ -1,0 +1,12 @@
+<Sentence id="1">
+1	panIra	NN	<fs af='panIra,n,m,sg,3,o,0,0'>
+2	ke	PSP	<fs af='kA,psp,m,pl,,d,kA,kA'>
+3	tukadZe	NN	<fs af='tukadZA,n,m,pl,3,d,0,0'>
+4	,	SYM	<fs af='&comma,punc,,,,,,'>
+5	harA	NNPC	<fs af='harA,n,m,sg,3,d,0,0'>
+6	XaniyA	NNP	<fs af='XaniyA,n,f,sg,3,d,0,0'>
+7	va	CC	<fs af='va,avy,,,,,,'>
+8	puxInA	NNP	<fs af='puxInA,n,m,sg,3,d,0,0'>
+9	milAeM	VM	<fs af='milA,v,any,pl,1,,e,e'>
+10	.	SYM	<fs af='.,punc,,,,,,'>
+</Sentence>

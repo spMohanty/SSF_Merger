@@ -1,0 +1,11 @@
+<Sentence id="1">
+1	lagAwAra	RB	<fs af='lagAwAra,adv,,,,,,'>
+2	calAwI	VM	<fs af='calA,v,f,sg,any,,wA,wA'>
+3	raheM	VAUX	<fs af='raha,v,any,pl,1,,e,e'>
+4	Ora	CC	<fs af='Ora,avy,,,,,,'>
+5	ubAla	NN	<fs af='ubAla,n,m,sg,3,d,0,0'>
+6	na	NEG	<fs af='na,adv,,,,,,'>
+7	Ane	VM	<fs af='Ana,v,any,sg,2,,e,e'>
+8	xeM	VAUX	<fs af='xe,v,any,pl,1,,e,e'>
+9	.	SYM	<fs af='.,punc,,,,,,'>
+</Sentence>

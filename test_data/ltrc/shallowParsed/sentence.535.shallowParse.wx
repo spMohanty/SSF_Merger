@@ -1,0 +1,43 @@
+<Sentence id="1">			
+1	((	NP	
+1.1	xahI	NN	<fs af='xahI,n,m,sg,3,d,0,0'>
+	))		
+2	((	VGF	
+2.1	dAlie	VM	<fs af='dAla,v,any,sg,2,,e,e' hon='y'>
+	))		
+3	((	CCP	
+3.1	Ora	CC	<fs af='Ora,avy,,,,,,'>
+	))		
+4	((	RBP	
+4.1	lagAwAra	RB	<fs af='lagAwAra,adv,,,,,,'>
+	))		
+5	((	VGNF	
+5.1	calAwe	VM	<fs af='calA,v,m,pl,any,,wA,wA'>
+5.2	hue	VAUX	<fs af='ho,v,any,sg,2,,e,e'>
+	))		
+6	((	NP	
+6.1	eka	QC	<fs af='eka,adj,any,any,,any,,'>
+6.2	uPAna	NN	<fs af='uPAna,n,m,sg,3,o,0,0'>
+6.3	waka	PSP	<fs af='waka,psp,,,,,,'>
+	))		
+7	((	VGNF	
+7.1	ubAlie	VM	<fs af='ubAla,v,any,sg,2,,e,e' hon='y'>
+	))		
+8	((	NP	
+8.1	jisase	PRP	<fs af='jo,pn,any,sg,3,o,se,se'>
+	))		
+9	((	NP	
+9.1	grevI	NN	<fs af='grevI,unk,,,,,,' poslcat="NM">
+	))		
+10	((	JJP	
+10.1	alaga	JJ	<fs af='alaga,adj,any,any,,any,,'>
+	))		
+11	((	VGF	
+11.1	na	NEG	<fs af='na,adv,,,,,,'>
+11.2	ho	VM	<fs af='ho,v,any,any,any,,0,0'>
+11.3	jAe	VAUX	<fs af='jA,v,any,sg,2,,e,e'>
+	))		
+12	((	BLK	
+12.1	.	SYM	<fs af='.,punc,,,,,,'>
+	))		
+</Sentence>			

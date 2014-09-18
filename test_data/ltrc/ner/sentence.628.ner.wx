@@ -1,0 +1,18 @@
+<Sentence id="1">
+1	garama	unk
+2	((	NP	<fs etype='ne' esubtype='person'>
+2.1	masAlA	unk	<fs etype='ne' esubtype='person'>
+	))
+3	,	unk
+4	((	NP	<fs etype='ne' esubtype='person'>
+4.1	harI	unk	<fs etype='ne' esubtype='person'>
+	))
+5	mirca	unk
+6	Ora	unk
+7	axaraka	unk
+8	dAlakara	unk
+9	garamAgarama	unk
+10	sarva	unk
+11	kareM	unk
+12	.	unk
+</Sentence>

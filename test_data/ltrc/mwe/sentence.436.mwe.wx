@@ -1,0 +1,20 @@
+<Sentence id="1">
+1	kukara	NNP	<fs af='kukara,n,m,sg,3,d,0,0'>
+2	TaMdA	JJ	<fs af='TaMdA,adj,m,sg,,d,,'>
+3	hone	VM	<fs af='ho,v,m,pl,any,,nA,nA'>
+4	ke	PSP	<fs af='kA,psp,m,sg,,o,kA,kA'>
+5	bAxa	NST	<fs af='bAxa,adv,,,,,,'>
+6	isa	DEM	<fs af='yaha,pn,any,sg,3,o,0,0'>
+7	miSraNa	NN	<fs af='miSraNa,n,m,sg,3,o,0,0'>
+8	ko	PSP	<fs af='ko,psp,,,,,,'>
+9	miksI	NN	<fs af='miksI,n,f,sg,3,o,0,0'>
+10	meM	PSP	<fs af='meM,psp,,,,,,'>
+11	PeMta	NNC	<fs af='PeMta,n,f,sg,3,d,0,0'>
+12	leM	VAUX	<fs af='le,v,any,pl,1,,e,e'>
+13	Ora	CC	<fs af='Ora,avy,,,,,,'>
+14	calanI	NN	<fs af='calanI,n,f,sg,3,o,0,0'>
+15	se	PSP	<fs af='se,psp,,,,,,'>
+16	CAna	VM	<fs af='CAna,v,any,any,any,,0,0'>
+17	lIjie	VAUX	<fs hon='y' af='le,v,any,sg,2,,e,e'>
+18	.	SYM	<fs af='.,punc,,,,,,'>
+</Sentence>

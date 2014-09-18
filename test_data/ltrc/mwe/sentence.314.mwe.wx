@@ -1,0 +1,8 @@
+<Sentence id="1">
+1	subaha	NN	<fs af='subaha,n,f,sg,3,d,0,0'>
+2	usakA	PRP	<fs agr_num='sg' agr_cas='d' agr_gen='m' af='vaha,pn,any,sg,3,o,kA,kA'>
+3	pAnI	NN	<fs af='pAnI,n,m,sg,3,d,0,0'>
+4	niWAra	VM	<fs af='niWAra,v,any,any,any,,0,0'>
+5	leM	VAUX	<fs af='le,v,any,pl,1,,e,e'>
+6	.	SYM	<fs af='.,punc,,,,,,'>
+</Sentence>

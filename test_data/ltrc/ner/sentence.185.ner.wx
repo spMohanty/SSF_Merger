@@ -1,0 +1,21 @@
+<Sentence id="1">
+1	sarvapraWama	unk
+2	cukaMxara	unk
+3	ko	unk
+4	((	NP	<fs etype='ne' esubtype='person'>
+4.1	Xokara	unk	<fs etype='ne' esubtype='person'>
+	))
+5	,	unk
+6	((	NP	<fs etype='ne' esubtype='person'>
+6.1	kukara	unk	<fs etype='ne' esubtype='person'>
+	))
+7	meM	unk
+8	raKakara	unk
+9	1	unk
+10	sItI	unk
+11	lagA	unk
+12	kara	unk
+13	pakA	unk
+14	leM	unk
+15	.	unk
+</Sentence>

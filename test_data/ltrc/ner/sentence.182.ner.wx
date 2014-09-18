@@ -1,0 +1,19 @@
+<Sentence id="1">
+1	aba	unk
+2	Ate	unk
+3	kI	unk
+4	CotI	unk
+5	-JOIN	unk
+6	CotI	unk
+7	loI	unk
+8	banA	unk
+9	kara	unk
+10	((	NP	<fs etype='ne' esubtype='location'>
+10.1	bela	unk	<fs etype='ne' esubtype='location'>
+	))
+11	leM	unk
+12	Ora	unk
+13	masAlA	unk
+14	Bare	unk
+15	.	unk
+</Sentence>

@@ -1,0 +1,22 @@
+<Sentence id="1">
+1	jaba	PRP	<fs poslcat='NM' af='jaba,adv,,,,,,'>
+2	grevI	NNPC	<fs poslcat='NM' af='grevI,unk,,,,,,'>
+3	wela	NN	<fs af='wela,n,m,sg,3,d,0,0'>
+4	Codane	VM	<fs af='Coda,v,m,pl,any,,nA,nA'>
+5	lage	VAUX	<fs af='laga,v,any,sg,2,,e,e'>
+6	waba	PRP	<fs poslcat='NM' af='waba,adv,,,,,,'>
+7	250	QC	<fs af='250,num,,,,,,'>
+8	milI	VM	<fs af='mila,v,f,sg,any,,yA,yA'>
+9	,	SYM	<fs af='&comma,punc,,,,,,'>
+10	pAnI	NN	<fs af='pAnI,n,m,sg,3,d,0,0'>
+11	,	SYM	<fs af='&comma,punc,,,,,,'>
+12	panIra	NN	<fs af='panIra,n,m,sg,3,d,0,0'>
+13	,	SYM	<fs af='&comma,punc,,,,,,'>
+14	kraSa	NN	<fs poslcat='NM' af='kraSa,unk,,,,,,'>
+15	kiyA	VM	<fs af='kara,v,m,sg,any,,yA,yA'>
+16	huA	VAUX	<fs af='ho,v,m,sg,any,,yA,yA'>
+17	pApadZa	NN	<fs af='pApadZa,n,m,sg,3,d,0,0'>
+18	dAlakara	VM	<fs af='dAla,v,any,any,any,,kara,kara'>
+19	pakAeM	VM	<fs af='pakA,v,any,pl,1,,e,e'>
+20	.	SYM	<fs af='.,punc,,,,,,'>
+</Sentence>

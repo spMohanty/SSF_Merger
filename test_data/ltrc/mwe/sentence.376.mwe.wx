@@ -1,0 +1,7 @@
+<Sentence id="1">
+1	aba	PRP	<fs poslcat='NM' af='aba,adv,,,,,,'>
+2	matara	NN	<fs af='matara,n,f,sg,3,d,0,0'>
+3	dAla	VM	<fs af='dAla,v,any,any,any,,0,0'>
+4	xIjie	VAUX	<fs hon='y' af='xe,v,any,sg,2,,e,e'>
+5	.	SYM	<fs af='.,punc,,,,,,'>
+</Sentence>

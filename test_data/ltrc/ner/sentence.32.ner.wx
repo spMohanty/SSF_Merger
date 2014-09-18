@@ -1,0 +1,22 @@
+<Sentence id="1">
+1	aba	unk
+2	((	NP	<fs etype='ne' esubtype='person'>
+2.1	avana	unk	<fs etype='ne' esubtype='person'>
+	))
+3	ko	unk
+4	200	unk
+5	seMtIgreda	unk
+6	para	unk
+7	garama	unk
+8	karake	unk
+9	‍keka	unk
+10	ko	unk
+11	20	unk
+12	minata	unk
+13	waka	unk
+14	((	NP	<fs etype='ne' esubtype='person'>
+14.1	beka	unk	<fs etype='ne' esubtype='person'>
+	))
+15	kareM	unk
+16	.	unk
+</Sentence>

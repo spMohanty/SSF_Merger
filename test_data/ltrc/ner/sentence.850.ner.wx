@@ -1,0 +1,14 @@
+<Sentence id="1">
+1	lEMba	unk
+2	((	NP	<fs etype='ne' esubtype='person'>
+2.1	SEMka	unk	<fs etype='ne' esubtype='person'>
+	))
+3	kA	unk
+4	rasa	unk
+5	((	NP	<fs etype='ne' esubtype='person'>
+5.1	nikAlakara	unk	<fs etype='ne' esubtype='person'>
+	))
+6	alaga	unk
+7	kareM	unk
+8	.	unk
+</Sentence>

@@ -1,0 +1,22 @@
+<Sentence id="1">			
+1	((	NP	
+1.1	ye	DEM	<fs af='yaha,pn,any,pl,3,d,0,0'>
+1.2	maTarI	NN	<fs af='maTarI,n,f,sg,3,d,0,0'>
+	))		
+2	((	NP	
+2.1	10-15	QC	<fs af='10-15,num,,,,,,'>
+2.2	xinoM	NN	<fs af='xina,n,m,pl,3,o,0,0'>
+2.3	waka	PSP	<fs af='waka,psp,,,,,,'>
+	))		
+3	((	JJP	
+3.1	KarAba	JJ	<fs af='KarAba,adj,any,any,,any,,'>
+	))		
+4	((	VGF	
+4.1	nahIM	NEG	<fs af='nahIM,adv,,,,,,'>
+4.2	howI	VM	<fs af='ho,v,f,sg,any,,wA,wA'>
+4.3	hE	VAUX	<fs af='hE,v,any,sg,2,,hE,hE'>
+	))		
+5	((	BLK	
+5.1	.	SYM	<fs af='.,punc,,,,,,'>
+	))		
+</Sentence>			

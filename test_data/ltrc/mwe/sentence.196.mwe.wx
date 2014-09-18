@@ -1,0 +1,14 @@
+<Sentence id="1">
+1	pawale	JJ	<fs af='pawalA,adj,m,sg,,o,,'>
+2	kapadZe	NN	<fs af='kapadA,n,m,sg,,o,0,0'>
+3	kI	PSP	<fs af='kA,psp,f,sg,,o,kA,kA'>
+4	sahAyawA	NN	<fs af='sahAyawA,n,f,sg,3,o,0,0'>
+5	se	PSP	<fs af='se,psp,,,,,,'>
+6	pIse	VM	<fs af='pIsa,v,any,sg,2,,e,e'>
+7	hue	VAUX	<fs af='ho,v,any,sg,2,,e,e'>
+8	‍miSraNa	NN	<fs poslcat='NM' af='ho,v,any,sg,2,,e,e'>
+9	ko	PSP	<fs af='ko,psp,,,,,,'>
+10	CAna	VM	<fs af='CAna,v,any,any,any,,0,0'>
+11	leM	VAUX	<fs af='le,v,any,pl,1,,e,e'>
+12	.	SYM	<fs af='.,punc,,,,,,'>
+</Sentence>

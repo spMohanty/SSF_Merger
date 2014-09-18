@@ -1,0 +1,8 @@
+<Sentence id="1">
+1	usameM	PRP	<fs af='vaha,pn,any,sg,3,o,meM,meM'>
+2	pisI	NN	<fs poslcat='NM' af='pisI,adj,f,any,,any,,'>
+3	bAxAma	NN	<fs af='bAxAma,n,m,sg,3,d,0,0'>
+4	dAla	VM	<fs af='dAla,v,any,any,any,,0,0'>
+5	xeM	VAUX	<fs af='xe,v,any,pl,1,,e,e'>
+6	.	SYM	<fs af='.,punc,,,,,,'>
+</Sentence>

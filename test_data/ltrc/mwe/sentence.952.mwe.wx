@@ -1,0 +1,11 @@
+<Sentence id="1">
+1	harA	NNPC	<fs af='harA,n,m,sg,3,d,0,0'>
+2	XaniyA	NNP	<fs af='XaniyA,n,f,sg,3,d,0,0'>
+3	va	CC	<fs af='va,avy,,,,,,'>
+4	puxInA	NNP	<fs af='puxInA,n,m,sg,3,d,0,0'>
+5	Xokara	VM	<fs af='Xo,v,any,any,any,,kara,kara'>
+6	bArIka	NNP	<fs af='bArIka,n,m,sg,3,d,0,0'>
+7	kAta	VM	<fs af='kAta,v,any,any,any,,0,0'>
+8	leM	VAUX	<fs af='le,v,any,pl,1,,e,e'>
+9	.	SYM	<fs af='.,punc,,,,,,'>
+</Sentence>

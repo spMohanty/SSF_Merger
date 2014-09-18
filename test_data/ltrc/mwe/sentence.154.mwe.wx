@@ -1,0 +1,9 @@
+<Sentence id="1">
+1	nOYna	NNPC	<fs poslcat='NM' af='nOYna,unk,,,,,,'>
+2	stika	NNC	<fs poslcat='NM' af='stika,unk,,,,,,'>
+3	wave	NN	<fs af='wavA,n,m,sg,3,o,0,0'>
+4	meM	PSP	<fs af='meM,psp,,,,,,'>
+5	wala	NN	<fs af='wala,n,m,sg,3,d,0,0'>
+6	leM	VAUX	<fs af='le,v,any,pl,1,,e,e'>
+7	.	SYM	<fs af='.,punc,,,,,,'>
+</Sentence>

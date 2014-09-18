@@ -1,0 +1,14 @@
+<Sentence id="1">
+1	panIra	NN	<fs af='panIra,n,m,sg,3,d,0,0'>
+2	BI	RP	<fs af='BI,avy,,,,,,'>
+3	dAla	VM	<fs af='dAla,v,any,any,any,,0,0'>
+4	xeM	VAUX	<fs af='xe,v,any,pl,1,,e,e'>
+5	XyAna	NN	<fs af='XyAna,n,m,sg,3,d,0,0'>
+6	rahe	VM	<fs af='raha,v,any,sg,2,,e,e'>
+7	kI	PSP	<fs af='kA,psp,f,sg,,d,kA,kA'>
+8	miSraNa	NN	<fs af='miSraNa,n,m,sg,3,d,0,0'>
+9	sUKA	NN	<fs af='sUKA,n,m,sg,3,d,0,0'>
+10	hI	RP	<fs af='hI,avy,,,,,,'>
+11	rahe	VAUX	<fs af='raha,v,any,sg,2,,e,e'>
+12	.	SYM	<fs af='.,punc,,,,,,'>
+</Sentence>

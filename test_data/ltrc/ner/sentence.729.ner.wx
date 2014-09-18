@@ -1,0 +1,16 @@
+<Sentence id="1">
+1	pAlaka	unk
+2	ko	unk
+3	Xokara	unk
+4	ubAla	unk
+5	leM	unk
+6	Ora	unk
+7	TaMdA	unk
+8	karake	unk
+9	bArIka	unk
+10	((	NP	<fs etype='ne' esubtype='person'>
+10.1	pIsa	unk	<fs etype='ne' esubtype='person'>
+	))
+11	leM	unk
+12	.	unk
+</Sentence>

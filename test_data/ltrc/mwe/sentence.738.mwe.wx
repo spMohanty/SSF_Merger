@@ -1,0 +1,13 @@
+<Sentence id="1">
+1	tamAtara	NN	<fs af='tamAtara,n,m,sg,3,d,0,0'>
+2	va	CC	<fs af='va,avy,,,,,,'>
+3	namaka	NN	<fs af='namaka,n,m,sg,3,d,0,0'>
+4	dAlakara	VM	<fs af='dAla,v,any,any,any,,kara,kara'>
+5	1-2	QC	<fs af='1-2,num,,,,,,'>
+6	minata	NN	<fs af='minata,n,m,sg,3,o,0,0'>
+7	waka	PSP	<fs af='waka,psp,,,,,,'>
+8	calAwe	VM	<fs af='calA,v,m,pl,any,,wA,wA'>
+9	hue	VAUX	<fs af='ho,v,any,sg,2,,e,e'>
+10	pakAeM	VAUX	<fs af='pakA,v,any,pl,1,,e,e'>
+11	.	SYM	<fs af='.,punc,,,,,,'>
+</Sentence>

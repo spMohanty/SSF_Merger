@@ -1,0 +1,16 @@
+<Sentence id="1">
+1	mESa	NN	<fs poslcat='NM' af='mESa,unk,,,,,,'>
+2	kie	VM	<fs af='kara,v,any,sg,2,,e,e'>
+3	AlU	NN	<fs af='AlU,n,m,sg,3,o,0,0'>
+4	meM	PSP	<fs af='meM,psp,,,,,,'>
+5	uparokwa	JJ	<fs af='uparokwa,adj,any,any,,any,,'>
+6	saBI	QF	<fs af='saBI,adj,any,any,,any,,'>
+7	masAlA	NN	<fs af='masAlA,n,m,sg,3,d,0,0'>
+8	sAmagrI	NN	<fs af='sAmagrI,n,f,sg,3,d,0,0'>
+9	milAkara	VM	<fs af='milA,v,any,any,any,,kara,kara'>
+10	miSraNa	NN	<fs af='miSraNa,n,m,sg,3,d,0,0'>
+11	wEyAra	JJ	<fs af='wEyAra,adj,any,any,,any,,'>
+12	kara	VM	<fs af='kara,v,any,any,any,,0,0'>
+13	leM	VAUX	<fs af='le,v,any,pl,1,,e,e'>
+14	.	SYM	<fs af='.,punc,,,,,,'>
+</Sentence>

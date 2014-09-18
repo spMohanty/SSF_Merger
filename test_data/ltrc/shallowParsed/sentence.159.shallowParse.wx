@@ -1,0 +1,53 @@
+<Sentence id="1">			
+1	((	NP	
+1.1	Ate	NN	<fs af='AtA,n,m,sg,3,o,0,0'>
+1.2	kI	PSP	<fs af='kA,psp,f,sg,,d,kA,kA'>
+	))		
+2	((	NP	
+2.1	loI	VAUX	<fs af='loI,n,f,sg,3,d,0,0' poslcat="NM">
+	))		
+3	((	VGNF	
+3.1	banAkara	VM	<fs af='banA,v,any,any,any,,kara,kara'>
+	))		
+4	((	NP	
+4.1	pUrI	JJ	<fs af='pUrI,adj,f,any,,any,,'>
+4.2	beleM	NN	<fs af='bela,n,f,pl,3,d,0,0'>
+4.3	,	SYM	<fs af='&comma,punc,,,,,,'>
+	))		
+5	((	RBP	
+5.1	Pira	RB	<fs af='Pira,adv,,,,,,'>
+	))		
+6	((	NP	
+6.1	besana	NN	<fs af='besana,n,m,sg,3,o,0,0'>
+6.2	kI	PSP	<fs af='kA,psp,f,sg,,d,kA,kA'>
+	))		
+7	((	NP	
+7.1	golI	NN	<fs af='golI,n,f,sg,3,d,0,0'>
+	))		
+8	((	VGNF	
+8.1	raKakara	VM	<fs af='raKa,v,any,any,any,,kara,kara'>
+	))		
+9	((	NP	
+9.1	hAWa	NN	<fs af='hAWa,n,m,sg,3,o,0,0'>
+9.2	se	PSP	<fs af='se,psp,,,,,,'>
+	))		
+10	((	NP	
+10.1	gola	NNC	<fs af='gola,n,m,sg,3,d,0,0'>
+10.2	-JOIN	SYM	<fs af='-OIN,unk,,,,,,' poslcat="NM">
+10.3	gola	NN	<fs af='gola,n,m,sg,3,d,0,0'>
+	))		
+11	((	VGNF	
+11.1	xabAwe	VM	<fs af='xabA,v,m,pl,any,,wA,wA'>
+11.2	hue	VAUX	<fs af='ho,v,any,sg,2,,e,e'>
+	))		
+12	((	NP	
+12.1	kacorI	NN	<fs af='kacorI,n,f,sg,3,d,0,0'>
+	))		
+13	((	VGF	
+13.1	banA	VM	<fs af='banA,v,any,any,any,,0,0'>
+13.2	leM	VAUX	<fs af='le,v,any,pl,1,,e,e'>
+	))		
+14	((	BLK	
+14.1	.	SYM	<fs af='.,punc,,,,,,'>
+	))		
+</Sentence>			

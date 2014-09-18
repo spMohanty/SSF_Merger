@@ -1,0 +1,16 @@
+<Sentence id="1">
+1	isase	PRP	<fs af='yaha,pn,any,sg,3,o,se,se'>
+2	gaNeSajI	NNP	<fs poslcat='NM' af='gaNeSajI,unk,,,,,,'>
+3	apane	PRP	<fs agr_num='pl' agr_cas='d' agr_gen='m' af='apanA,pn,any,sg,1,o,kA,kA'>
+4	BakwoM	NN	<fs af='Bakwa,n,m,pl,3,o,0,0'>
+5	para	PSP	<fs af='para,psp,,,,,,'>
+6	prasanna	JJ	<fs af='prasanna,adj,any,any,,any,,'>
+7	hokara	VM	<fs af='ho,v,any,any,any,,kara,kara'>
+8	unakI	PRP	<fs agr_num='sg' agr_cas='d' agr_gen='f' af='vaha,pn,any,pl,3,o,kA,kA'>
+9	hara	QF	<fs af='hara,adj,any,any,,any,,'>
+10	manokAmanA	NN	<fs af='manokAmanA,n,f,sg,3,d,0,0'>
+11	pUrNa	JJ	<fs af='pUrNa,adj,any,any,,any,,'>
+12	karawe	VM	<fs af='kara,v,m,pl,any,,wA,wA'>
+13	hEM	VAUX	<fs af='hE,v,any,pl,1,,hE,hE'>
+14	.	SYM	<fs af='.,punc,,,,,,'>
+</Sentence>

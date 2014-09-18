@@ -1,0 +1,42 @@
+<Sentence id="1">			
+1	((	NP	
+1.1	aba	PRP	<fs af='aba,adv,,,,,,' poslcat="NM">
+	))		
+2	((	NP	
+2.1	eka	PRPC	<fs af='eka,adj,any,any,,any,,' poslcat="NM">
+2.2	xUsare	QO	<fs af='xUsarA,adj,m,sg,,o,,'>
+2.3	barwana	NN	<fs af='barwana,n,m,sg,3,o,0,0'>
+2.4	meM	PSP	<fs af='meM,psp,,,,,,'>
+	))		
+3	((	NP	
+3.1	AXA	QF	<fs af='AXA,adj,m,sg,,d,,'>
+3.2	kapa	NN	<fs af='kapa,n,m,sg,3,d,0,0'>
+	))		
+4	((	NP	
+4.1	xUXa	NN	<fs af='xUXa,n,m,sg,3,o,0,0'>
+4.2	ko	PSP	<fs af='ko,psp,,,,,,'>
+	))		
+5	((	NP	
+5.1	mExe	NN	<fs af='mExA,n,m,sg,3,o,0,0'>
+5.2	meM	PSP	<fs af='meM,psp,,,,,,'>
+	))		
+6	((	RBP	
+6.1	XIre	RB	<fs af='XIre,adv,,,,,,'>
+6.2	-JOIN	SYM	<fs af='-OIN,unk,,,,,,' poslcat="NM">
+6.3	XIre	RDP	<fs af='XIre,adv,,,,,,' poslcat="NM">
+6.4	dAleM	VAUX	<fs af='dAla,v,any,pl,1,,e,e'>
+	))		
+7	((	CCP	
+7.1	Ora	CC	<fs af='Ora,avy,,,,,,'>
+	))		
+8	((	NP	
+8.1	acCe	JJ	<fs af='acCA,adj,m,sg,,o,,'>
+8.2	se	PSP	<fs af='se,psp,,,,,,'>
+	))		
+9	((	VGF	
+9.1	milAie	VM	<fs af='milA,v,any,sg,2,,e,e' hon='y'>
+	))		
+10	((	BLK	
+10.1	.	SYM	<fs af='.,punc,,,,,,'>
+	))		
+</Sentence>			

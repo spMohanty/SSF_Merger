@@ -1,0 +1,16 @@
+<Sentence id="1">
+1	lAjavAba	NNPC	<fs poslcat='NM' af='lAjavAba,adj,any,any,,any,,'>
+2	namakIna	NN	<fs af='namakIna,n,m,sg,3,d,0,0'>
+3	pUrI	JJ	<fs af='pUrI,adj,f,any,,any,,'>
+4	AmatI	NN	<fs poslcat='NM' af='AmatI,unk,,,,,,'>
+5	,	SYM	<fs af='&comma,punc,,,,,,'>
+6	tamAtara	NN	<fs af='tamAtara,n,m,sg,3,d,0,0'>
+7	sOYsa	NN	<fs af='sOYsa,n,m,sg,3,d,0,0'>
+8	yA	CC	<fs af='yA,avy,,,,,,'>
+9	harI	JJ	<fs af='harI,adj,f,any,,any,,'>
+10	catanI	NNP	<fs af='catanI,n,f,sg,3,o,0,0'>
+11	ke	PSP	<fs af='kA,psp,m,sg,,o,kA,kA'>
+12	sAWa	NST	<fs af='sAWa,adv,,,,,,'>
+13	paroseM	VM	<fs af='parosa,v,any,pl,1,,e,e'>
+14	.	SYM	<fs af='.,punc,,,,,,'>
+</Sentence>

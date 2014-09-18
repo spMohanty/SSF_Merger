@@ -1,0 +1,30 @@
+<Sentence id="1">			
+1	((	VGNF	
+1.1	Petawe	VM	<fs af='Peta,v,m,pl,any,,wA,wA'>
+	))		
+2	((	NP	
+2.1	samaya	NN	<fs af='samaya,n,m,sg,3,d,0,0'>
+	))		
+3	((	NP	
+3.1	koko	NNPC	<fs af='koko,n,m,sg,3,d,0,0'>
+3.2	pAvadara	NNP	<fs af='pAvadara,n,m,sg,3,d,0,0'>
+3.3	,	SYM	<fs af='&comma,punc,,,,,,'>
+	))		
+4	((	NP	
+4.1	kalara	NN	<fs af='kalara,n,m,sg,3,d,0,0'>
+	))		
+5	((	CCP	
+5.1	Ora	CC	<fs af='Ora,avy,,,,,,'>
+	))		
+6	((	NP	
+6.1	eseMsa	NN	<fs af='eseMsa,n,m,sg,3,d,0,0'>
+6.2	BI	RP	<fs af='BI,avy,,,,,,'>
+	))		
+7	((	VGF	
+7.1	milA	VM	<fs af='milA,v,any,any,any,,0,0'>
+7.2	xeM	VAUX	<fs af='xe,v,any,pl,1,,e,e'>
+	))		
+8	((	BLK	
+8.1	.	SYM	<fs af='.,punc,,,,,,'>
+	))		
+</Sentence>			

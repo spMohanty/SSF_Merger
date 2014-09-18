@@ -1,0 +1,18 @@
+<Sentence id="1">
+1	gUMWe	VM	<fs af='gUMWa,v,any,sg,2,,e,e'>
+2	hue	VAUX	<fs af='ho,v,any,sg,2,,e,e'>
+3	Ate	NN	<fs af='AtA,n,m,sg,3,o,0,0'>
+4	se	PSP	<fs af='se,psp,,,,,,'>
+5	AvaSyawAnusAra	NN	<fs poslcat='NM' af='AvaSyawAnusAra,unk,,,,,,'>
+6	loI	VAUX	<fs poslcat='NM' af='loI,n,f,sg,3,d,0,0'>
+7	banAeM	VM	<fs af='banA,v,any,pl,1,,e,e'>
+8	Ora	CC	<fs af='Ora,avy,,,,,,'>
+9	hAWa	NN	<fs af='hAWa,n,m,sg,3,o,0,0'>
+10	kI	PSP	<fs af='kA,psp,f,sg,,o,kA,kA'>
+11	sahAyawA	NN	<fs af='sahAyawA,n,f,sg,3,o,0,0'>
+12	se	PSP	<fs af='se,psp,,,,,,'>
+13	WapaWapAkara	VM	<fs af='WapaWapA,v,any,any,any,,kara,kara'>
+14	bela	VM	<fs af='bela,v,any,any,any,,0,0'>
+15	leM	VAUX	<fs af='le,v,any,pl,1,,e,e'>
+16	.	SYM	<fs af='.,punc,,,,,,'>
+</Sentence>

@@ -1,0 +1,28 @@
+<Sentence id="1">			
+1	((	NP	
+1.1	sarviga	NNC	<fs af='sarviga,unk,,,,,,' poslcat="NM">
+1.2	pleta	NN	<fs af='pleta,n,f,sg,3,o,0,0'>
+1.3	para	PSP	<fs af='para,psp,,,,,,'>
+	))		
+2	((	VGNF	
+2.1	raKakara	VM	<fs af='raKa,v,any,any,any,,kara,kara'>
+	))		
+3	((	NP	
+3.1	harI	JJ	<fs af='harI,adj,f,any,,any,,'>
+3.2	XaniyA	NNP	<fs af='XaniyA,n,f,sg,3,o,0,0'>
+3.3	se	PSP	<fs af='se,psp,,,,,,'>
+	))		
+4	((	VGNF	
+4.1	sajAkara	VM	<fs af='sajA,v,any,any,any,,kara,kara'>
+	))		
+5	((	NP	
+5.1	garamAgarama	JJ	<fs af='garamAgarama,adj,any,any,,any,,'>
+5.2	sarva	NN	<fs af='sarva,n,f,sg,3,d,0,0'>
+	))		
+6	((	VGF	
+6.1	kareM	VM	<fs af='kara,v,any,pl,1,,e,e'>
+	))		
+7	((	BLK	
+7.1	.	SYM	<fs af='.,punc,,,,,,'>
+	))		
+</Sentence>			

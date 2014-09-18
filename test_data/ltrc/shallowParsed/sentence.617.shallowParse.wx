@@ -1,0 +1,18 @@
+<Sentence id="1">			
+1	((	NP	
+1.1	svAxiRta	JJ	<fs af='svAxiRta,adj,any,any,,any,,'>
+1.2	masAlA	NN	<fs af='masAlA,n,m,sg,3,d,0,0'>
+	))		
+2	((	NP	
+2.1	panIra	NN	<fs af='panIra,n,m,sg,3,d,0,0'>
+	))		
+3	((	JJP	
+3.1	wEyAra	JJ	<fs af='wEyAra,adj,any,any,,any,,'>
+	))		
+4	((	VGF	
+4.1	hE	VM	<fs af='hE,v,any,sg,2,,hE,hE'>
+	))		
+5	((	BLK	
+5.1	.	SYM	<fs af='.,punc,,,,,,'>
+	))		
+</Sentence>			

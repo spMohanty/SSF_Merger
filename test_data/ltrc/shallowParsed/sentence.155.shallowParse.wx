@@ -1,0 +1,57 @@
+<Sentence id="1">			
+1	((	NP	
+1.1	kurakurI	NNP	<fs af='kurakurI,adj,f,any,,any,,' poslcat="NM">
+	))		
+2	((	VGNN	
+2.1	hone	VM	<fs af='ho,v,m,pl,any,,nA,nA'>
+2.2	para	PSP	<fs af='para,psp,,,,,,'>
+	))		
+3	((	NP	
+3.1	xahI	NN	<fs af='xahI,n,m,sg,3,d,0,0'>
+3.2	,	SYM	<fs af='&comma,punc,,,,,,'>
+	))		
+4	((	JJP	
+4.1	harI	JJ	<fs af='harI,adj,f,any,,any,,'>
+	))		
+5	((	CCP	
+5.1	Ora	CC	<fs af='Ora,avy,,,,,,'>
+	))		
+6	((	NP	
+6.1	imalI	NNP	<fs af='imalI,n,f,sg,3,o,0,0'>
+6.2	kI	PSP	<fs af='kA,psp,f,sg,,d,kA,kA'>
+	))		
+7	((	NP	
+7.1	catanI	NN	<fs af='catanI,n,f,sg,3,d,0,0'>
+	))		
+8	((	CCP	
+8.1	evaM	CC	<fs af='evaM,avy,,,,,,'>
+	))		
+9	((	NP	
+9.1	seMva	NN	<fs af='seMva,unk,,,,,,' poslcat="NM">
+	))		
+10	((	NP	
+10.1	burakAeM	NN	<fs af='burakA,v,any,pl,1,,e,e' poslcat="NM">
+	))		
+11	((	CCP	
+11.1	Ora	CC	<fs af='Ora,avy,,,,,,'>
+	))		
+12	((	NP	
+12.1	pleta	NN	<fs af='pleta,n,f,sg,3,o,0,0'>
+12.2	meM	PSP	<fs af='meM,psp,,,,,,'>
+	))		
+13	((	NP	
+13.1	sajA	NN	<fs af='sajA,n,f,sg,3,d,0,0'>
+	))		
+14	((	VGNF	
+14.1	kara	VM	<fs af='kara,v,any,any,any,,0,0'>
+	))		
+15	((	JJP	
+15.1	peSa	JJ	<fs af='peSa,adj,any,any,,any,,'>
+	))		
+16	((	VGF	
+16.1	kareM	VM	<fs af='kara,v,any,pl,1,,e,e'>
+	))		
+17	((	BLK	
+17.1	.	SYM	<fs af='.,punc,,,,,,'>
+	))		
+</Sentence>			

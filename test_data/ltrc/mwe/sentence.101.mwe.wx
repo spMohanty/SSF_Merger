@@ -1,0 +1,18 @@
+<Sentence id="1">
+1	TaMde	JJ	<fs af='TaMdA,adj,m,pl,,d,,'>
+2	hone	VM	<fs af='ho,v,m,pl,any,,nA,nA'>
+3	para	PSP	<fs af='para,psp,,,,,,'>
+4	inake	PRP	<fs agr_num='pl' agr_cas='d' agr_gen='m' af='yaha,pn,any,pl,3,o,kA,kA'>
+5	Cilake	NN	<fs af='CilakA,n,m,pl,3,d,0,0'>
+6	uwAra	VM	<fs af='uwAra,v,any,any,any,,0,0'>
+7	kara	VAUX	<fs af='kara,v,any,any,any,,0,0'>
+8	gola	NNC	<fs af='gola,n,m,sg,3,d,0,0'>
+9	-JOIN	SYM	<fs poslcat='NM' af='-OIN,unk,,,,,,'>
+10	gola	NN	<fs af='gola,n,m,sg,3,d,0,0'>
+11	tukadZe	NN	<fs af='tukadZA,n,m,pl,3,d,0,0'>
+12	kAta	VM	<fs af='kAta,v,any,any,any,,0,0'>
+13	kara	VAUX	<fs af='kara,v,any,any,any,,0,0'>
+14	raKa	VM	<fs af='raKa,v,any,any,any,,0,0'>
+15	leM	VAUX	<fs af='le,v,any,pl,1,,e,e'>
+16	.	SYM	<fs af='.,punc,,,,,,'>
+</Sentence>

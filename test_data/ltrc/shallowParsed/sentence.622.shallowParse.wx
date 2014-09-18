@@ -1,0 +1,63 @@
+<Sentence id="1">			
+1	((	NP	
+1.1	jaba	PRP	<fs af='jaba,adv,,,,,,' poslcat="NM">
+	))		
+2	((	JJP	
+2.1	sunaharA	JJ	<fs af='sunaharA,adj,m,sg,,d,,'>
+	))		
+3	((	VGNN	
+3.1	honA	VM	<fs af='ho,v,m,sg,any,,nA,nA'>
+	))		
+4	((	NP	
+4.1	Suru	NN	<fs af='Suru,n,m,sg,3,d,0,0'>
+	))		
+5	((	VGF	
+5.1	ho	VM	<fs af='ho,v,any,any,any,,0,0'>
+5.2	jAe	VAUX	<fs af='jA,v,any,sg,2,,e,e'>
+	))		
+6	((	NP	
+6.1	waba	PRP	<fs af='waba,adv,,,,,,' poslcat="NM">
+	))		
+7	((	NP	
+7.1	halxI	NN	<fs af='halxI,n,f,sg,3,d,0,0'>
+	))		
+8	((	NP	
+8.1	pAudara	NN	<fs af='pAudara,n,m,sg,3,d,0,0'>
+8.2	,	SYM	<fs af='&comma,punc,,,,,,'>
+	))		
+9	((	NP	
+9.1	namaka	NN	<fs af='namaka,n,m,sg,3,d,0,0'>
+9.2	,	SYM	<fs af='&comma,punc,,,,,,'>
+	))		
+10	((	NP	
+10.1	yalo	PRP	<fs af='yalo,unk,,,,,,' poslcat="NM">
+	))		
+11	((	NP	
+11.1	cilI	NNPC	<fs af='cilI,n,f,sg,3,d,0,0'>
+11.2	pAudara	NN	<fs af='pAudara,n,m,sg,3,d,0,0'>
+11.3	,	SYM	<fs af='&comma,punc,,,,,,'>
+	))		
+12	((	NP	
+12.1	XaniyA	NNPC	<fs af='XaniyA,n,f,sg,3,d,0,0'>
+12.2	pAudara	NN	<fs af='pAudara,n,m,sg,3,d,0,0'>
+12.3	,	SYM	<fs af='&comma,punc,,,,,,'>
+	))		
+13	((	NP	
+13.1	jIrA	NNPC	<fs af='jIrA,n,m,sg,3,d,0,0'>
+13.2	pAudara	NN	<fs af='pAudara,n,m,sg,3,d,0,0'>
+13.3	,	SYM	<fs af='&comma,punc,,,,,,'>
+	))		
+14	((	VGNF	
+14.1	dAlakara	VM	<fs af='dAla,v,any,any,any,,kara,kara'>
+	))		
+15	((	NP	
+15.1	acCI	JJ	<fs af='acCI,adj,f,any,,any,,'>
+15.2	waraha	NN	<fs af='waraha,n,m,sg,3,d,0,0'>
+	))		
+16	((	VGF	
+16.1	BUneM	VM	<fs af='BUna,v,any,pl,1,,e,e'>
+	))		
+17	((	BLK	
+17.1	.	SYM	<fs af='.,punc,,,,,,'>
+	))		
+</Sentence>			

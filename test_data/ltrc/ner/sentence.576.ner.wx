@@ -1,0 +1,26 @@
+<Sentence id="1">
+1	preSara	unk
+2	kukara	unk
+3	meM	unk
+4	wela	unk
+5	garma	unk
+6	kara	unk
+7	usameM	unk
+8	jIrA	unk
+9	,	unk
+10	((	NP	<fs etype='ne' esubtype='person'>
+10.1	rAI	unk	<fs etype='ne' esubtype='person'>
+	))
+11	,	unk
+12	((	NP	<fs etype='ne' esubtype='person'>
+12.1	karI	unk	<fs etype='ne' esubtype='person'>
+	))
+13	pawwA	unk
+14	,	unk
+15	lAla	unk
+16	mirca	unk
+17	Ora	unk
+18	hIMga	unk
+19	dAleM	unk
+20	.	unk
+</Sentence>

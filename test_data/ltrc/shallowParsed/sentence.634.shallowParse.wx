@@ -1,0 +1,14 @@
+<Sentence id="1">			
+1	((	NP	
+1.1	jIrA	NN	<fs af='jIrA,n,m,sg,3,d,0,0'>
+	))		
+2	((	VGNF	
+2.1	dAlakara	VM	<fs af='dAla,v,any,any,any,,kara,kara'>
+	))		
+3	((	VGF	
+3.1	catakAeM	VM	<fs af='catakA,v,any,pl,1,,e,e'>
+	))		
+4	((	BLK	
+4.1	.	SYM	<fs af='.,punc,,,,,,'>
+	))		
+</Sentence>			

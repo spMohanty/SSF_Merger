@@ -1,0 +1,15 @@
+<Sentence id="1">
+1	Cote	JJ	<fs af='CotA,adj,m,sg,,o,,'>
+2	AkAra	NN	<fs af='AkAra,n,m,sg,3,o,0,0'>
+3	ke	PSP	<fs af='kA,psp,m,sg,,o,kA,kA'>
+4	bEMgana	NN	<fs af='bEMgana,n,m,sg,3,d,0,0'>
+5	lekara	VM	<fs af='le,v,any,any,any,,kara,kara'>
+6	unameM	PRP	<fs af='vaha,pn,any,pl,3,o,meM,meM'>
+7	bIca	NST	<fs af='bIca,adv,,,,,,'>
+8	meM	PSP	<fs af='meM,psp,,,,,,'>
+9	se	PSP	<fs af='se,psp,,,,,,'>
+10	cIrA	NN	<fs af='cIrA,n,m,sg,3,d,0,0'>
+11	lagA	VM	<fs af='lagA,v,any,any,any,,0,0'>
+12	leM	VAUX	<fs af='le,v,any,pl,1,,e,e'>
+13	.	SYM	<fs af='.,punc,,,,,,'>
+</Sentence>

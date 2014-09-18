@@ -1,0 +1,26 @@
+<Sentence id="1">
+1	nAriyala	NNPC	<fs af='nAriyala,n,m,sg,3,d,0,0'>
+2	pAvadara	NN	<fs af='pAvadara,n,m,sg,3,d,0,0'>
+3	,	SYM	<fs af='&comma,punc,,,,,,'>
+4	pisI	NNPC	<fs poslcat='NM' af='pisI,adj,f,any,,any,,'>
+5	mUMgaPalI	NNP	<fs af='mUMgaPalI,n,f,sg,3,d,0,0'>
+6	,	SYM	<fs af='&comma,punc,,,,,,'>
+7	Sakkara	NNP	<fs af='Sakkara,n,f,sg,3,d,0,0'>
+8	,	SYM	<fs af='&comma,punc,,,,,,'>
+9	XaniyA	NNPC	<fs af='XaniyA,n,f,sg,3,d,0,0'>
+10	pAvadara	NN	<fs af='pAvadara,n,m,sg,3,d,0,0'>
+11	,	SYM	<fs af='&comma,punc,,,,,,'>
+12	halxI	NN	<fs af='halxI,n,f,sg,3,d,0,0'>
+13	,	SYM	<fs af='&comma,punc,,,,,,'>
+14	namaka	NN	<fs af='namaka,n,m,sg,3,d,0,0'>
+15	,	SYM	<fs af='&comma,punc,,,,,,'>
+16	lAlamirca	NNPC	<fs af='lAlamirca,n,f,sg,3,d,0,0'>
+17	pAvadara	NN	<fs af='pAvadara,n,m,sg,3,d,0,0'>
+18	va	CC	<fs af='va,avy,,,,,,'>
+19	garama	JJ	<fs af='garama,adj,any,any,,any,,'>
+20	masAle	NN	<fs af='masAlA,n,m,sg,3,o,0,0'>
+21	ko	PSP	<fs af='ko,psp,,,,,,'>
+22	milA	VM	<fs af='milA,v,any,any,any,,0,0'>
+23	leM	VAUX	<fs af='le,v,any,pl,1,,e,e'>
+24	.	SYM	<fs af='.,punc,,,,,,'>
+</Sentence>

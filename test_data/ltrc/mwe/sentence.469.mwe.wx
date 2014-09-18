@@ -1,0 +1,17 @@
+<Sentence id="1">
+1	moxaka	JJ	<fs poslcat='NM' af='moxaka,n,m,sg,3,o,0,0'>
+2	mahArARtra	NNP	<fs af='mahArARtra,n,m,sg,3,o,0,0'>
+3	meM	PSP	<fs af='meM,psp,,,,,,'>
+4	KAyA	VM	<fs af='KA,v,m,sg,any,,yA,yA'>
+5	jAne	VAUX	<fs af='jAna,v,any,sg,2,,e,e'>
+6	vAlA	PSP	<fs af='vAlA,psp,m,sg,,d,kA,kA'>
+7	Ora	CC	<fs af='Ora,avy,,,,,,'>
+8	BagavAna	NNC	<fs af='BagavAna,n,m,sg,3,d,0,0'>
+9	SrI	NNC	<fs af='SrI,n,f,sg,3,d,0,0'>
+10	gaNeSa	NNP	<fs af='gaNeSa,n,m,sg,3,o,0,0'>
+11	kA	PSP	<fs af='kA,psp,m,sg,,d,kA,kA'>
+12	priya	JJ	<fs af='priya,adj,any,any,,any,,'>
+13	vyaMjana	NN	<fs af='vyaMjana,n,m,sg,3,d,0,0'>
+14	hE	VM	<fs af='hE,v,any,sg,2,,hE,hE'>
+15	.	SYM	<fs af='.,punc,,,,,,'>
+</Sentence>

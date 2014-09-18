@@ -1,0 +1,11 @@
+<Sentence id="1">
+1	AlU	NN	<fs af='AlU,n,m,sg,3,o,0,0'>
+2	ke	PSP	<fs af='kA,psp,m,sg,,o,kA,kA'>
+3	Cote	JJ	<fs af='CotA,adj,m,pl,,d,,'>
+4	-JOIN	SYM	<fs poslcat='NM' af='-OIN,unk,,,,,,'>
+5	Cote	JJ	<fs af='CotA,adj,m,sg,,o,,'>
+6	tukadZe	NN	<fs af='tukadZA,n,m,pl,3,d,0,0'>
+7	kara	VM	<fs af='kara,v,any,any,any,,0,0'>
+8	leM	VAUX	<fs af='le,v,any,pl,1,,e,e'>
+9	.	SYM	<fs af='.,punc,,,,,,'>
+</Sentence>

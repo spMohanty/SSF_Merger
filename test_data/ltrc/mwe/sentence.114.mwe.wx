@@ -1,0 +1,11 @@
+<Sentence id="1">
+1	aba	PRP	<fs poslcat='NM' af='aba,adv,,,,,,'>
+2	axaraka	NN	<fs af='axaraka,n,m,sg,3,d,0,0'>
+3	-JOIN	SYM	<fs poslcat='NM' af='-OIN,unk,,,,,,'>
+4	lahasuna	NN	<fs af='lahasuna,n,m,sg,3,o,0,0'>
+5	kA	PSP	<fs af='kA,psp,m,sg,,d,kA,kA'>
+6	pesta	NN	<fs af='pesta,n,m,sg,3,d,0,0'>
+7	dAlakara	VM	<fs af='dAla,v,any,any,any,,kara,kara'>
+8	calAe	VM	<fs af='calA,v,any,sg,2,,e,e'>
+9	.	SYM	<fs af='.,punc,,,,,,'>
+</Sentence>

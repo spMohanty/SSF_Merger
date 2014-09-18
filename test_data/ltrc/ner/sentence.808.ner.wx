@@ -1,0 +1,26 @@
+<Sentence id="1">
+1	eka	unk
+2	((	NP	<fs etype='ne' esubtype='person'>
+2.1	pEna	unk	<fs etype='ne' esubtype='person'>
+	))
+3	meM	unk
+4	GI	unk
+5	garma	unk
+6	kareM	unk
+7	,	unk
+8	jaba	unk
+9	wela	unk
+10	garama	unk
+11	ho	unk
+12	jAe	unk
+13	wo	unk
+14	usameM	unk
+15	pyAja	unk
+16	dAlakara	unk
+17	gulAbI	unk
+18	hone	unk
+19	waka	unk
+20	BUna	unk
+21	leM	unk
+22	.	unk
+</Sentence>

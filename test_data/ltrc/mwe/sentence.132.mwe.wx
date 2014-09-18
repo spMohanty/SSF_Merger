@@ -1,0 +1,21 @@
+<Sentence id="1">
+1	Pira	RB	<fs af='Pira,adv,,,,,,'>
+2	usameM	PRP	<fs af='vaha,pn,any,sg,3,o,meM,meM'>
+3	namaka	NN	<fs af='namaka,n,m,sg,3,d,0,0'>
+4	,	SYM	<fs af='&comma,punc,,,,,,'>
+5	KoparA	NNPC	<fs af='KoparA,n,m,sg,3,d,0,0'>
+6	bUrA	NNP	<fs af='bUrA,n,m,sg,3,d,0,0'>
+7	,	SYM	<fs af='&comma,punc,,,,,,'>
+8	kAjU	NNP	<fs af='kAjU,n,m,sg,3,o,0,0'>
+9	ke	PSP	<fs af='kA,psp,m,pl,,d,kA,kA'>
+10	tukadZe	NN	<fs af='tukadZA,n,m,pl,3,d,0,0'>
+11	va	CC	<fs af='va,avy,,,,,,'>
+12	kiSamiSa	NN	<fs af='kiSamiSa,n,f,sg,3,d,0,0'>
+13	dAlakara	VM	<fs af='dAla,v,any,any,any,,kara,kara'>
+14	miSraNa	NNP	<fs af='miSraNa,n,m,sg,3,o,0,0'>
+15	ko	PSP	<fs af='ko,psp,,,,,,'>
+16	wEyAra	JJ	<fs af='wEyAra,adj,any,any,,any,,'>
+17	kara	VM	<fs af='kara,v,any,any,any,,0,0'>
+18	leM	VAUX	<fs af='le,v,any,pl,1,,e,e'>
+19	.	SYM	<fs af='.,punc,,,,,,'>
+</Sentence>

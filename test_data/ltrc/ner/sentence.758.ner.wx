@@ -1,0 +1,37 @@
+<Sentence id="1">
+1	AMca	unk
+2	se	unk
+3	uwAra	unk
+4	kara	unk
+5	sarviga	unk
+6	bola	unk
+7	meM	unk
+8	((	NP	<fs etype='ne' esubtype='person'>
+8.1	dAleM	unk	<fs etype='ne' esubtype='person'>
+	))
+9	Ora	unk
+10	((	NP	<fs etype='ne' esubtype='person'>
+10.1	katI	unk	<fs etype='ne' esubtype='person'>
+	))
+11	huI	unk
+12	((	NP	<fs etype='ne' esubtype='location'>
+12.1	XaniyA	unk	<fs etype='ne' esubtype='location'>
+	))
+13	Ora	unk
+14	((	NP	<fs etype='ne' esubtype='location'>
+14.1	spriMga	unk	<fs etype='ne' esubtype='location'>
+	))
+15	aniyana	unk
+16	se	unk
+17	sajAkara	unk
+18	garamAgarama	unk
+19	nimonA	unk
+20	cAvala	unk
+21	yA	unk
+22	parAMTo	unk
+23	ke	unk
+24	sAWa	unk
+25	sarva	unk
+26	kareM	unk
+27	.	unk
+</Sentence>

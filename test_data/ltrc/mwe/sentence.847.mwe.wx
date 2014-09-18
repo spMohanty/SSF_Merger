@@ -1,0 +1,11 @@
+<Sentence id="1">
+1	Pira	RB	<fs af='Pira,adv,,,,,,'>
+2	AXe	QF	<fs af='AXA,adj,m,sg,,o,,'>
+3	GaMte	NN	<fs af='GaMtA,n,m,sg,3,o,0,0'>
+4	waka	PSP	<fs af='waka,psp,,,,,,'>
+5	AXA	QF	<fs af='AXA,adj,m,sg,,d,,'>
+6	hone	VM	<fs af='ho,v,m,pl,any,,nA,nA'>
+7	waka	PSP	<fs af='waka,psp,,,,,,'>
+8	pakAeM	VM	<fs af='pakA,v,any,pl,1,,e,e'>
+9	.	SYM	<fs af='.,punc,,,,,,'>
+</Sentence>

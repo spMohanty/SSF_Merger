@@ -1,0 +1,14 @@
+<Sentence id="1">
+1	sarvapraWama	NNPC	<fs poslcat='NM' af='sarvapraWama,adv,,,,,,'>
+2	sarviMga	NNPC	<fs af='sarviMga,n,m,sg,3,d,0,0'>
+3	diSa	NN	<fs poslcat='NM' af='diSa,unk,,,,,,'>
+4	meM	PSP	<fs af='meM,psp,,,,,,'>
+5	PenI	NN	<fs af='PenI,n,f,sg,3,o,0,0'>
+6	ko	PSP	<fs af='ko,psp,,,,,,'>
+7	hAWa	NN	<fs af='hAWa,n,m,sg,3,o,0,0'>
+8	se	PSP	<fs af='se,psp,,,,,,'>
+9	kraSa	NN	<fs poslcat='NM' af='kraSa,unk,,,,,,'>
+10	karake	VM	<fs af='karaka,v,any,sg,2,,e,e'>
+11	raKeM	VM	<fs af='raKa,v,any,pl,1,,e,e'>
+12	.	SYM	<fs af='.,punc,,,,,,'>
+</Sentence>

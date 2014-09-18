@@ -1,0 +1,11 @@
+<Sentence id="1">
+1	wave	PRP	<fs poslcat='NM' af='wavA,n,m,sg,3,o,0,0'>
+2	para	PSP	<fs af='para,psp,,,,,,'>
+3	wela	NN	<fs af='wela,n,m,sg,3,d,0,0'>
+4	yA	CC	<fs af='yA,avy,,,,,,'>
+5	GI	RP	<fs poslcat='NM' af='GI,n,m,sg,3,d,0,0'>
+6	lagAkara	VM	<fs af='lagA,v,any,any,any,,kara,kara'>
+7	seMka	NN	<fs poslcat='NM' af='seMka,v,any,any,any,,0,0'>
+8	leM	VAUX	<fs af='le,v,any,pl,1,,e,e'>
+9	.	SYM	<fs af='.,punc,,,,,,'>
+</Sentence>

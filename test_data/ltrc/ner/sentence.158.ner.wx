@@ -1,0 +1,30 @@
+<Sentence id="1">
+1	aba	unk
+2	besana	unk
+3	meM	unk
+4	sAre	unk
+5	masAle	unk
+6	dAleM	unk
+7	Ora	unk
+8	acCA	unk
+9	moyana	unk
+10	((	NP	<fs etype='ne' esubtype='person'>
+10.1	dAlakara	unk	<fs etype='ne' esubtype='person'>
+10.2	golI	unk	<fs etype='ne' esubtype='person'>
+	))
+11	bana	unk
+12	jAe	unk
+13	,	unk
+14	EsA	unk
+15	gUMWa	unk
+16	kara	unk
+17	CotI	unk
+18	-JOIN	unk
+19	CotI	unk
+20	((	NP	<fs etype='ne' esubtype='person'>
+20.1	golI	unk	<fs etype='ne' esubtype='person'>
+	))
+21	banA	unk
+22	leM	unk
+23	.	unk
+</Sentence>

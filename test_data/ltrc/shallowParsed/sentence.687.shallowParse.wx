@@ -1,0 +1,15 @@
+<Sentence id="1">			
+1	((	NP	
+1.1	AXA	QF	<fs af='AXA,adj,m,sg,,d,,'>
+1.2	kapa	NN	<fs af='kapa,n,m,sg,3,d,0,0'>
+	))		
+2	((	NP	
+2.1	pAnI	NN	<fs af='pAnI,n,m,sg,3,d,0,0'>
+	))		
+3	((	VGF	
+3.1	dAleM	VM	<fs af='dAla,v,any,pl,1,,e,e'>
+	))		
+4	((	BLK	
+4.1	.	SYM	<fs af='.,punc,,,,,,'>
+	))		
+</Sentence>			

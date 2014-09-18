@@ -1,0 +1,13 @@
+<Sentence id="1">
+1	aba	unk
+2	ise	unk
+3	((	NP	<fs etype='ne' esubtype='person'>
+3.1	harI	unk	<fs etype='ne' esubtype='person'>
+	))
+4	XaniyA	unk
+5	se	unk
+6	sajAkara	unk
+7	garamAgarama	unk
+8	paroseM	unk
+9	.	unk
+</Sentence>

@@ -1,0 +1,42 @@
+<Sentence id="1">			
+1	((	NP	
+1.1	aba	PRP	<fs af='aba,adv,,,,,,' poslcat="NM">
+	))		
+2	((	NP	
+2.1	Upara	NST	<fs af='Upara,adv,,,,,,'>
+2.2	se	PSP	<fs af='se,psp,,,,,,'>
+	))		
+3	((	NP	
+3.1	kAlA	JJ	<fs af='kAlA,adj,m,sg,,d,,'>
+3.2	namaka	NN	<fs af='namaka,n,m,sg,3,d,0,0'>
+3.3	,	SYM	<fs af='&comma,punc,,,,,,'>
+	))		
+4	((	NP	
+4.1	kAlI	NNP	<fs af='kAlI,n,f,sg,3,d,0,0'>
+4.2	mirca	NN	<fs af='mirca,n,f,sg,3,o,0,0'>
+4.3	kA	PSP	<fs af='kA,psp,m,sg,,d,kA,kA'>
+	))		
+5	((	NP	
+5.1	pAvadara	NN	<fs af='pAvadara,n,m,sg,3,d,0,0'>
+5.2	,	SYM	<fs af='&comma,punc,,,,,,'>
+	))		
+6	((	VGNF	
+6.1	pisA	VM	<fs af='pisA,v,any,any,any,,0,0'>
+	))		
+7	((	NP	
+7.1	jIrA	NNP	<fs af='jIrA,n,m,sg,3,d,0,0'>
+	))		
+8	((	CCP	
+8.1	va	CC	<fs af='va,avy,,,,,,'>
+	))		
+9	((	NP	
+9.1	sAxA	NN	<fs af='sAxA,n,m,sg,3,d,0,0'>
+	))		
+10	((	NP	
+10.1	namaka	JJ	<fs af='namaka,n,m,sg,3,d,0,0' poslcat="NM">
+10.2	burakAeM	NN	<fs af='burakA,v,any,pl,1,,e,e' poslcat="NM">
+	))		
+11	((	BLK	
+11.1	.	SYM	<fs af='.,punc,,,,,,'>
+	))		
+</Sentence>			

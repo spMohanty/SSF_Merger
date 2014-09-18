@@ -1,0 +1,19 @@
+<Sentence id="1">
+1  (( NP <fs etype='chunk'>
+1.1   राम   NNP   <fs>
+1.2   के PSP   <fs>
+))
+2  (( NP <fs etype='chunk'>
+2.1   नाम   NN <fs>
+   ))
+3  (( NP <fs etype='chunk'>
+3.1   डाक्यूमैंट्री  NN <fs>
+   ))
+4  (( NP <fs etype='chunk'>
+4.1   बहुत  INTF  <fs>
+4.2   प्रसिद्ध JJ <fs>
+   ))
+5  (( NP <fs etype='chunk'>
+5.1   है VM       <fs>
+   ))
+</Sentence>

@@ -1,0 +1,23 @@
+<Sentence id="1">
+1	eka	QC	<fs af='eka,adj,any,any,,any,,'>
+2	-JOIN	SYM	<fs poslcat='NM' af='-OIN,unk,,,,,,'>
+3	eka	RDP	<fs poslcat='NM' af='eka,adj,any,any,,any,,'>
+4	cammaca	NN	<fs af='cammaca,n,m,sg,3,d,0,0'>
+5	BarAvana	NN	<fs poslcat='NM' af='BarAvana,unk,,,,,,'>
+6	eka	QC	<fs af='eka,adj,any,any,,any,,'>
+7	-JOIN	SYM	<fs poslcat='NM' af='-OIN,unk,,,,,,'>
+8	eka	QC	<fs af='eka,adj,any,any,,any,,'>
+9	pattI	NN	<fs af='pattI,n,f,sg,3,o,0,0'>
+10	ke	PSP	<fs af='kA,psp,m,sg,,o,kA,kA'>
+11	kone	NN	<fs af='konA,n,m,sg,3,o,0,0'>
+12	para	PSP	<fs af='para,psp,,,,,,'>
+13	raKakara	VM	<fs af='raKa,v,any,any,any,,kara,kara'>
+14	use	PRP	<fs af='vaha,pn,any,sg,3,o,ko,ko'>
+15	wrikoNa	NNP	<fs af='wrikoNa,n,m,sg,3,o,0,0'>
+16	ke	PSP	<fs af='kA,psp,m,sg,,o,kA,kA'>
+17	AkAra	NN	<fs af='AkAra,n,m,sg,3,o,0,0'>
+18	meM	PSP	<fs af='meM,psp,,,,,,'>
+19	modZawe	VM	<fs af='modZa,v,m,pl,any,,wA,wA'>
+20	jAeM	VAUX	<fs af='jA,v,any,pl,1,,e,e'>
+21	.	SYM	<fs af='.,punc,,,,,,'>
+</Sentence>

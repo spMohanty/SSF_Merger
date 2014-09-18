@@ -1,0 +1,16 @@
+<Sentence id="1">
+1	tamAtara	NN	<fs af='tamAtara,n,m,sg,3,d,0,0'>
+2	Xokara	VM	<fs af='Xo,v,any,any,any,,kara,kara'>
+3	Upara	NST	<fs af='Upara,adv,,,,,,'>
+4	se	PSP	<fs af='se,psp,,,,,,'>
+5	slAisa	NN	<fs af='slAisa,n,m,sg,3,d,0,0'>
+6	kAta	VM	<fs af='kAta,v,any,any,any,,0,0'>
+7	leM	VAUX	<fs af='le,v,any,pl,1,,e,e'>
+8	va	CC	<fs af='va,avy,,,,,,'>
+9	skUpara	NN	<fs poslcat='NM' af='skUpara,unk,,,,,,'>
+10	se	PSP	<fs af='se,psp,,,,,,'>
+11	KoKalA	VM	<fs poslcat='NM' af='KoKalA,adj,m,sg,,d,,'>
+12	kara	VM	<fs af='kara,v,any,any,any,,0,0'>
+13	leM	VAUX	<fs af='le,v,any,pl,1,,e,e'>
+14	.	SYM	<fs af='.,punc,,,,,,'>
+</Sentence>

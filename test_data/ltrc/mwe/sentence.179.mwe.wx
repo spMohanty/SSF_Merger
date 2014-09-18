@@ -1,0 +1,8 @@
+<Sentence id="1">
+1	TaMdA	JJ	<fs af='TaMdA,adj,m,sg,,d,,'>
+2	hone	VM	<fs af='ho,v,m,pl,any,,nA,nA'>
+3	para	PSP	<fs af='para,psp,,,,,,'>
+4	pIsa	NN	<fs af='pIsa,n,m,sg,3,d,0,0'>
+5	leM	VAUX	<fs af='le,v,any,pl,1,,e,e'>
+6	.	SYM	<fs af='.,punc,,,,,,'>
+</Sentence>

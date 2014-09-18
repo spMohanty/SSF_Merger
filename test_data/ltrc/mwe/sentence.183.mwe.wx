@@ -1,0 +1,16 @@
+<Sentence id="1">
+1	halake	JJ	<fs af='halakA,adj,m,sg,,o,,'>
+2	hAWoM	NN	<fs af='hAWA,n,m,pl,3,o,0,0'>
+3	se	PSP	<fs af='se,psp,,,,,,'>
+4	bela	VM	<fs af='bela,v,any,any,any,,0,0'>
+5	kara	VM	<fs af='kara,v,any,any,any,,0,0'>
+6	wave	PRP	<fs poslcat='NM' af='wavA,n,m,sg,3,o,0,0'>
+7	para	PSP	<fs af='para,psp,,,,,,'>
+8	wela	NN	<fs af='wela,n,m,sg,3,d,0,0'>
+9	lagAkara	VM	<fs af='lagA,v,any,any,any,,kara,kara'>
+10	xonoM	QC	<fs emph='y' af='xonoM,adj,any,pl,,d,,'>
+11	ora	NST	<fs af='ora,adv,,,,,,'>
+12	se	PSP	<fs af='se,psp,,,,,,'>
+13	sekeM	NN	<fs poslcat='NM' af='seka,v,any,pl,1,,e,e'>
+14	.	SYM	<fs af='.,punc,,,,,,'>
+</Sentence>

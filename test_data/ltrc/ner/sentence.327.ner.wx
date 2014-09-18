@@ -1,0 +1,49 @@
+<Sentence id="1">
+1	aba	unk
+2	kate	unk
+3	pAlaka	unk
+4	,	unk
+5	lahasuna	unk
+6	,	unk
+7	harA	unk
+8	XaniyA	unk
+9	,	unk
+10	mirca	unk
+11	,	unk
+12	mUMga	unk
+13	((	NP	<fs etype='ne' esubtype='person'>
+13.1	xAla	unk	<fs etype='ne' esubtype='person'>
+	))
+14	,	unk
+15	((	NP	<fs etype='ne' esubtype='person'>
+15.1	breda	unk	<fs etype='ne' esubtype='person'>
+	))
+16	waWA	unk
+17	jIrA	unk
+18	,	unk
+19	namaka	unk
+20	,	unk
+21	cAta	unk
+22	masAlA	unk
+23	Ora	unk
+24	BIge	unk
+25	hue	unk
+26	soyAbIna	unk
+27	ko	unk
+28	eka	unk
+29	sAWa	unk
+30	milAkara	unk
+31	Cote	unk
+32	-JOIN	unk
+33	Cote	unk
+34	capate	unk
+35	(	unk
+36	tikiyA	unk
+37	kI	unk
+38	waraha	unk
+39	)	unk
+40	gole	unk
+41	banA	unk
+42	leM	unk
+43	.	unk
+</Sentence>

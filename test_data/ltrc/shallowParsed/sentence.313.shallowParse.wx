@@ -1,0 +1,38 @@
+<Sentence id="1">			
+1	((	VGNN	
+1.1	banAne	VM	<fs af='banA,v,m,pl,any,,nA,nA'>
+1.2	se	PSP	<fs af='se,psp,,,,,,'>
+	))		
+2	((	NP	
+2.1	pUrva	JJ	<fs af='pUrva,adj,any,any,,any,,'>
+2.2	rAwri	NN	<fs af='rAwri,n,f,sg,3,o,0,0'>
+2.3	meM	PSP	<fs af='meM,psp,,,,,,'>
+	))		
+3	((	NP	
+3.1	mUMga	NN	<fs af='mUMga,n,f,sg,3,d,0,0'>
+	))		
+4	((	NP	
+4.1	xAla	NN	<fs af='xAla,n,f,sg,3,o,0,0'>
+4.2	kI	PSP	<fs af='kA,psp,f,sg,,d,kA,kA'>
+	))		
+5	((	NP	
+5.1	cUrI	NN	<fs af='cUra,v,f,sg,any,,yA,yA' poslcat="NM">
+5.2	ko	PSP	<fs af='ko,psp,,,,,,'>
+	))		
+6	((	VGNF	
+6.1	Xokara	VM	<fs af='Xo,v,any,any,any,,kara,kara'>
+	))		
+7	((	NP	
+7.1	pAnI	NN	<fs af='pAnI,n,m,sg,3,o,0,0'>
+7.2	meM	PSP	<fs af='meM,psp,,,,,,'>
+	))		
+8	((	VGNF	
+8.1	Bigo	VM	<fs af='Bigo,v,any,any,any,,0,0'>
+	))		
+9	((	VGF	
+9.1	xeM	VM	<fs af='xe,v,any,pl,1,,e,e'>
+	))		
+10	((	BLK	
+10.1	.	SYM	<fs af='.,punc,,,,,,'>
+	))		
+</Sentence>			

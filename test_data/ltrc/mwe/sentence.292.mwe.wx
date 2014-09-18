@@ -1,0 +1,33 @@
+<Sentence id="1">
+1	halke	JJ	<fs af='halkA,adj,m,sg,,o,,'>
+2	hAWa	NN	<fs af='hAWa,n,m,sg,3,o,0,0'>
+3	se	PSP	<fs af='se,psp,,,,,,'>
+4	motA	VM	<fs af='motA,v,any,any,any,,0,0'>
+5	bela	VM	<fs af='bela,v,any,any,any,,0,0'>
+6	leM	VAUX	<fs af='le,v,any,pl,1,,e,e'>
+7	Ora	CC	<fs af='Ora,avy,,,,,,'>
+8	sabase	INTF	<fs af='sabasA,adj,m,sg,,o,,'>
+9	nIce	NST	<fs af='nIce,adv,,,,,,'>
+10	harA	VM	<fs af='harA,v,any,any,any,,0,0'>
+11	,	SYM	<fs af='&comma,punc,,,,,,'>
+12	Pira	RB	<fs af='Pira,adv,,,,,,'>
+13	saPexa	JJ	<fs af='saPexa,adj,any,any,,any,,'>
+14	Ora	CC	<fs af='Ora,avy,,,,,,'>
+15	Upara	NST	<fs af='Upara,adv,,,,,,'>
+16	pIle	JJ	<fs af='pIlA,adj,m,sg,,o,,'>
+17	raMga	NN	<fs af='raMga,n,m,sg,3,o,0,0'>
+18	kI	PSP	<fs af='kA,psp,f,sg,,d,kA,kA'>
+19	jamA	JJ	<fs af='jamA,adj,m,sg,,d,,'>
+20	xeM	VM	<fs af='xe,v,any,pl,1,,e,e'>
+21	Ora	CC	<fs af='Ora,avy,,,,,,'>
+22	halke	NN	<fs af='halkA,n,m,sg,3,o,0,0'>
+23	se	PSP	<fs af='se,psp,,,,,,'>
+24	hAWa	NN	<fs af='hAWa,n,m,sg,3,o,0,0'>
+25	se	PSP	<fs af='se,psp,,,,,,'>
+26	xabA	VM	<fs af='xabA,v,any,any,any,,0,0'>
+27	kara	VAUX	<fs af='kara,v,any,any,any,,0,0'>
+28	baraka	JJ	<fs poslcat='NM' af='baraka,unk,,,,,,'>
+29	cipakA	VM	<fs af='cipakA,v,any,any,any,,0,0'>
+30	xeM	VM	<fs af='xe,v,any,pl,1,,e,e'>
+31	.	SYM	<fs af='.,punc,,,,,,'>
+</Sentence>

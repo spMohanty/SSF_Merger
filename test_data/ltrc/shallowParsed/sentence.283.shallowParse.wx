@@ -1,0 +1,33 @@
+<Sentence id="1">			
+1	((	NP	
+1.1	wela	NN	<fs af='wela,n,m,sg,3,o,0,0'>
+1.2	meM	PSP	<fs af='meM,psp,,,,,,'>
+	))		
+2	((	VGNN	
+2.1	rAI	VM	<fs af='rAI,n,f,sg,3,d,0,0' poslcat="NM">
+2.2	,	SYM	<fs af='&comma,punc,,,,,,'>
+	))		
+3	((	NP	
+3.1	mITA	NNC	<fs af='mITA,n,m,sg,3,d,0,0'>
+3.2	nIma	NN	<fs af='nIma,n,m,sg,3,o,0,0'>
+3.3	kA	PSP	<fs af='kA,psp,m,sg,,d,kA,kA'>
+	))		
+4	((	NP	
+4.1	COMka	NN	<fs af='COMka,n,f,sg,3,d,0,0'>
+	))		
+5	((	VGNF	
+5.1	lagAkara	VM	<fs af='lagA,v,any,any,any,,kara,kara'>
+	))		
+6	((	NP	
+6.1	Dokale	NN	<fs af='DokalA,n,m,sg,3,o,0,0'>
+6.2	ke	PSP	<fs af='kA,psp,m,sg,,o,kA,kA'>
+6.3	Upara	NST	<fs af='Upara,adv,,,,,,'>
+	))		
+7	((	VGF	
+7.1	dAla	VM	<fs af='dAla,v,any,any,any,,0,0'>
+7.2	xeM	VAUX	<fs af='xe,v,any,pl,1,,e,e'>
+	))		
+8	((	BLK	
+8.1	.	SYM	<fs af='.,punc,,,,,,'>
+	))		
+</Sentence>			

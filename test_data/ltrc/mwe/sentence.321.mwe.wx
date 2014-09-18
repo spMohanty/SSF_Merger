@@ -1,0 +1,22 @@
+<Sentence id="1">
+1	hare	QF	<fs af='harA,adj,m,sg,,o,,'>
+2	Xanie	NN	<fs poslcat='NM' af='Xanie,unk,,,,,,'>
+3	ke	PSP	<fs af='kA,psp,m,sg,,o,kA,kA'>
+4	daMTala	NN	<fs af='daMTala,n,m,sg,3,d,0,0'>
+5	sAPa	JJ	<fs af='sAPa,adj,any,any,,any,,'>
+6	karake	VM	<fs af='karaka,v,any,sg,2,,e,e'>
+7	narama	JJ	<fs af='narama,adj,any,any,,any,,'>
+8	-JOIN	SYM	<fs poslcat='NM' af='-OIN,unk,,,,,,'>
+9	narama	JJ	<fs af='narama,adj,any,any,,any,,'>
+10	daMdI	NNPC	<fs af='daMdI,n,f,sg,3,d,0,0'>
+11	vAlA	PSP	<fs af='vAlA,psp,m,sg,,d,kA,kA'>
+12	XaniyA	NNP	<fs af='XaniyA,n,f,sg,3,d,0,0'>
+13	bArIka	JJ	<fs af='bArIka,adj,any,any,,any,,'>
+14	kAta	VM	<fs af='kAta,v,any,any,any,,0,0'>
+15	kara	VAUX	<fs af='kara,v,any,any,any,,0,0'>
+16	acCI	JJ	<fs af='acCI,adj,f,any,,any,,'>
+17	waraha	NN	<fs af='waraha,n,m,sg,3,d,0,0'>
+18	Xo	VM	<fs af='Xo,v,any,any,any,,0,0'>
+19	leM	VAUX	<fs af='le,v,any,pl,1,,e,e'>
+20	.	SYM	<fs af='.,punc,,,,,,'>
+</Sentence>

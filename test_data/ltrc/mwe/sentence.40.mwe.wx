@@ -1,0 +1,15 @@
+<Sentence id="1">
+1	SimalA	NNP	<fs af='SimalA,n,m,sg,3,d,0,0'>
+2	mirca	NN	<fs af='mirca,n,f,sg,3,d,0,0'>
+3	BI	RP	<fs af='BI,avy,,,,,,'>
+4	dAla	VM	<fs af='dAla,v,any,any,any,,0,0'>
+5	xeM	VAUX	<fs af='xe,v,any,pl,1,,e,e'>
+6	Ora	CC	<fs af='Ora,avy,,,,,,'>
+7	2	QC	<fs af='2,num,,,,,,'>
+8	minata	NN	<fs af='minata,n,m,sg,3,o,0,0'>
+9	waka	PSP	<fs af='waka,psp,,,,,,'>
+10	binA	RP	<fs poslcat='NM' af='binA,n,f,sg,3,d,0,0'>
+11	DaMke	NN	<fs poslcat='NM' af='DaMka,v,any,sg,2,,e,e'>
+12	pakAeM	VM	<fs af='pakA,v,any,pl,1,,e,e'>
+13	.	SYM	<fs af='.,punc,,,,,,'>
+</Sentence>

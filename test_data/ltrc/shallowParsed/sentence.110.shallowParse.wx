@@ -1,0 +1,54 @@
+<Sentence id="1">			
+1	((	NP	
+1.1	eka	QC	<fs af='eka,adj,any,any,,any,,'>
+1.2	preSara	NN	<fs af='preSara,n,m,sg,3,d,0,0'>
+	))		
+2	((	VGF	
+2.1	kukara	VM	<fs af='kukara,n,m,sg,3,d,0,0' poslcat="NM">
+	))		
+3	((	CCP	
+3.1	aWavA	CC	<fs af='aWavA,avy,,,,,,'>
+	))		
+4	((	NP	
+4.1	kadZAhI	NN	<fs af='kadAhI,n,f,sg,,o,0,0'>
+4.2	meM	PSP	<fs af='meM,psp,,,,,,'>
+	))		
+5	((	NP	
+5.1	wela	NN	<fs af='wela,n,m,sg,3,d,0,0'>
+	))		
+6	((	JJP	
+6.1	garama	JJ	<fs af='garama,adj,any,any,,any,,'>
+	))		
+7	((	VGNF	
+7.1	karake	VM	<fs af='karaka,v,any,sg,2,,e,e'>
+	))		
+8	((	NP	
+8.1	sabase	JJ	<fs af='sabasA,adj,m,sg,,o,,'>
+8.2	pahale	NST	<fs af='pahale,adv,,,,,,'>
+	))		
+9	((	NP	
+9.1	panIra	NN	<fs af='panIra,n,m,sg,3,o,0,0'>
+9.2	ko	PSP	<fs af='ko,psp,,,,,,'>
+	))		
+10	((	JJP	
+10.1	halkA	JJ	<fs af='halkA,adj,m,sg,,d,,'>
+	))		
+11	((	JJP	
+11.1	gulAbI	JJ	<fs af='gulAbI,adj,any,any,,any,,'>
+	))		
+12	((	VGNN	
+12.1	hone	VM	<fs af='ho,v,m,pl,any,,nA,nA'>
+12.2	waka	PSP	<fs af='waka,psp,,,,,,'>
+	))		
+13	((	NP	
+13.1	cAroM	QC	<fs af='cAra,adj,any,pl,,d,,' emph='y'>
+13.2	ora	NST	<fs af='ora,adv,,,,,,'>
+13.3	se	PSP	<fs af='se,psp,,,,,,'>
+	))		
+14	((	VGF	
+14.1	walie	VM	<fs af='wala,v,any,sg,2,,e,e' hon='y'>
+	))		
+15	((	BLK	
+15.1	.	SYM	<fs af='.,punc,,,,,,'>
+	))		
+</Sentence>			

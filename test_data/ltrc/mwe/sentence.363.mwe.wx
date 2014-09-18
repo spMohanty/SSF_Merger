@@ -1,0 +1,15 @@
+<Sentence id="1">
+1	imalI	NNP	<fs af='imalI,n,f,sg,3,o,0,0'>
+2	ko	PSP	<fs af='ko,psp,,,,,,'>
+3	AXA	QF	<fs af='AXA,adj,m,sg,,d,,'>
+4	kapa	NN	<fs af='kapa,n,m,sg,3,d,0,0'>
+5	pAnI	NN	<fs af='pAnI,n,m,sg,3,o,0,0'>
+6	meM	PSP	<fs af='meM,psp,,,,,,'>
+7	1	QC	<fs af='1,num,,,,,,'>
+8	GaMte	NN	<fs af='GaMtA,n,m,sg,3,o,0,0'>
+9	ke	PSP	<fs af='kA,psp,m,sg,,o,kA,kA'>
+10	lie	PSP	<fs af='lie,psp,,,,,,'>
+11	Bigo	VM	<fs af='Bigo,v,any,any,any,,0,0'>
+12	xeM	VM	<fs af='xe,v,any,pl,1,,e,e'>
+13	.	SYM	<fs af='.,punc,,,,,,'>
+</Sentence>

@@ -1,0 +1,23 @@
+<Sentence id="1">
+1	aba	PRP	<fs poslcat='NM' af='aba,adv,,,,,,'>
+2	eka	QC	<fs af='eka,adj,any,any,,any,,'>
+3	badZe	JJ	<fs af='badZA,adj,m,sg,,o,,'>
+4	katore	NN	<fs af='katorA,n,m,sg,3,o,0,0'>
+5	meM	PSP	<fs af='meM,psp,,,,,,'>
+6	masalA	NN	<fs af='masalA,n,m,sg,3,d,0,0'>
+7	huA	VM	<fs af='ho,v,m,sg,any,,yA,yA'>
+8	cukaMxara	NNP	<fs af='cukaMxara,n,m,sg,3,d,0,0'>
+9	,	SYM	<fs af='&comma,punc,,,,,,'>
+10	nAriyala	NNPC	<fs af='nAriyala,n,m,sg,3,d,0,0'>
+11	pesta	NN	<fs af='pesta,n,m,sg,3,d,0,0'>
+12	,	SYM	<fs af='&comma,punc,,,,,,'>
+13	xahI	NN	<fs af='xahI,n,m,sg,3,d,0,0'>
+14	,	SYM	<fs af='&comma,punc,,,,,,'>
+15	xonoM	QC	<fs emph='y' af='xonoM,adj,any,pl,,d,,'>
+16	waraha	NN	<fs af='waraha,n,m,sg,3,o,0,0'>
+17	ke	PSP	<fs af='kA,psp,m,sg,,o,kA,kA'>
+18	namaka	NN	<fs af='namaka,n,m,sg,3,d,0,0'>
+19	milA	VM	<fs af='milA,v,any,any,any,,0,0'>
+20	leM	VAUX	<fs af='le,v,any,pl,1,,e,e'>
+21	.	SYM	<fs af='.,punc,,,,,,'>
+</Sentence>

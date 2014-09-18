@@ -1,0 +1,13 @@
+<Sentence id="1">
+1	harI	JJ	<fs af='harI,adj,f,any,,any,,'>
+2	mirca	NN	<fs af='mirca,n,f,sg,3,o,0,0'>
+3	ko	PSP	<fs af='ko,psp,,,,,,'>
+4	laMbAI	NN	<fs af='laMbAI,n,f,sg,3,o,0,0'>
+5	meM	PSP	<fs af='meM,psp,,,,,,'>
+6	pawalA	NN	<fs af='pawalA,n,m,sg,3,d,0,0'>
+7	-JOIN	SYM	<fs poslcat='NM' af='-OIN,unk,,,,,,'>
+8	pawalA	NN	<fs af='pawalA,n,m,sg,3,d,0,0'>
+9	kAta	VM	<fs af='kAta,v,any,any,any,,0,0'>
+10	leM	VAUX	<fs af='le,v,any,pl,1,,e,e'>
+11	.	SYM	<fs af='.,punc,,,,,,'>
+</Sentence>

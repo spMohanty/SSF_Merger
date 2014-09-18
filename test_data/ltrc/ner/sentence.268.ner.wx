@@ -1,0 +1,17 @@
+<Sentence id="1">
+1	aba	unk
+2	((	NP	<fs etype='ne' esubtype='person'>
+2.1	harI	unk	<fs etype='ne' esubtype='person'>
+	))
+3	catanI	unk
+4	kI	unk
+5	sAmagrI	unk
+6	milAkara	unk
+7	miksI	unk
+8	meM	unk
+9	((	NP	<fs etype='ne' esubtype='person'>
+9.1	pIsa	unk	<fs etype='ne' esubtype='person'>
+	))
+10	leM	unk
+11	.	unk
+</Sentence>

@@ -1,0 +1,17 @@
+<Sentence id="1">
+1	GI	RP	<fs poslcat='NM' af='GI,n,m,sg,3,d,0,0'>
+2	CodZane	VM	<fs af='CodZa,v,m,pl,any,,nA,nA'>
+3	para	PSP	<fs af='para,psp,,,,,,'>
+4	pise	VM	<fs af='pisa,v,any,sg,2,,e,e'>
+5	hue	VAUX	<fs af='ho,v,any,sg,2,,e,e'>
+6	sAre	QF	<fs af='sArA,adj,m,sg,,o,,'>
+7	masAle	NN	<fs af='masAlA,n,m,pl,3,d,0,0'>
+8	,	SYM	<fs af='&comma,punc,,,,,,'>
+9	namaka	NN	<fs af='namaka,n,m,sg,3,d,0,0'>
+10	,	SYM	<fs af='&comma,punc,,,,,,'>
+11	halxI	NN	<fs af='halxI,n,f,sg,3,d,0,0'>
+12	dAla	VM	<fs af='dAla,v,any,any,any,,0,0'>
+13	kara	VAUX	<fs af='kara,v,any,any,any,,0,0'>
+14	BUneM	VAUX	<fs af='BUna,v,any,pl,1,,e,e'>
+15	.	SYM	<fs af='.,punc,,,,,,'>
+</Sentence>

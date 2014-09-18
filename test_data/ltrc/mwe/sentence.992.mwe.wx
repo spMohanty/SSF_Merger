@@ -1,0 +1,16 @@
+<Sentence id="1">
+1	pyAja	NN	<fs af='pyAja,n,f,sg,3,o,0,0'>
+2	ke	PSP	<fs af='kA,psp,m,sg,,o,kA,kA'>
+3	lacCe	JJ	<fs poslcat='NM' af='lacCA,n,m,sg,3,o,0,0'>
+4	ora	NST	<fs af='ora,adv,,,,,,'>
+5	nIbU	NNP	<fs af='nIbU,n,m,sg,3,o,0,0'>
+6	se	PSP	<fs af='se,psp,,,,,,'>
+7	sajAkara	VM	<fs af='sajA,v,any,any,any,,kara,kara'>
+8	((	J_MWE	<fs etype="mwe" esubtype="synonym_comp">
+8.1	garmA	NNP	<fs poslcat='NM' af='garmA,v,any,any,any,,0,0'>
+8.2	garma	JJ	<fs af='garma,adj,any,any,,any,,'>
+	))		
+9	sarva	NN	<fs af='sarva,n,f,sg,3,d,0,0'>
+10	kareM	VM	<fs af='kara,v,any,pl,1,,e,e'>
+11	.	SYM	<fs af='.,punc,,,,,,'>
+</Sentence>

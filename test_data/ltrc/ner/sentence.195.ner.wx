@@ -1,0 +1,15 @@
+<Sentence id="1">
+1	wa‍wpaScAwa	unk
+2	pAnI	unk
+3	((	NP	<fs etype='ne' esubtype='person'>
+3.1	niWArakara	unk	<fs etype='ne' esubtype='person'>
+	))
+4	miksI	unk
+5	meM	unk
+6	bArIka	unk
+7	((	NP	<fs etype='ne' esubtype='person'>
+7.1	pIsa	unk	<fs etype='ne' esubtype='person'>
+	))
+8	leM	unk
+9	.	unk
+</Sentence>

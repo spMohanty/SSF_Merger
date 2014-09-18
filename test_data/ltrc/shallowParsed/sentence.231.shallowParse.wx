@@ -1,0 +1,33 @@
+<Sentence id="1">			
+1	((	JJP	
+1.1	WodZA	QF	<fs af='WodZA,adj,m,sg,,d,,'>
+1.2	garama	JJ	<fs af='garama,adj,any,any,,any,,'>
+	))		
+2	((	VGNN	
+2.1	ho	VM	<fs af='ho,v,any,any,any,,0,0'>
+2.2	jAne	VAUX	<fs af='jAna,v,any,sg,2,,e,e'>
+2.3	para	PSP	<fs af='para,psp,,,,,,'>
+	))		
+3	((	NP	
+3.1	kelA	NNPC	<fs af='kelA,n,m,sg,3,d,0,0'>
+	))		
+4	((	VGNF	
+4.1	CIlakara	VM	<fs af='CIla,v,any,any,any,,kara,kara'>
+	))		
+5	((	NP	
+5.1	usake	PRP	<fs af='vaha,pn,any,sg,3,o,kA,kA' agr_gen='m'  agr_cas='d'  agr_num='pl'>
+	))		
+6	((	NP	
+6.1	tukadZe	NN	<fs af='tukadZA,n,m,pl,3,d,0,0'>
+	))		
+7	((	VGF	
+7.1	kara	VM	<fs af='kara,v,any,any,any,,0,0'>
+	))		
+8	((	NP	
+8.1	isameM	PRP	<fs af='yaha,pn,any,sg,3,o,meM,meM'>
+8.2	dAleM	VAUX	<fs af='dAla,v,any,pl,1,,e,e'>
+	))		
+9	((	BLK	
+9.1	.	SYM	<fs af='.,punc,,,,,,'>
+	))		
+</Sentence>			

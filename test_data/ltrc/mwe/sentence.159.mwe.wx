@@ -1,0 +1,25 @@
+<Sentence id="1">
+1	Ate	NN	<fs af='AtA,n,m,sg,3,o,0,0'>
+2	kI	PSP	<fs af='kA,psp,f,sg,,d,kA,kA'>
+3	loI	VAUX	<fs poslcat='NM' af='loI,n,f,sg,3,d,0,0'>
+4	banAkara	VM	<fs af='banA,v,any,any,any,,kara,kara'>
+5	pUrI	JJ	<fs af='pUrI,adj,f,any,,any,,'>
+6	beleM	NN	<fs af='bela,n,f,pl,3,d,0,0'>
+7	,	SYM	<fs af='&comma,punc,,,,,,'>
+8	Pira	RB	<fs af='Pira,adv,,,,,,'>
+9	besana	NN	<fs af='besana,n,m,sg,3,o,0,0'>
+10	kI	PSP	<fs af='kA,psp,f,sg,,d,kA,kA'>
+11	golI	NN	<fs af='golI,n,f,sg,3,d,0,0'>
+12	raKakara	VM	<fs af='raKa,v,any,any,any,,kara,kara'>
+13	hAWa	NN	<fs af='hAWa,n,m,sg,3,o,0,0'>
+14	se	PSP	<fs af='se,psp,,,,,,'>
+15	gola	NNC	<fs af='gola,n,m,sg,3,d,0,0'>
+16	-JOIN	SYM	<fs poslcat='NM' af='-OIN,unk,,,,,,'>
+17	gola	NN	<fs af='gola,n,m,sg,3,d,0,0'>
+18	xabAwe	VM	<fs af='xabA,v,m,pl,any,,wA,wA'>
+19	hue	VAUX	<fs af='ho,v,any,sg,2,,e,e'>
+20	kacorI	NN	<fs af='kacorI,n,f,sg,3,d,0,0'>
+21	banA	VM	<fs af='banA,v,any,any,any,,0,0'>
+22	leM	VAUX	<fs af='le,v,any,pl,1,,e,e'>
+23	.	SYM	<fs af='.,punc,,,,,,'>
+</Sentence>

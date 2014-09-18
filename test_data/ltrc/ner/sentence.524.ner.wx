@@ -1,0 +1,22 @@
+<Sentence id="1">
+1	((	NP	<fs etype='ne' esubtype='person'>
+1.1	harI	unk	<fs etype='ne' esubtype='person'>
+	))
+2	XaniyA	unk
+3	va	unk
+4	garamamasAle	unk
+5	se	unk
+6	((	NP	<fs etype='ne' esubtype='person'>
+6.1	sajAkara	unk	<fs etype='ne' esubtype='person'>
+6.2	nAna	unk	<fs etype='ne' esubtype='person'>
+	))
+7	yA	unk
+8	((	NP	<fs etype='ne' esubtype='person'>
+8.1	parAMTe	unk	<fs etype='ne' esubtype='person'>
+	))
+9	ke	unk
+10	sAWa	unk
+11	sarva	unk
+12	kareM	unk
+13	.	unk
+</Sentence>

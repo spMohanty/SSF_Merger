@@ -1,0 +1,15 @@
+<Sentence id="1">
+1	maCalI	NN	<fs af='maCalI,n,f,sg,3,o,0,0'>
+2	ko	PSP	<fs af='ko,psp,,,,,,'>
+3	cOkora	NNC	<fs af='cOkora,n,m,sg,3,d,0,0'>
+4	tukadZoM	NN	<fs af='tukadZA,n,m,pl,3,o,0,0'>
+5	meM	PSP	<fs af='meM,psp,,,,,,'>
+6	kAtakara	VM	<fs af='kAta,v,any,any,any,,kara,kara'>
+7	namaka	NN	<fs af='namaka,n,m,sg,3,o,0,0'>
+8	ke	PSP	<fs af='kA,psp,m,sg,,o,kA,kA'>
+9	sAWa	NST	<fs af='sAWa,adv,,,,,,'>
+10	stIma	NN	<fs af='stIma,n,m,sg,3,d,0,0'>
+11	kara	VM	<fs af='kara,v,any,any,any,,0,0'>
+12	leM	VAUX	<fs af='le,v,any,pl,1,,e,e'>
+13	.	SYM	<fs af='.,punc,,,,,,'>
+</Sentence>

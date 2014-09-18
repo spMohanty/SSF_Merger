@@ -1,0 +1,12 @@
+<Sentence id="1">
+1	cAra	QC	<fs af='cAra,adj,any,pl,,d,,'>
+2	-JOIN	SYM	<fs poslcat='NM' af='-OIN,unk,,,,,,'>
+3	pAMca	QC	<fs af='pAMca,adj,any,pl,,d,,'>
+4	minata	NN	<fs af='minata,n,m,sg,3,d,0,0'>
+5	bAxa	NST	<fs af='bAxa,adv,,,,,,'>
+6	panIra	NN	<fs af='panIra,n,m,sg,3,d,0,0'>
+7	CenA	VM	<fs poslcat='NM' af='CenA,n,m,sg,3,d,0,0'>
+8	buraka	NN	<fs poslcat='NM' af='buraka,v,any,any,any,,0,0'>
+9	xe	VM	<fs af='xe,v,any,any,any,,0,0'>
+10	.	SYM	<fs af='.,punc,,,,,,'>
+</Sentence>

@@ -1,0 +1,25 @@
+<Sentence id="1">
+1	eka	unk
+2	kadZAhI	unk
+3	meM	unk
+4	AXA	unk
+5	GI	unk
+6	dAlakara	unk
+7	usameM	unk
+8	pyAja	unk
+9	,	unk
+10	((	NP	<fs etype='ne' esubtype='person'>
+10.1	axaraka	unk	<fs etype='ne' esubtype='person'>
+	))
+11	,	unk
+12	((	NP	<fs etype='ne' esubtype='person'>
+12.1	harI	unk	<fs etype='ne' esubtype='person'>
+	))
+13	mirca	unk
+14	Ora	unk
+15	motI	unk
+16	ilAyacI	unk
+17	dAla	unk
+18	xeM	unk
+19	.	unk
+</Sentence>

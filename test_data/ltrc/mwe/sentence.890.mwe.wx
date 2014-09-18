@@ -1,0 +1,28 @@
+<Sentence id="1">
+1	aba	PRP	<fs poslcat='NM' af='aba,adv,,,,,,'>
+2	isameM	PRP	<fs af='yaha,pn,any,sg,3,o,meM,meM'>
+3	panIra	NN	<fs af='panIra,n,m,sg,3,d,0,0'>
+4	,	SYM	<fs af='&comma,punc,,,,,,'>
+5	gAjara	NN	<fs af='gAjara,n,f,sg,3,d,0,0'>
+6	Ora	CC	<fs af='Ora,avy,,,,,,'>
+7	SimalA	NNP	<fs af='SimalA,n,m,sg,3,d,0,0'>
+8	mirca	NNP	<fs af='mirca,n,f,sg,3,o,0,0'>
+9	ke	PSP	<fs af='kA,psp,m,pl,,d,kA,kA'>
+10	tukadZe	NN	<fs af='tukadZA,n,m,pl,3,d,0,0'>
+11	dAlakara	VM	<fs af='dAla,v,any,any,any,,kara,kara'>
+12	calAye	VM	<fs af='calA,v,any,sg,2,,e,e'>
+13	,	SYM	<fs af='&comma,punc,,,,,,'>
+14	tOYmeto	NNP	<fs poslcat='NM' af='tOYmeto,unk,,,,,,'>
+15	sOYsa	NN	<fs af='sOYsa,n,m,sg,3,d,0,0'>
+16	Ora	CC	<fs af='Ora,avy,,,,,,'>
+17	namaka	NN	<fs af='namaka,n,m,sg,3,d,0,0'>
+18	dAlakara	VM	<fs af='dAla,v,any,any,any,,kara,kara'>
+19	milAye	VM	<fs af='milA,v,any,sg,2,,e,e'>
+20	,	SYM	<fs af='&comma,punc,,,,,,'>
+21	rotI	NN	<fs af='rotI,n,f,sg,3,o,0,0'>
+22	ke	PSP	<fs af='kA,psp,m,sg,,o,kA,kA'>
+23	sAWa	NST	<fs af='sAWa,adv,,,,,,'>
+24	sarva	NN	<fs af='sarva,n,f,sg,3,d,0,0'>
+25	kareM	VM	<fs af='kara,v,any,pl,1,,e,e'>
+26	.	SYM	<fs af='.,punc,,,,,,'>
+</Sentence>

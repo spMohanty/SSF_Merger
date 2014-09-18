@@ -1,0 +1,31 @@
+<Sentence id="1">
+1	hara	unk
+2	parawa	unk
+3	ke	unk
+4	Upara	unk
+5	puxInA	unk
+6	catanI	unk
+7	,	unk
+8	acAra	unk
+9	((	NP	<fs etype='ne' esubtype='location'>
+9.1	masAlA	unk	<fs etype='ne' esubtype='location'>
+	))
+10	,	unk
+11	((	NP	<fs etype='ne' esubtype='location'>
+11.1	cilI	unk	<fs etype='ne' esubtype='location'>
+	))
+12	sOYsa	unk
+13	va	unk
+14	tomato	unk
+15	sOYsa	unk
+16	lagA	unk
+17	leM	unk
+18	Ora	unk
+19	use	unk
+20	eka	unk
+21	ke	unk
+22	Upara	unk
+23	eka	unk
+24	raKeM	unk
+25	.	unk
+</Sentence>

@@ -1,0 +1,51 @@
+<Sentence id="1">			
+1	((	NP	
+1.1	aba	PRP	<fs af='aba,adv,,,,,,' poslcat="NM">
+	))		
+2	((	NP	
+2.1	keka	NN	<fs af='keka,n,m,sg,3,o,0,0'>
+2.2	ke	PSP	<fs af='kA,psp,m,sg,,o,kA,kA'>
+	))		
+3	((	NP	
+3.1	miSraNa	NN	<fs af='miSraNa,n,m,sg,3,o,0,0'>
+3.2	ko	PSP	<fs af='ko,psp,,,,,,'>
+	))		
+4	((	NP	
+4.1	gEsa	NNC	<fs af='gEsa,n,f,sg,3,d,0,0'>
+4.2	avana	NN	<fs af='avana,n,m,sg,3,o,0,0'>
+4.3	meM	PSP	<fs af='meM,psp,,,,,,'>
+	))		
+5	((	NP	
+5.1	45	QC	<fs af='45,num,,,,,,'>
+5.2	minata	NN	<fs af='minata,n,m,sg,3,d,0,0'>
+	))		
+6	((	CCP	
+6.1	yA	CC	<fs af='yA,avy,,,,,,'>
+	))		
+7	((	NP	
+7.1	mAikroveva	NNPC	<fs af='mAikroveva,unk,,,,,,' poslcat="NM">
+7.2	avana	NN	<fs af='avana,n,m,sg,3,o,0,0'>
+7.3	meM	PSP	<fs af='meM,psp,,,,,,'>
+	))		
+8	((	NP	
+8.1	20	QC	<fs af='20,num,,,,,,'>
+8.2	minata	NN	<fs af='minata,n,m,sg,3,d,0,0'>
+	))		
+9	((	NP	
+9.1	brAuna	NN	<fs af='brAuna,n,m,sg,3,d,0,0'>
+	))		
+10	((	VGNN	
+10.1	hone	VM	<fs af='ho,v,m,pl,any,,nA,nA'>
+10.2	waka	PSP	<fs af='waka,psp,,,,,,'>
+	))		
+11	((	VGNF	
+11.1	beka	VM	<fs af='beka,unk,,,,,,' poslcat="NM">
+	))		
+12	((	VGF	
+12.1	kara	VM	<fs af='kara,v,any,any,any,,0,0'>
+12.2	leM	VAUX	<fs af='le,v,any,pl,1,,e,e'>
+	))		
+13	((	BLK	
+13.1	.	SYM	<fs af='.,punc,,,,,,'>
+	))		
+</Sentence>			

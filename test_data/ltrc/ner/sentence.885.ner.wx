@@ -1,0 +1,21 @@
+<Sentence id="1">
+1	aba	unk
+2	isameM	unk
+3	panIra	unk
+4	ke	unk
+5	((	NP	<fs etype='ne' esubtype='location'>
+5.1	tukadZe	unk	<fs etype='ne' esubtype='location'>
+	))
+6	Ora	unk
+7	((	NP	<fs etype='ne' esubtype='location'>
+7.1	SimalA	unk	<fs etype='ne' esubtype='location'>
+	))
+8	mirca	unk
+9	dAlakara	unk
+10	AMca	unk
+11	XImI	unk
+12	karake	unk
+13	pakane	unk
+14	xeM	unk
+15	.	unk
+</Sentence>

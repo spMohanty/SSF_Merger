@@ -1,0 +1,12 @@
+<Sentence id="1">
+1	xonoM	QC	<fs emph='y' af='xonoM,adj,any,pl,,d,,'>
+2	SimalA	NNP	<fs af='SimalA,n,m,sg,3,d,0,0'>
+3	mirca	NN	<fs af='mirca,n,f,sg,3,d,0,0'>
+4	BI	RP	<fs af='BI,avy,,,,,,'>
+5	panIra	NN	<fs af='panIra,n,m,sg,3,o,0,0'>
+6	kI	PSP	<fs af='kA,psp,f,sg,,d,kA,kA'>
+7	waraha	PSP	<fs af='waraha,psp,,,,,,'>
+8	kAta	VM	<fs af='kAta,v,any,any,any,,0,0'>
+9	leM	VAUX	<fs af='le,v,any,pl,1,,e,e'>
+10	.	SYM	<fs af='.,punc,,,,,,'>
+</Sentence>

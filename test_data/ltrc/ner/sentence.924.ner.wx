@@ -1,0 +1,35 @@
+<Sentence id="1">
+1	eka	unk
+2	bAula	unk
+3	meM	unk
+4	((	NP	<fs etype='ne' esubtype='person'>
+4.1	makkI	unk	<fs etype='ne' esubtype='person'>
+	))
+5	kA	unk
+6	AtA	unk
+7	,	unk
+8	mExA	unk
+9	,	unk
+10	aMde	unk
+11	kI	unk
+12	saPexI	unk
+13	,	unk
+14	axaraka	unk
+15	-JOIN	unk
+16	lahasuna	unk
+17	kA	unk
+18	pesta	unk
+19	,	unk
+20	namaka	unk
+21	Ora	unk
+22	pAnI	unk
+23	((	NP	<fs etype='ne' esubtype='person'>
+23.1	dAlakara	unk	<fs etype='ne' esubtype='person'>
+	))
+24	gADZA	unk
+25	Gola	unk
+26	wEyAra	unk
+27	kara	unk
+28	leM	unk
+29	.	unk
+</Sentence>

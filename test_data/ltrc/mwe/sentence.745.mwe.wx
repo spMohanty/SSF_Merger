@@ -1,0 +1,43 @@
+<Sentence id="1">
+1	aba	PRP	<fs poslcat='NM' af='aba,adv,,,,,,'>
+2	eka	QC	<fs af='eka,adj,any,any,,any,,'>
+3	pEna	NN	<fs af='pEna,n,m,sg,3,o,0,0'>
+4	meM	PSP	<fs af='meM,psp,,,,,,'>
+5	wela	NN	<fs af='wela,n,m,sg,3,d,0,0'>
+6	garama	JJ	<fs af='garama,adj,any,any,,any,,'>
+7	kareM	VM	<fs af='kara,v,any,pl,1,,e,e'>
+8	jaba	PRP	<fs poslcat='NM' af='jaba,adv,,,,,,'>
+9	wela	NN	<fs af='wela,n,m,sg,3,d,0,0'>
+10	garama	JJ	<fs af='garama,adj,any,any,,any,,'>
+11	ho	VM	<fs af='ho,v,any,any,any,,0,0'>
+12	jAe	VAUX	<fs af='jA,v,any,sg,2,,e,e'>
+13	wo	CC	<fs af='wo,avy,,,,,,'>
+14	usameM	PRP	<fs af='vaha,pn,any,sg,3,o,meM,meM'>
+15	PUlagoBI	NN	<fs af='PUlagoBI,n,f,sg,3,d,0,0'>
+16	dAla	VM	<fs af='dAla,v,any,any,any,,0,0'>
+17	xe	VAUX	<fs af='xe,v,any,any,any,,0,0'>
+18	eka	QC	<fs af='eka,adj,any,any,,any,,'>
+19	minata	NN	<fs af='minata,n,m,sg,3,o,0,0'>
+20	waka	PSP	<fs af='waka,psp,,,,,,'>
+21	use	PRP	<fs af='vaha,pn,any,sg,3,o,ko,ko'>
+22	wela	NN	<fs af='wela,n,m,sg,3,o,0,0'>
+23	meM	PSP	<fs af='meM,psp,,,,,,'>
+24	PrAI	VM	<fs poslcat='NM' af='PrAI,n,m,sg,3,d,0,0'>
+25	kareM	VM	<fs af='kara,v,any,pl,1,,e,e'>
+26	Ora	CC	<fs af='Ora,avy,,,,,,'>
+27	Pira	RB	<fs af='Pira,adv,,,,,,'>
+28	pAnI	NN	<fs af='pAnI,n,m,sg,3,d,0,0'>
+29	dAlakara	VM	<fs af='dAla,v,any,any,any,,kara,kara'>
+30	Daka	VM	<fs af='Daka,v,any,any,any,,0,0'>
+31	xeM	VAUX	<fs af='xe,v,any,pl,1,,e,e'>
+32	Ora	CC	<fs af='Ora,avy,,,,,,'>
+33	6-7	QC	<fs af='6-7,num,,,,,,'>
+34	minata	NN	<fs af='minata,n,m,sg,3,o,0,0'>
+35	waka	PSP	<fs af='waka,psp,,,,,,'>
+36	maXyama	JJ	<fs af='maXyama,adj,any,any,,any,,'>
+37	AMca	NN	<fs af='AMca,n,f,sg,3,o,0,0'>
+38	para	PSP	<fs af='para,psp,,,,,,'>
+39	pakane	VM	<fs af='paka,v,m,pl,any,,nA,nA'>
+40	xeM	VM	<fs af='xe,v,any,pl,1,,e,e'>
+41	.	SYM	<fs af='.,punc,,,,,,'>
+</Sentence>

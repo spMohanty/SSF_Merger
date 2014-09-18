@@ -1,0 +1,14 @@
+<Sentence id="1">
+1	wawpaScAwa	JJ	<fs poslcat='NM' af='wawpaScAwa,adv,,,,,,'>
+2	eka	PRPC	<fs poslcat='NM' af='eka,adj,any,any,,any,,'>
+3	xUsare	QO	<fs af='xUsarA,adj,m,sg,,o,,'>
+4	pEna	NN	<fs af='pEna,n,m,sg,3,o,0,0'>
+5	meM	PSP	<fs af='meM,psp,,,,,,'>
+6	Sakkara	NNPC	<fs af='Sakkara,n,f,sg,3,d,0,0'>
+7	-JOIN	SYM	<fs poslcat='NM' af='-OIN,unk,,,,,,'>
+8	pAnI	NN	<fs af='pAnI,n,m,sg,3,d,0,0'>
+9	milAkara	VM	<fs af='milA,v,any,any,any,,kara,kara'>
+10	cASanI	NN	<fs af='cASanI,n,f,sg,3,d,0,0'>
+11	banAeM	VM	<fs af='banA,v,any,pl,1,,e,e'>
+12	.	SYM	<fs af='.,punc,,,,,,'>
+</Sentence>

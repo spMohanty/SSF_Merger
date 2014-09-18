@@ -1,0 +1,16 @@
+<Sentence id="1">
+1	garma	NNC	<fs poslcat='NM' af='garma,adj,any,any,,any,,'>
+2	-JOIN	SYM	<fs poslcat='NM' af='-OIN,unk,,,,,,'>
+3	garma	JJ	<fs af='garma,adj,any,any,,any,,'>
+4	kurakurI	NNP	<fs poslcat='NM' af='kurakurI,adj,f,any,,any,,'>
+5	sabjI	NN	<fs af='sabjI,n,f,sg,3,o,0,0'>
+6	ko	PSP	<fs af='ko,psp,,,,,,'>
+7	kasI	NN	<fs poslcat='NM' af='kasI,adj,f,any,,any,,'>
+8	huI	VM	<fs af='ho,v,f,sg,any,,yA,yA'>
+9	cIja	NN	<fs af='cIja,n,f,sg,3,o,0,0'>
+10	se	PSP	<fs af='se,psp,,,,,,'>
+11	sajAkara	VM	<fs af='sajA,v,any,any,any,,kara,kara'>
+12	sarva	NN	<fs af='sarva,n,f,sg,3,d,0,0'>
+13	kareM	VM	<fs af='kara,v,any,pl,1,,e,e'>
+14	.	SYM	<fs af='.,punc,,,,,,'>
+</Sentence>

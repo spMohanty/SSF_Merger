@@ -1,0 +1,20 @@
+<Sentence id="1">
+1	bIca	NST	<fs af='bIca,adv,,,,,,'>
+2	-JOIN	SYM	<fs poslcat='NM' af='-OIN,unk,,,,,,'>
+3	bIca	NST	<fs af='bIca,adv,,,,,,'>
+4	meM	PSP	<fs af='meM,psp,,,,,,'>
+5	calAwe	VM	<fs af='calA,v,m,pl,any,,wA,wA'>
+6	raheM	VAUX	<fs af='raha,v,any,pl,1,,e,e'>
+7	Ora	CC	<fs af='Ora,avy,,,,,,'>
+8	namaka	NN	<fs af='namaka,n,m,sg,3,d,0,0'>
+9	Ora	CC	<fs af='Ora,avy,,,,,,'>
+10	amacUra	JJ	<fs poslcat='NM' af='amacUra,n,m,sg,3,d,0,0'>
+11	pAudara	NN	<fs af='pAudara,n,m,sg,3,d,0,0'>
+12	dAlakara	VM	<fs af='dAla,v,any,any,any,,kara,kara'>
+13	2	QC	<fs af='2,num,,,,,,'>
+14	minata	NN	<fs af='minata,n,m,sg,3,o,0,0'>
+15	waka	PSP	<fs af='waka,psp,,,,,,'>
+16	pakane	VM	<fs af='paka,v,m,pl,any,,nA,nA'>
+17	xeM	VAUX	<fs af='xe,v,any,pl,1,,e,e'>
+18	.	SYM	<fs af='.,punc,,,,,,'>
+</Sentence>

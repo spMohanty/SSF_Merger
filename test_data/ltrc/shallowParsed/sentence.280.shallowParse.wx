@@ -1,0 +1,27 @@
+<Sentence id="1">			
+1	((	NP	
+1.1	ise	PRP	<fs af='yaha,pn,any,sg,3,o,ko,ko'>
+	))		
+2	((	VGF	
+2.1	uwAra	VM	<fs af='uwAra,v,any,any,any,,0,0'>
+2.2	kara	VAUX	<fs af='kara,v,any,any,any,,0,0'>
+	))		
+3	((	NP	
+3.1	isake	PRP	<fs af='yaha,pn,any,sg,3,o,kA,kA' agr_gen='m'  agr_cas='d'  agr_num='pl'>
+3.2	Upara	NST	<fs af='Upara,adv,,,,,,'>
+	))		
+4	((	NP	
+4.1	matara	NN	<fs af='matara,n,f,sg,3,o,0,0'>
+4.2	kI	PSP	<fs af='kA,psp,f,sg,,d,kA,kA'>
+	))		
+5	((	NP	
+5.1	pITI	NN	<fs af='pITI,n,f,sg,3,d,0,0'>
+	))		
+6	((	VGF	
+6.1	PElA	VM	<fs af='PElA,v,any,any,any,,0,0'>
+6.2	xeM	VAUX	<fs af='xe,v,any,pl,1,,e,e'>
+	))		
+7	((	BLK	
+7.1	.	SYM	<fs af='.,punc,,,,,,'>
+	))		
+</Sentence>			

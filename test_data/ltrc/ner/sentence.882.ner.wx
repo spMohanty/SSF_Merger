@@ -1,0 +1,14 @@
+<Sentence id="1">
+1	lOMga	unk
+2	Ora	unk
+3	xAlacInI	unk
+4	ko	unk
+5	motA	unk
+6	-JOIN	unk
+7	motA	unk
+8	((	NP	<fs etype='ne' esubtype='person'>
+8.1	kUta	unk	<fs etype='ne' esubtype='person'>
+	))
+9	leM	unk
+10	.	unk
+</Sentence>

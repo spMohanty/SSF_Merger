@@ -1,0 +1,11 @@
+<Sentence id="1">
+1	aba	PRP	<fs poslcat='NM' af='aba,adv,,,,,,'>
+2	isakI	PRP	<fs agr_num='sg' agr_cas='d' agr_gen='f' af='yaha,pn,any,sg,3,o,kA,kA'>
+3	laMbI	JJ	<fs af='laMbI,adj,f,any,,any,,'>
+4	-JOIN	SYM	<fs poslcat='NM' af='-OIN,unk,,,,,,'>
+5	laMbI	JJ	<fs af='laMbI,adj,f,any,,any,,'>
+6	pattiyAM	NN	<fs af='pattI,n,f,pl,3,d,0,0'>
+7	kAta	VM	<fs af='kAta,v,any,any,any,,0,0'>
+8	leM	VAUX	<fs af='le,v,any,pl,1,,e,e'>
+9	.	SYM	<fs af='.,punc,,,,,,'>
+</Sentence>

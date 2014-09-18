@@ -1,0 +1,16 @@
+<Sentence id="1">			
+1	((	NP	
+1.1	aba	PRP	<fs af='aba,adv,,,,,,' poslcat="NM">
+	))		
+2	((	NP	
+2.1	eka	QC	<fs af='eka,adj,any,any,,any,,'>
+2.2	badZA	JJ	<fs af='badZA,adj,m,sg,,d,,'>
+2.3	bAula	NN	<fs af='bAula,n,m,sg,3,d,0,0'>
+	))		
+3	((	VGF	
+3.1	leM	VM	<fs af='le,v,any,pl,1,,e,e'>
+	))		
+4	((	BLK	
+4.1	.	SYM	<fs af='.,punc,,,,,,'>
+	))		
+</Sentence>			

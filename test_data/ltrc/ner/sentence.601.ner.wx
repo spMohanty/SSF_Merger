@@ -1,0 +1,39 @@
+<Sentence id="1">
+1	jaba	unk
+2	masAlA	unk
+3	wela	unk
+4	CodZane	unk
+5	lage	unk
+6	wo	unk
+7	usameM	unk
+8	koPwe	unk
+9	dAla	unk
+10	kara	unk
+11	soyA	unk
+12	((	NP	<fs etype='ne' esubtype='location'>
+12.1	sOYsa	unk	<fs etype='ne' esubtype='location'>
+	))
+13	,	unk
+14	((	NP	<fs etype='ne' esubtype='location'>
+14.1	cilI	unk	<fs etype='ne' esubtype='location'>
+	))
+15	sOYsa	unk
+16	Ora	unk
+17	tOYmeto	unk
+18	sOYsa	unk
+19	dAlakara	unk
+20	miksa	unk
+21	kareM	unk
+22	Ora	unk
+23	Upara	unk
+24	se	unk
+25	bArIka	unk
+26	kate	unk
+27	hare	unk
+28	XaniyA	unk
+29	se	unk
+30	sajAkara	unk
+31	garmAgarma	unk
+32	paroseM	unk
+33	.	unk
+</Sentence>

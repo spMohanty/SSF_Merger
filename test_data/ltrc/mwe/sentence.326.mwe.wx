@@ -1,0 +1,13 @@
+<Sentence id="1">
+1	soyAbIna	NN	<fs af='soyAbIna,n,m,sg,3,o,0,0'>
+2	ko	PSP	<fs af='ko,psp,,,,,,'>
+3	sabase	JJ	<fs af='sabasA,adj,m,pl,,d,,'>
+4	pahale	NST	<fs af='pahale,adv,,,,,,'>
+5	10-15	QC	<fs af='10-15,num,,,,,,'>
+6	minata	NN	<fs af='minata,n,m,sg,3,d,0,0'>
+7	pAnI	NN	<fs af='pAnI,n,m,sg,3,o,0,0'>
+8	meM	PSP	<fs af='meM,psp,,,,,,'>
+9	Bigo	VM	<fs af='Bigo,v,any,any,any,,0,0'>
+10	xeM	VM	<fs af='xe,v,any,pl,1,,e,e'>
+11	.	SYM	<fs af='.,punc,,,,,,'>
+</Sentence>

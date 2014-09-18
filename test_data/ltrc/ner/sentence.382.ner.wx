@@ -1,0 +1,28 @@
+<Sentence id="1">
+1	sarva	unk
+2	karane	unk
+3	ke	unk
+4	pahale	unk
+5	garmAgarma	unk
+6	seMvaiyoM	unk
+7	para	unk
+8	((	NP	<fs etype='ne' esubtype='person'>
+8.1	harI	unk	<fs etype='ne' esubtype='person'>
+	))
+9	XaniyA	unk
+10	burake	unk
+11	Ora	unk
+12	nIMbU	unk
+13	ke	unk
+14	acAra	unk
+15	ke	unk
+16	sAWa	unk
+17	((	NP	<fs etype='ne' esubtype='person'>
+17.1	lajIja	unk	<fs etype='ne' esubtype='person'>
+	))
+18	catapatI	unk
+19	sivaiyAM	unk
+20	peSa	unk
+21	kareM	unk
+22	.	unk
+</Sentence>

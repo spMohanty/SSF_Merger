@@ -1,0 +1,10 @@
+<Sentence id="1">
+1	AlU	NN	<fs af='AlU,n,m,sg,3,o,0,0'>
+2	ko	PSP	<fs af='ko,psp,,,,,,'>
+3	acCI	JJ	<fs af='acCI,adj,f,any,,any,,'>
+4	waraha	NN	<fs af='waraha,n,m,sg,3,d,0,0'>
+5	mESa	NN	<fs poslcat='NM' af='mESa,unk,,,,,,'>
+6	kara	VM	<fs af='kara,v,any,any,any,,0,0'>
+7	leM	VAUX	<fs af='le,v,any,pl,1,,e,e'>
+8	.	SYM	<fs af='.,punc,,,,,,'>
+</Sentence>

@@ -1,0 +1,11 @@
+<Sentence id="1">
+1	kadZAhI	NN	<fs af='kadAhI,n,f,sg,,o,0,0'>
+2	meM	PSP	<fs af='meM,psp,,,,,,'>
+3	wela	NN	<fs af='wela,n,m,sg,3,d,0,0'>
+4	dAla	VM	<fs af='dAla,v,any,any,any,,0,0'>
+5	kara	VAUX	<fs af='kara,v,any,any,any,,0,0'>
+6	panIra	NN	<fs af='panIra,n,m,sg,3,d,0,0'>
+7	sunaharA	JJ	<fs af='sunaharA,adj,m,sg,,d,,'>
+8	kareM	VM	<fs af='kara,v,any,pl,1,,e,e'>
+9	.	SYM	<fs af='.,punc,,,,,,'>
+</Sentence>

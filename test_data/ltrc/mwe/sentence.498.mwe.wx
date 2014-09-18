@@ -1,0 +1,22 @@
+<Sentence id="1">
+1	WodZA	QF	<fs af='WodZA,adj,m,sg,,d,,'>
+2	pakane	VM	<fs af='paka,v,m,pl,any,,nA,nA'>
+3	para	PSP	<fs af='para,psp,,,,,,'>
+4	AXA	QF	<fs af='AXA,adj,m,sg,,d,,'>
+5	kapa	NN	<fs af='kapa,n,m,sg,3,d,0,0'>
+6	xahI	NN	<fs af='xahI,n,m,sg,3,d,0,0'>
+7	Ora	CC	<fs af='Ora,avy,,,,,,'>
+8	namaka	NN	<fs af='namaka,n,m,sg,3,d,0,0'>
+9	BI	RP	<fs af='BI,avy,,,,,,'>
+10	dAla	VM	<fs af='dAla,v,any,any,any,,0,0'>
+11	xeM	VAUX	<fs af='xe,v,any,pl,1,,e,e'>
+12	Ora	CC	<fs af='Ora,avy,,,,,,'>
+13	50	QC	<fs af='50,num,,,,,,'>
+14	grAma	NNC	<fs af='grAma,n,m,sg,3,d,0,0'>
+15	ca‍Üja	NN	<fs poslcat='NM' af='ca,avy,,,,,,'>
+16	kasA	VM	<fs af='kasA,v,any,any,any,,0,0'>
+17	huA	VM	<fs af='ho,v,m,sg,any,,yA,yA'>
+18	buraka	NN	<fs poslcat='NM' af='buraka,v,any,any,any,,0,0'>
+19	xeM	VAUX	<fs af='xe,v,any,pl,1,,e,e'>
+20	.	SYM	<fs af='.,punc,,,,,,'>
+</Sentence>

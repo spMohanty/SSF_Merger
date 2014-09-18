@@ -1,0 +1,25 @@
+<Sentence id="1">
+1	usameM	unk
+2	xo	unk
+3	badZe	unk
+4	cammaca	unk
+5	GI	unk
+6	kA	unk
+7	moyana	unk
+8	xekara	unk
+9	xaraxarI	unk
+10	pisI	unk
+11	((	NP	<fs etype='ne' esubtype='person'>
+11.1	kAlImirca	unk	<fs etype='ne' esubtype='person'>
+	))
+12	,	unk
+13	((	NP	<fs etype='ne' esubtype='person'>
+13.1	kalOMjI	unk	<fs etype='ne' esubtype='person'>
+	))
+14	milAkara	unk
+15	kadZA	unk
+16	AtA	unk
+17	gUMWa	unk
+18	leM	unk
+19	.	unk
+</Sentence>

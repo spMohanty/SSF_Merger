@@ -1,0 +1,9 @@
+<Sentence id="1">
+1	jIrA	NNC	<fs af='jIrA,n,m,sg,3,d,0,0'>
+2	-JOIN	SYM	<fs poslcat='NM' af='-OIN,unk,,,,,,'>
+3	ajavAina	NNP	<fs af='ajavAina,n,f,sg,3,o,0,0'>
+4	ko	PSP	<fs af='ko,psp,,,,,,'>
+5	pIsa	VM	<fs af='pIsa,v,any,any,any,,0,0'>
+6	leM	VAUX	<fs af='le,v,any,pl,1,,e,e'>
+7	.	SYM	<fs af='.,punc,,,,,,'>
+</Sentence>

@@ -1,0 +1,36 @@
+<Sentence id="1">			
+1	((	NP	
+1.1	tamAtara	NN	<fs af='tamAtara,n,m,sg,3,d,0,0'>
+	))		
+2	((	VGNF	
+2.1	Xokara	VM	<fs af='Xo,v,any,any,any,,kara,kara'>
+	))		
+3	((	NP	
+3.1	Upara	NST	<fs af='Upara,adv,,,,,,'>
+3.2	se	PSP	<fs af='se,psp,,,,,,'>
+	))		
+4	((	NP	
+4.1	slAisa	NN	<fs af='slAisa,n,m,sg,3,d,0,0'>
+	))		
+5	((	VGF	
+5.1	kAta	VM	<fs af='kAta,v,any,any,any,,0,0'>
+5.2	leM	VAUX	<fs af='le,v,any,pl,1,,e,e'>
+	))		
+6	((	CCP	
+6.1	va	CC	<fs af='va,avy,,,,,,'>
+	))		
+7	((	NP	
+7.1	skUpara	NN	<fs af='skUpara,unk,,,,,,' poslcat="NM">
+7.2	se	PSP	<fs af='se,psp,,,,,,'>
+	))		
+8	((	VGNF	
+8.1	KoKalA	VM	<fs af='KoKalA,adj,m,sg,,d,,' poslcat="NM">
+	))		
+9	((	VGF	
+9.1	kara	VM	<fs af='kara,v,any,any,any,,0,0'>
+9.2	leM	VAUX	<fs af='le,v,any,pl,1,,e,e'>
+	))		
+10	((	BLK	
+10.1	.	SYM	<fs af='.,punc,,,,,,'>
+	))		
+</Sentence>			

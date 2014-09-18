@@ -1,0 +1,10 @@
+<Sentence id="1">
+1	inake	PRP	<fs agr_num='pl' agr_cas='d' agr_gen='m' af='yaha,pn,any,pl,3,o,kA,kA'>
+2	Cote	JJ	<fs af='CotA,adj,m,pl,,d,,'>
+3	-JOIN	SYM	<fs poslcat='NM' af='-OIN,unk,,,,,,'>
+4	Cote	JJ	<fs af='CotA,adj,m,sg,,o,,'>
+5	gole	NN	<fs af='golA,n,m,pl,3,d,0,0'>
+6	banA	VM	<fs af='banA,v,any,any,any,,0,0'>
+7	leM	VAUX	<fs af='le,v,any,pl,1,,e,e'>
+8	.	SYM	<fs af='.,punc,,,,,,'>
+</Sentence>

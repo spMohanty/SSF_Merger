@@ -1,0 +1,16 @@
+<Sentence id="1">
+1	Pira	RB	<fs af='Pira,adv,,,,,,'>
+2	usako	PRP	<fs af='vaha,pn,any,sg,3,o,ko,ko'>
+3	pleta	NN	<fs af='pleta,n,f,sg,3,o,0,0'>
+4	meM	PSP	<fs af='meM,psp,,,,,,'>
+5	nikAlakara	VM	<fs af='nikAla,v,any,any,any,,kara,kara'>
+6	bArIka	JJ	<fs af='bArIka,adj,any,any,,any,,'>
+7	kate	VM	<fs af='kata,v,any,sg,2,,e,e'>
+8	hare	QF	<fs af='harA,adj,m,sg,,o,,'>
+9	Xaniye	NN	<fs poslcat='NM' af='Xaniye,unk,,,,,,'>
+10	se	PSP	<fs af='se,psp,,,,,,'>
+11	sajAkara	VM	<fs af='sajA,v,any,any,any,,kara,kara'>
+12	sarva	NN	<fs af='sarva,n,f,sg,3,d,0,0'>
+13	kareM	VM	<fs af='kara,v,any,pl,1,,e,e'>
+14	.	SYM	<fs af='.,punc,,,,,,'>
+</Sentence>

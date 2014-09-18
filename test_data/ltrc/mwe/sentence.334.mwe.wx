@@ -1,0 +1,22 @@
+<Sentence id="1">
+1	nIce	NST	<fs af='nIce,adv,,,,,,'>
+2	kI	PSP	<fs af='kA,psp,f,sg,,d,kA,kA'>
+3	ora	NST	<fs af='ora,adv,,,,,,'>
+4	se	PSP	<fs af='se,psp,,,,,,'>
+5	dosA	NN	<fs af='dosA,n,m,sg,3,d,0,0'>
+6	kurakurA	NNP	<fs af='kurakurA,n,m,sg,3,d,0,0'>
+7	hone	VM	<fs af='ho,v,m,pl,any,,nA,nA'>
+8	para	PSP	<fs af='para,psp,,,,,,'>
+9	palate	NN	<fs af='palatA,n,m,sg,3,o,0,0'>
+10	se	PSP	<fs af='se,psp,,,,,,'>
+11	halke	NN	<fs af='halkA,n,m,sg,3,o,0,0'>
+12	se	PSP	<fs af='se,psp,,,,,,'>
+13	XIre	RB	<fs af='XIre,adv,,,,,,'>
+14	-JOIN	SYM	<fs poslcat='NM' af='-OIN,unk,,,,,,'>
+15	XIre	RDP	<fs poslcat='NM' af='XIre,adv,,,,,,'>
+16	dose	NN	<fs af='dosA,n,m,sg,3,o,0,0'>
+17	ko	PSP	<fs af='ko,psp,,,,,,'>
+18	lapeta	VM	<fs af='lapeta,v,any,any,any,,0,0'>
+19	leM	VAUX	<fs af='le,v,any,pl,1,,e,e'>
+20	.	SYM	<fs af='.,punc,,,,,,'>
+</Sentence>

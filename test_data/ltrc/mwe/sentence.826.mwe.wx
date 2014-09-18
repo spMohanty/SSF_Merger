@@ -1,0 +1,26 @@
+<Sentence id="1">
+1	1	NNPC	<fs poslcat='NM' af='1,num,,,,,,'>
+2	gilAsa	NNPC	<fs af='gilAsa,n,f,sg,3,d,0,0'>
+3	pAnI	NN	<fs af='pAnI,n,m,sg,3,d,0,0'>
+4	dAlakara	VM	<fs af='dAla,v,any,any,any,,kara,kara'>
+5	1	QC	<fs af='1,num,,,,,,'>
+6	sItI	NN	<fs af='sItI,n,f,sg,3,d,0,0'>
+7	Ane	VM	<fs af='Ana,v,any,sg,2,,e,e'>
+8	waka	PSP	<fs af='waka,psp,,,,,,'>
+9	pakAye	VM	<fs af='pakA,v,any,sg,2,,e,e'>
+10	,	SYM	<fs af='&comma,punc,,,,,,'>
+11	pAnI	NN	<fs af='pAnI,n,m,sg,3,o,0,0'>
+12	kI	PSP	<fs af='kA,psp,f,sg,,d,kA,kA'>
+13	mAwrA	NN	<fs af='mAwrA,n,f,sg,3,d,0,0'>
+14	Apa	PRP	<fs af='Apa,pn,any,any,any,o,0,0'>
+15	apane	PRP	<fs agr_num='pl' agr_cas='d' agr_gen='m' af='apanA,pn,any,sg,1,o,kA,kA'>
+16	hisAba	NN	<fs af='hisAba,n,m,sg,3,o,0,0'>
+17	se	PSP	<fs af='se,psp,,,,,,'>
+18	((	N_MWE	<fs etype="mwe" esubtype="reduplication">
+18.1	GatA	NN	<fs af='GatA,n,f,sg,3,d,0,0'>
+18.2	baDZA	VM	<fs af='baDZA,v,any,any,any,,0,0'>
+	))		
+19	sakawe	VAUX	<fs af='saka,v,m,pl,any,,wA,wA'>
+20	hEM	VAUX	<fs af='hE,v,any,pl,1,,hE,hE'>
+21	.	SYM	<fs af='.,punc,,,,,,'>
+</Sentence>

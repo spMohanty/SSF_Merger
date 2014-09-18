@@ -1,0 +1,9 @@
+<Sentence id="1">
+1	cane	NN	<fs af='canA,n,m,pl,3,d,0,0'>
+2	dAlakara	VM	<fs af='dAla,v,any,any,any,,kara,kara'>
+3	XImI	JJ	<fs af='XImI,adj,f,any,,any,,'>
+4	AMca	NN	<fs af='AMca,n,f,sg,3,o,0,0'>
+5	para	PSP	<fs af='para,psp,,,,,,'>
+6	pakAeM	VM	<fs af='pakA,v,any,pl,1,,e,e'>
+7	.	SYM	<fs af='.,punc,,,,,,'>
+</Sentence>

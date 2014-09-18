@@ -1,0 +1,15 @@
+<Sentence id="1">
+1	waba	unk
+2	waka	unk
+3	pakAeM	unk
+4	jaba	unk
+5	waka	unk
+6	((	NP	<fs etype='ne' esubtype='person'>
+6.1	pEna	unk	<fs etype='ne' esubtype='person'>
+	))
+7	cikanAI	unk
+8	na	unk
+9	CodZane	unk
+10	lage	unk
+11	.	unk
+</Sentence>

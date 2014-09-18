@@ -1,0 +1,23 @@
+<Sentence id="1">
+1	panIra	unk
+2	ko	unk
+3	kAta	unk
+4	((	NP	<fs etype='ne' esubtype='location'>
+4.1	leM	unk	<fs etype='ne' esubtype='location'>
+	))
+5	,	unk
+6	((	NP	<fs etype='ne' esubtype='location'>
+6.1	SimalA	unk	<fs etype='ne' esubtype='location'>
+	))
+7	mirca	unk
+8	ko	unk
+9	lambe	unk
+10	-JOIN	unk
+11	lambe	unk
+12	pawale	unk
+13	tukadZoM	unk
+14	meM	unk
+15	kAta	unk
+16	leM	unk
+17	.	unk
+</Sentence>

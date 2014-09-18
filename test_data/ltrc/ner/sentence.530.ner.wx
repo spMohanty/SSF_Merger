@@ -1,0 +1,16 @@
+<Sentence id="1">
+1	sarviga	unk
+2	pleta	unk
+3	para	unk
+4	((	NP	<fs etype='ne' esubtype='person'>
+4.1	raKakara	unk	<fs etype='ne' esubtype='person'>
+4.2	harI	unk	<fs etype='ne' esubtype='person'>
+	))
+5	XaniyA	unk
+6	se	unk
+7	sajAkara	unk
+8	garamAgarama	unk
+9	sarva	unk
+10	kareM	unk
+11	.	unk
+</Sentence>

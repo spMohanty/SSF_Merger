@@ -1,0 +1,12 @@
+<Sentence id="1">
+1	isameM	PRP	<fs af='yaha,pn,any,sg,3,o,meM,meM'>
+2	namaka	NN	<fs af='namaka,n,m,sg,3,d,0,0'>
+3	,	SYM	<fs af='&comma,punc,,,,,,'>
+4	PrUta	NNPC	<fs af='PrUta,n,m,sg,3,d,0,0'>
+5	sOYlta	NN	<fs poslcat='NM' af='sOYlta,unk,,,,,,'>
+6	Ora	CC	<fs af='Ora,avy,,,,,,'>
+7	pAnI	NN	<fs af='pAnI,n,m,sg,3,d,0,0'>
+8	BI	RP	<fs af='BI,avy,,,,,,'>
+9	milAeM	VM	<fs af='milA,v,any,pl,1,,e,e'>
+10	.	SYM	<fs af='.,punc,,,,,,'>
+</Sentence>

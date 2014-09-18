@@ -1,0 +1,29 @@
+<Sentence id="1">
+1	jaba	PRP	<fs poslcat='NM' af='jaba,adv,,,,,,'>
+2	sunaharA	JJ	<fs af='sunaharA,adj,m,sg,,d,,'>
+3	honA	VM	<fs af='ho,v,m,sg,any,,nA,nA'>
+4	Suru	NN	<fs af='Suru,n,m,sg,3,d,0,0'>
+5	ho	VM	<fs af='ho,v,any,any,any,,0,0'>
+6	jAe	VAUX	<fs af='jA,v,any,sg,2,,e,e'>
+7	waba	PRP	<fs poslcat='NM' af='waba,adv,,,,,,'>
+8	halxI	NN	<fs af='halxI,n,f,sg,3,d,0,0'>
+9	pAudara	NN	<fs af='pAudara,n,m,sg,3,d,0,0'>
+10	,	SYM	<fs af='&comma,punc,,,,,,'>
+11	namaka	NN	<fs af='namaka,n,m,sg,3,d,0,0'>
+12	,	SYM	<fs af='&comma,punc,,,,,,'>
+13	yalo	PRP	<fs poslcat='NM' af='yalo,unk,,,,,,'>
+14	cilI	NNPC	<fs af='cilI,n,f,sg,3,d,0,0'>
+15	pAudara	NN	<fs af='pAudara,n,m,sg,3,d,0,0'>
+16	,	SYM	<fs af='&comma,punc,,,,,,'>
+17	XaniyA	NNPC	<fs af='XaniyA,n,f,sg,3,d,0,0'>
+18	pAudara	NN	<fs af='pAudara,n,m,sg,3,d,0,0'>
+19	,	SYM	<fs af='&comma,punc,,,,,,'>
+20	jIrA	NNPC	<fs af='jIrA,n,m,sg,3,d,0,0'>
+21	pAudara	NN	<fs af='pAudara,n,m,sg,3,d,0,0'>
+22	,	SYM	<fs af='&comma,punc,,,,,,'>
+23	dAlakara	VM	<fs af='dAla,v,any,any,any,,kara,kara'>
+24	acCI	JJ	<fs af='acCI,adj,f,any,,any,,'>
+25	waraha	NN	<fs af='waraha,n,m,sg,3,d,0,0'>
+26	BUneM	VM	<fs af='BUna,v,any,pl,1,,e,e'>
+27	.	SYM	<fs af='.,punc,,,,,,'>
+</Sentence>

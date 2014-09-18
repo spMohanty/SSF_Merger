@@ -1,0 +1,26 @@
+<Sentence id="1">
+1	isake	unk
+2	Upara	unk
+3	((	NP	<fs etype='ne' esubtype='person'>
+3.1	xAla	unk	<fs etype='ne' esubtype='person'>
+	))
+4	-JOIN	unk
+5	cAvala	unk
+6	ke	unk
+7	Gola	unk
+8	kI	unk
+9	AXA	unk
+10	iMca	unk
+11	motI	unk
+12	parawa	unk
+13	PElA	unk
+14	kara	unk
+15	BApa	unk
+16	meM	unk
+17	pakA	unk
+18	kara	unk
+19	TaMdA	unk
+20	kara	unk
+21	leM	unk
+22	.	unk
+</Sentence>

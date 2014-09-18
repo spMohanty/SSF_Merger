@@ -1,0 +1,36 @@
+<Sentence id="1">			
+1	((	NP	
+1.1	aMwa	NN	<fs af='aMwa,n,m,sg,3,o,0,0'>
+1.2	meM	PSP	<fs af='meM,psp,,,,,,'>
+	))		
+2	((	NP	
+2.1	harA	NNPC	<fs af='harA,n,m,sg,3,d,0,0'>
+2.2	XaniyA	NNPC	<fs af='XaniyA,n,f,sg,3,d,0,0'>
+	))		
+3	((	CCP	
+3.1	evaM	CC	<fs af='evaM,avy,,,,,,'>
+	))		
+4	((	NP	
+4.1	anAra	NNPC	<fs af='anAra,n,m,sg,3,d,0,0'>
+4.2	xAnoM	NN	<fs af='xAnA,n,m,pl,3,o,0,0'>
+4.3	se	PSP	<fs af='se,psp,,,,,,'>
+	))		
+5	((	NP	
+5.1	sajA	NN	<fs af='sajA,n,f,sg,3,d,0,0'>
+	))		
+6	((	VGNF	
+6.1	kara	VM	<fs af='kara,v,any,any,any,,0,0'>
+	))		
+7	((	RBP	
+7.1	wuraMwa	RB	<fs af='wuraMwa,adv,,,,,,'>
+	))		
+8	((	NP	
+8.1	sarva	NN	<fs af='sarva,n,f,sg,3,d,0,0'>
+	))		
+9	((	VGF	
+9.1	kareM	VM	<fs af='kara,v,any,pl,1,,e,e'>
+	))		
+10	((	BLK	
+10.1	.	SYM	<fs af='.,punc,,,,,,'>
+	))		
+</Sentence>			

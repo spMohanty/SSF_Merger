@@ -1,0 +1,25 @@
+<Sentence id="1">			
+1	((	RBP	
+1.1	Pira	RB	<fs af='Pira,adv,,,,,,'>
+	))		
+2	((	NP	
+2.1	namaka	JJ	<fs af='namaka,n,m,sg,3,d,0,0' poslcat="NM">
+2.2	-JOIN	SYM	<fs af='-OIN,unk,,,,,,' poslcat="NM">
+2.3	mirca	NNP	<fs af='mirca,n,f,sg,3,d,0,0'>
+	))		
+3	((	CCP	
+3.1	va	CC	<fs af='va,avy,,,,,,'>
+	))		
+4	((	NP	
+4.1	jIrA	NN	<fs af='jIrA,n,m,sg,3,d,0,0'>
+	))		
+5	((	NP	
+5.1	pAvadara	NN	<fs af='pAvadara,n,m,sg,3,d,0,0'>
+	))		
+6	((	VGF	
+6.1	dAleM	VM	<fs af='dAla,v,any,pl,1,,e,e'>
+	))		
+7	((	BLK	
+7.1	.	SYM	<fs af='.,punc,,,,,,'>
+	))		
+</Sentence>			

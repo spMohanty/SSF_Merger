@@ -1,0 +1,14 @@
+<Sentence id="1">
+1	AXA	QF	<fs af='AXA,adj,m,sg,,d,,'>
+2	masAlA	NN	<fs af='masAlA,n,m,sg,3,d,0,0'>
+3	bEMgana	NNP	<fs af='bEMgana,n,m,sg,3,o,0,0'>
+4	meM	PSP	<fs af='meM,psp,,,,,,'>
+5	Bara	RP	<fs poslcat='NM' af='Bara,adv,,,,,,'>
+6	xeM	VM	<fs af='xe,v,any,pl,1,,e,e'>
+7	va	CC	<fs af='va,avy,,,,,,'>
+8	AXA	QF	<fs af='AXA,adj,m,sg,,d,,'>
+9	alaga	JJ	<fs af='alaga,adj,any,any,,any,,'>
+10	raKa	VM	<fs af='raKa,v,any,any,any,,0,0'>
+11	leM	VAUX	<fs af='le,v,any,pl,1,,e,e'>
+12	.	SYM	<fs af='.,punc,,,,,,'>
+</Sentence>

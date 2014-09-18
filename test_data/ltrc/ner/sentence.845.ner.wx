@@ -1,0 +1,12 @@
+<Sentence id="1">
+1	lEMba	unk
+2	((	NP	<fs etype='ne' esubtype='person'>
+2.1	SEMka	unk	<fs etype='ne' esubtype='person'>
+2.2	dAlakara	unk	<fs etype='ne' esubtype='person'>
+	))
+3	5	unk
+4	minata	unk
+5	waka	unk
+6	BUneM	unk
+7	.	unk
+</Sentence>

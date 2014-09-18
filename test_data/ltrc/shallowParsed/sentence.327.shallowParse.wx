@@ -1,0 +1,93 @@
+<Sentence id="1">			
+1	((	NP	
+1.1	aba	PRP	<fs af='aba,adv,,,,,,' poslcat="NM">
+	))		
+2	((	VGF	
+2.1	kate	VM	<fs af='kata,v,any,sg,2,,e,e'>
+	))		
+3	((	NP	
+3.1	pAlaka	NN	<fs af='pAlaka,n,m,sg,3,d,0,0'>
+3.2	,	SYM	<fs af='&comma,punc,,,,,,'>
+	))		
+4	((	NP	
+4.1	lahasuna	NNP	<fs af='lahasuna,n,m,sg,3,d,0,0'>
+4.2	,	SYM	<fs af='&comma,punc,,,,,,'>
+	))		
+5	((	NP	
+5.1	harA	NNPC	<fs af='harA,n,m,sg,3,d,0,0'>
+5.2	XaniyA	NNP	<fs af='XaniyA,n,f,sg,3,d,0,0'>
+5.3	,	SYM	<fs af='&comma,punc,,,,,,'>
+	))		
+6	((	NP	
+6.1	mirca	NNP	<fs af='mirca,n,f,sg,3,d,0,0'>
+6.2	,	SYM	<fs af='&comma,punc,,,,,,'>
+	))		
+7	((	NP	
+7.1	mUMga	NNPC	<fs af='mUMga,n,f,sg,3,d,0,0'>
+7.2	xAla	NN	<fs af='xAla,n,f,sg,3,d,0,0'>
+7.3	,	SYM	<fs af='&comma,punc,,,,,,'>
+	))		
+8	((	NP	
+8.1	breda	NN	<fs af='breda,n,m,sg,3,d,0,0'>
+	))		
+9	((	CCP	
+9.1	waWA	CC	<fs af='waWA,avy,,,,,,'>
+	))		
+10	((	NP	
+10.1	jIrA	NN	<fs af='jIrA,n,m,sg,3,d,0,0'>
+10.2	,	SYM	<fs af='&comma,punc,,,,,,'>
+	))		
+11	((	NP	
+11.1	namaka	NN	<fs af='namaka,n,m,sg,3,d,0,0'>
+11.2	,	SYM	<fs af='&comma,punc,,,,,,'>
+	))		
+12	((	NP	
+12.1	cAta	NN	<fs af='cAta,n,m,sg,3,d,0,0'>
+	))		
+13	((	NP	
+13.1	masAlA	NN	<fs af='masAlA,n,m,sg,3,d,0,0'>
+	))		
+14	((	CCP	
+14.1	Ora	CC	<fs af='Ora,avy,,,,,,'>
+	))		
+15	((	VGNF	
+15.1	BIge	VM	<fs af='BIga,v,any,sg,2,,e,e'>
+	))		
+16	((	VGNF	
+16.1	hue	VM	<fs af='ho,v,any,sg,2,,e,e'>
+	))		
+17	((	NP	
+17.1	soyAbIna	NN	<fs af='soyAbIna,n,m,sg,3,o,0,0'>
+17.2	ko	PSP	<fs af='ko,psp,,,,,,'>
+	))		
+18	((	NP	
+18.1	eka	QC	<fs af='eka,adj,any,any,,any,,'>
+18.2	sAWa	NST	<fs af='sAWa,adv,,,,,,'>
+	))		
+19	((	VGNF	
+19.1	milAkara	VM	<fs af='milA,v,any,any,any,,kara,kara'>
+	))		
+20	((	NP	
+20.1	Cote	JJ	<fs af='CotA,adj,m,pl,,d,,'>
+20.2	-JOIN	SYM	<fs af='-OIN,unk,,,,,,' poslcat="NM">
+20.3	Cote	JJ	<fs af='CotA,adj,m,sg,,o,,'>
+20.4	capate	NN	<fs af='capatA,n,m,pl,3,d,0,0'>
+	))		
+21	((	NP	
+21.1	(	SYM	<fs af='(,punc,,,,,,'>
+21.2	tikiyA	NNP	<fs af='tikiyA,n,f,sg,3,o,0,0'>
+21.3	kI	PSP	<fs af='kA,psp,f,pl,,d,kA,kA'>
+21.4	waraha	PSP	<fs af='waraha,psp,,,,,,'>
+21.5	)	SYM	<fs af='),punc,,,,,,'>
+	))		
+22	((	NP	
+22.1	gole	NN	<fs af='golA,n,m,pl,3,d,0,0'>
+	))		
+23	((	VGF	
+23.1	banA	VM	<fs af='banA,v,any,any,any,,0,0'>
+23.2	leM	VAUX	<fs af='le,v,any,pl,1,,e,e'>
+	))		
+24	((	BLK	
+24.1	.	SYM	<fs af='.,punc,,,,,,'>
+	))		
+</Sentence>			

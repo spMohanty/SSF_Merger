@@ -1,0 +1,13 @@
+<Sentence id="1">
+1	ApakA	unk
+2	((	NP	<fs etype='ne' esubtype='location'>
+2.1	SimalA	unk	<fs etype='ne' esubtype='location'>
+	))
+3	((	NP	<fs etype='ne' esubtype='person'>
+3.1	riMga	unk	<fs etype='ne' esubtype='person'>
+3.2	banakara	unk	<fs etype='ne' esubtype='person'>
+	))
+4	wEyAra	unk
+5	hE	unk
+6	.	unk
+</Sentence>

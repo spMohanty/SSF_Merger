@@ -1,0 +1,25 @@
+<Sentence id="1">			
+1	((	NP	
+1.1	aba	PRP	<fs af='aba,adv,,,,,,' poslcat="NM">
+	))		
+2	((	NP	
+2.1	eka	QC	<fs af='eka,adj,any,any,,any,,'>
+2.2	badZI	JJ	<fs af='badZI,adj,f,any,,any,,'>
+2.3	pleta	NN	<fs af='pleta,n,f,sg,3,o,0,0'>
+2.4	meM	PSP	<fs af='meM,psp,,,,,,'>
+	))		
+3	((	NP	
+3.1	wInoM	QC	<fs af='wIna,adj,any,pl,,d,,' emph='y'>
+3.2	raMga	NN	<fs af='raMga,n,m,sg,3,o,0,0'>
+3.3	ke	PSP	<fs af='kA,psp,m,sg,,o,kA,kA'>
+	))		
+4	((	NP	
+4.1	cAvala	NN	<fs af='cAvala,n,m,sg,3,d,0,0'>
+	))		
+5	((	VGF	
+5.1	sajAeM	VM	<fs af='sajA,v,any,pl,1,,e,e'>
+	))		
+6	((	BLK	
+6.1	.	SYM	<fs af='.,punc,,,,,,'>
+	))		
+</Sentence>			

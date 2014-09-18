@@ -1,0 +1,29 @@
+<Sentence id="1">
+1	aba	PRP	<fs poslcat='NM' af='aba,adv,,,,,,'>
+2	Upara	NST	<fs af='Upara,adv,,,,,,'>
+3	se	PSP	<fs af='se,psp,,,,,,'>
+4	kesara	NN	<fs af='kesara,n,f,sg,3,d,0,0'>
+5	,	SYM	<fs af='&comma,punc,,,,,,'>
+6	bAxAma	NN	<fs af='bAxAma,n,m,sg,3,d,0,0'>
+7	Ora	CC	<fs af='Ora,avy,,,,,,'>
+8	piswA	NN	<fs af='piswA,n,m,sg,3,d,0,0'>
+9	kawarana	NNP	<fs af='kawarana,n,f,sg,3,o,0,0'>
+10	se	PSP	<fs af='se,psp,,,,,,'>
+11	sajAeM	NN	<fs af='sajA,n,f,pl,3,d,0,0'>
+12	Ora	CC	<fs af='Ora,avy,,,,,,'>
+13	pORtikawA	NN	<fs af='pORtikawA,n,f,sg,3,o,0,0'>
+14	se	PSP	<fs af='se,psp,,,,,,'>
+15	BarapUra	JJ	<fs af='BarapUra,adj,any,any,,any,,'>
+16	mevA	NNC	<fs af='mevA,n,m,sg,3,d,0,0'>
+17	-JOIN	SYM	<fs poslcat='NM' af='-OIN,unk,,,,,,'>
+18	poswa	JJ	<fs poslcat='NM' af='poswa,n,f,sg,3,d,0,0'>
+19	xAnA	NNP	<fs af='xAnA,n,m,sg,3,d,0,0'>
+20	kI	PSP	<fs af='kA,psp,f,sg,,d,kA,kA'>
+21	KIra	NN	<fs af='KIra,n,f,sg,3,d,0,0'>
+22	garamA	NNC	<fs poslcat='NM' af='garamA,v,any,any,any,,0,0'>
+23	-JOIN	SYM	<fs poslcat='NM' af='-OIN,unk,,,,,,'>
+24	garama	JJ	<fs af='garama,adj,any,any,,any,,'>
+25	peSa	JJ	<fs af='peSa,adj,any,any,,any,,'>
+26	kareM	VM	<fs af='kara,v,any,pl,1,,e,e'>
+27	.	SYM	<fs af='.,punc,,,,,,'>
+</Sentence>

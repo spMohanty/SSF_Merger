@@ -1,0 +1,14 @@
+<Sentence id="1">
+1	-	SYM	<fs af='-,punc,,,,,,'>
+2	eka	RDP	<fs poslcat='NM' af='eka,adj,any,any,,any,,'>
+3	BArI	JJ	<fs af='BArI,adj,any,any,,any,,'>
+4	wale	PSP	<fs af='wale,psp,,,,,,'>
+5	vAlI	PSP	<fs af='vAlA,psp,f,sg,,d,kA,kA'>
+6	hAMdI	NNP	<fs af='hAMdI,n,f,sg,3,o,0,0'>
+7	meM	PSP	<fs af='meM,psp,,,,,,'>
+8	GI	VM	<fs poslcat='NM' af='GI,n,m,sg,3,d,0,0'>
+9	dAlakara	VM	<fs af='dAla,v,any,any,any,,kara,kara'>
+10	garma	JJ	<fs af='garma,adj,any,any,,any,,'>
+11	kareM	VM	<fs af='kara,v,any,pl,1,,e,e'>
+12	.	SYM	<fs af='.,punc,,,,,,'>
+</Sentence>

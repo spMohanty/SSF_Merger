@@ -1,0 +1,14 @@
+<Sentence id="1">
+1	sOMXI	JJ	<fs af='sOMXI,adj,f,any,,any,,'>
+2	mahaka	NN	<fs af='mahaka,n,f,sg,3,d,0,0'>
+3	uTane	VM	<fs af='uTa,v,m,pl,any,,nA,nA'>
+4	lage	VAUX	<fs af='laga,v,any,sg,2,,e,e'>
+5	wo	RP	<fs af='wo,avy,,,,,,'>
+6	tamAtara	NN	<fs af='tamAtara,n,m,sg,3,d,0,0'>
+7	pyUrI	NN	<fs poslcat='NM' af='pyUrI,unk,,,,,,'>
+8	dAlakara	VM	<fs af='dAla,v,any,any,any,,kara,kara'>
+9	acCI	JJ	<fs af='acCI,adj,f,any,,any,,'>
+10	waraha	NN	<fs af='waraha,n,m,sg,3,d,0,0'>
+11	BUneM	VM	<fs af='BUna,v,any,pl,1,,e,e'>
+12	.	SYM	<fs af='.,punc,,,,,,'>
+</Sentence>

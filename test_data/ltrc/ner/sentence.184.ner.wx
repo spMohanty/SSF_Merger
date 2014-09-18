@@ -1,0 +1,20 @@
+<Sentence id="1">
+1	lAjavAba	unk
+2	namakIna	unk
+3	pUrI	unk
+4	AmatI	unk
+5	,	unk
+6	tamAtara	unk
+7	((	NP	<fs etype='ne' esubtype='person'>
+7.1	sOYsa	unk	<fs etype='ne' esubtype='person'>
+	))
+8	yA	unk
+9	((	NP	<fs etype='ne' esubtype='person'>
+9.1	harI	unk	<fs etype='ne' esubtype='person'>
+	))
+10	catanI	unk
+11	ke	unk
+12	sAWa	unk
+13	paroseM	unk
+14	.	unk
+</Sentence>

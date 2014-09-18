@@ -1,0 +1,20 @@
+<Sentence id="1">			
+1	((	NP	
+1.1	xonoM	QC	<fs af='xonoM,adj,any,pl,,d,,' emph='y'>
+1.2	SimalA	NNP	<fs af='SimalA,n,m,sg,3,d,0,0'>
+1.3	mirca	NN	<fs af='mirca,n,f,sg,3,d,0,0'>
+1.4	BI	RP	<fs af='BI,avy,,,,,,'>
+	))		
+2	((	NP	
+2.1	panIra	NN	<fs af='panIra,n,m,sg,3,o,0,0'>
+2.2	kI	PSP	<fs af='kA,psp,f,sg,,d,kA,kA'>
+2.3	waraha	PSP	<fs af='waraha,psp,,,,,,'>
+	))		
+3	((	VGF	
+3.1	kAta	VM	<fs af='kAta,v,any,any,any,,0,0'>
+3.2	leM	VAUX	<fs af='le,v,any,pl,1,,e,e'>
+	))		
+4	((	BLK	
+4.1	.	SYM	<fs af='.,punc,,,,,,'>
+	))		
+</Sentence>			

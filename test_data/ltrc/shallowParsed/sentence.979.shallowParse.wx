@@ -1,0 +1,65 @@
+<Sentence id="1">			
+1	((	NP	
+1.1	Gola	NN	<fs af='Gola,n,m,sg,3,d,0,0'>
+	))		
+2	((	VGNN	
+2.1	banAne	VM	<fs af='banA,v,m,pl,any,,nA,nA'>
+2.2	ke	PSP	<fs af='kA,psp,m,sg,,o,kA,kA'>
+2.3	lie	PSP	<fs af='lie,psp,,,,,,'>
+	))		
+3	((	NP	
+3.1	makke	NN	<fs af='makkA,n,m,sg,3,o,0,0'>
+3.2	ke	PSP	<fs af='kA,psp,m,sg,,o,kA,kA'>
+	))		
+4	((	NP	
+4.1	Ate	NN	<fs af='AtA,n,m,sg,3,o,0,0'>
+4.2	ko	PSP	<fs af='ko,psp,,,,,,'>
+	))		
+5	((	NP	
+5.1	pAnI	NN	<fs af='pAnI,n,m,sg,3,o,0,0'>
+5.2	ke	PSP	<fs af='kA,psp,m,sg,,o,kA,kA'>
+5.3	sAWa	NST	<fs af='sAWa,adv,,,,,,'>
+	))		
+6	((	NP	
+6.1	Gola	NN	<fs af='Gola,n,m,sg,3,d,0,0'>
+	))		
+7	((	NP	
+7.1	leM	VAUX	<fs af='le,v,any,pl,1,,e,e'>
+	))		
+8	((	CCP	
+8.1	Ora	CC	<fs af='Ora,avy,,,,,,'>
+	))		
+9	((	NP	
+9.1	usameM	PRP	<fs af='vaha,pn,any,sg,3,o,meM,meM'>
+	))		
+10	((	NP	
+10.1	namaka	NN	<fs af='namaka,n,m,sg,3,d,0,0'>
+10.2	,	SYM	<fs af='&comma,punc,,,,,,'>
+	))		
+11	((	NP	
+11.1	lAla	NNPC	<fs af='lAla,n,m,sg,3,d,0,0'>
+11.2	mirca	NNP	<fs af='mirca,n,f,sg,3,d,0,0'>
+11.3	,	SYM	<fs af='&comma,punc,,,,,,'>
+	))		
+12	((	NP	
+12.1	hIMga	NNP	<fs af='hIMga,n,f,sg,3,d,0,0'>
+12.2	,	SYM	<fs af='&comma,punc,,,,,,'>
+	))		
+13	((	NP	
+13.1	karI	NN	<fs af='karI,n,f,sg,3,d,0,0'>
+	))		
+14	((	NP	
+14.1	pawwA	NN	<fs af='pawwA,n,m,sg,3,d,0,0'>
+14.2	,	SYM	<fs af='&comma,punc,,,,,,'>
+	))		
+15	((	NP	
+15.1	XaniyA	NN	<fs af='XaniyA,n,f,sg,3,d,0,0'>
+	))		
+16	((	VGF	
+16.1	dAla	VM	<fs af='dAla,v,any,any,any,,0,0'>
+16.2	xeM	VAUX	<fs af='xe,v,any,pl,1,,e,e'>
+	))		
+17	((	BLK	
+17.1	.	SYM	<fs af='.,punc,,,,,,'>
+	))		
+</Sentence>			

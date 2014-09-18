@@ -1,0 +1,16 @@
+<Sentence id="1">
+1	lIjie	NN	<fs hon='y' poslcat='NM' af='le,v,any,sg,2,,e,e'>
+2	wEyAra	JJ	<fs af='wEyAra,adj,any,any,,any,,'>
+3	meve	PRP	<fs poslcat='NM' af='mevA,n,m,sg,3,o,0,0'>
+4	Bare	VM	<fs af='Bara,v,any,sg,2,,e,e'>
+5	cAvala	NN	<fs af='cAvala,n,m,sg,3,o,0,0'>
+6	ke	PSP	<fs af='kA,psp,m,sg,,o,kA,kA'>
+7	lajIja	JJ	<fs af='lajIja,adj,any,any,,any,,'>
+8	moxaka	NNP	<fs af='moxaka,n,m,sg,3,o,0,0'>
+9	se	PSP	<fs af='se,psp,,,,,,'>
+10	BagavAna	NN	<fs af='BagavAna,n,m,sg,3,o,0,0'>
+11	ko	PSP	<fs af='ko,psp,,,,,,'>
+12	Boga	NN	<fs af='Boga,n,m,sg,3,d,0,0'>
+13	lagAeM	VM	<fs af='lagA,v,any,pl,1,,e,e'>
+14	.	SYM	<fs af='.,punc,,,,,,'>
+</Sentence>

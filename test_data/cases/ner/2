@@ -1,0 +1,41 @@
+<Sentence id="1">			
+1	((	NP	
+1.1	isameM	PRP	<fs af='yaha,pn,any,sg,3,o,meM,meM'>
+	))		
+2	((	NP	
+2.1	apane	PRP	<fs af='apanA,pn,any,sg,1,o,kA,kA' agr_gen='m'  agr_cas='d'  agr_num='pl'>
+	))		
+3	((	NP	
+3.1	svAxAnusAra	NN	<fs af='svAxAnusAra,adv,,,,,,' poslcat="NM">
+	))		
+4	((	NP	
+4.1	harI	JJ	<fs af='harI,adj,f,any,,any,,'>
+4.2	mirca	NNP	<fs af='mirca,n,f,sg,3,d,0,0'>
+4.3	,	SYM	<fs af='&comma,punc,,,,,,'>
+	))		
+5	((	NP	
+5.1	axaraka	NN	<fs af='axaraka,n,m,sg,3,d,0,0'>
+	))		
+6	((	VGF	
+6.1	kAta	VM	<fs af='kAta,v,any,any,any,,0,0'>
+6.2	kara	VAUX	<fs af='kara,v,any,any,any,,0,0'>
+6.3	dAleM	VAUX	<fs af='dAla,v,any,pl,1,,e,e'>
+	))		
+7	((	CCP	
+7.1	waWA	CC	<fs af='waWA,avy,,,,,,'>
+	))		
+8	((	NP	
+8.1	aMxAja	NN	<fs af='aMxAja,n,m,sg,3,o,0,0'>
+8.2	se	PSP	<fs af='se,psp,,,,,,'>
+	))		
+9	((	NP	
+9.1	namaka	NN	<fs af='namaka,n,m,sg,3,d,0,0'>
+	))		
+10	((	VGF	
+10.1	milA	VM	<fs af='milA,v,any,any,any,,0,0'>
+10.2	xeM	VAUX	<fs af='xe,v,any,pl,1,,e,e'>
+	))		
+11	((	BLK	
+11.1	.	SYM	<fs af='.,punc,,,,,,'>
+	))		
+</Sentence>			

@@ -1,0 +1,42 @@
+<Sentence id="1">			
+1	((	NP	
+1.1	WAlI	NN	<fs af='WAlI,n,f,sg,3,o,0,0'>
+1.2	meM	PSP	<fs af='meM,psp,,,,,,'>
+	))		
+2	((	NP	
+2.1	KasaKasa	NN	<fs af='KasaKasa,n,f,sg,3,o,0,0'>
+2.2	ko	PSP	<fs af='ko,psp,,,,,,'>
+	))		
+3	((	VGF	
+3.1	PElAeM	VM	<fs af='PElA,v,any,pl,1,,e,e'>
+	))		
+4	((	CCP	
+4.1	Ora	CC	<fs af='Ora,avy,,,,,,'>
+	))		
+5	((	NP	
+5.1	mEWI	NN	<fs af='mEWI,n,f,sg,3,o,0,0'>
+5.2	kA	PSP	<fs af='kA,psp,m,sg,,d,kA,kA'>
+	))		
+6	((	NP	
+6.1	masAlA	NN	<fs af='masAlA,n,m,sg,3,d,0,0'>
+	))		
+7	((	JJP	
+7.1	TaMdA	JJ	<fs af='TaMdA,adj,m,sg,,d,,'>
+	))		
+8	((	VGNN	
+8.1	hone	VM	<fs af='ho,v,m,pl,any,,nA,nA'>
+8.2	para	PSP	<fs af='para,psp,,,,,,'>
+	))		
+9	((	NP	
+9.1	KasaKasa	NN	<fs af='KasaKasa,n,f,sg,3,o,0,0'>
+9.2	ke	PSP	<fs af='kA,psp,m,sg,,o,kA,kA'>
+9.3	Upara	NST	<fs af='Upara,adv,,,,,,'>
+	))		
+10	((	VGF	
+10.1	PElA	VM	<fs af='PElA,v,any,any,any,,0,0'>
+10.2	xeM	VAUX	<fs af='xe,v,any,pl,1,,e,e'>
+	))		
+11	((	BLK	
+11.1	.	SYM	<fs af='.,punc,,,,,,'>
+	))		
+</Sentence>			

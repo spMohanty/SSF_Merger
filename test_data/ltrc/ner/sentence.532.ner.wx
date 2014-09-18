@@ -1,0 +1,29 @@
+<Sentence id="1">
+1	jaba	unk
+2	masAle	unk
+3	cataKane	unk
+4	lageM	unk
+5	waba	unk
+6	wejapawwA	unk
+7	,	unk
+8	lOMga	unk
+9	,	unk
+10	((	NP	<fs etype='ne' esubtype='person'>
+10.1	xAlacInI	unk	<fs etype='ne' esubtype='person'>
+	))
+11	,	unk
+12	((	NP	<fs etype='ne' esubtype='person'>
+12.1	karI	unk	<fs etype='ne' esubtype='person'>
+	))
+13	pawwA	unk
+14	Ora	unk
+15	harI	unk
+16	mirca	unk
+17	dAlie	unk
+18	Ora	unk
+19	kuCa	unk
+20	sekaMda	unk
+21	waka	unk
+22	BUnie	unk
+23	.	unk
+</Sentence>

@@ -1,0 +1,12 @@
+<Sentence id="1">			
+1	((	VGNN	
+1.1	galane	VM	<fs af='gala,v,m,pl,any,,nA,nA'>
+1.2	waka	PSP	<fs af='waka,psp,,,,,,'>
+	))		
+2	((	VGF	
+2.1	pakAeM	VM	<fs af='pakA,v,any,pl,1,,e,e'>
+	))		
+3	((	BLK	
+3.1	.	SYM	<fs af='.,punc,,,,,,'>
+	))		
+</Sentence>			

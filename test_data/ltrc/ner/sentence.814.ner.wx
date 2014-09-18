@@ -1,0 +1,28 @@
+<Sentence id="1">
+1	AMca	unk
+2	se	unk
+3	uwArakara	unk
+4	bArIka	unk
+5	kate	unk
+6	hare	unk
+7	Xaniye	unk
+8	se	unk
+9	sajAkara	unk
+10	garmAgarma	unk
+11	((	NP	<fs etype='ne' esubtype='person'>
+11.1	SAhI	unk	<fs etype='ne' esubtype='person'>
+	))
+12	maSarUma	unk
+13	((	NP	<fs etype='ne' esubtype='person'>
+13.1	nAna	unk	<fs etype='ne' esubtype='person'>
+	))
+14	yA	unk
+15	((	NP	<fs etype='ne' esubtype='person'>
+15.1	parATo	unk	<fs etype='ne' esubtype='person'>
+	))
+16	ke	unk
+17	sAWa	unk
+18	sarva	unk
+19	kareM	unk
+20	.	unk
+</Sentence>

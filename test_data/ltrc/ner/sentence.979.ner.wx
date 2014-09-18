@@ -1,0 +1,35 @@
+<Sentence id="1">
+1	Gola	unk
+2	banAne	unk
+3	ke	unk
+4	lie	unk
+5	makke	unk
+6	ke	unk
+7	Ate	unk
+8	ko	unk
+9	pAnI	unk
+10	ke	unk
+11	sAWa	unk
+12	Gola	unk
+13	leM	unk
+14	Ora	unk
+15	usameM	unk
+16	namaka	unk
+17	,	unk
+18	lAla	unk
+19	mirca	unk
+20	,	unk
+21	((	NP	<fs etype='ne' esubtype='person'>
+21.1	hIMga	unk	<fs etype='ne' esubtype='person'>
+	))
+22	,	unk
+23	((	NP	<fs etype='ne' esubtype='person'>
+23.1	karI	unk	<fs etype='ne' esubtype='person'>
+	))
+24	pawwA	unk
+25	,	unk
+26	XaniyA	unk
+27	dAla	unk
+28	xeM	unk
+29	.	unk
+</Sentence>

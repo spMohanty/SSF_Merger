@@ -1,0 +1,15 @@
+<Sentence id="1">
+1	isase	PRP	<fs af='yaha,pn,any,sg,3,o,se,se'>
+2	walawe	VM	<fs af='wala,v,m,pl,any,,wA,wA'>
+3	samaya	NN	<fs af='samaya,n,m,sg,3,d,0,0'>
+4	masAlA	NN	<fs af='masAlA,n,m,sg,3,d,0,0'>
+5	bAhara	NST	<fs af='bAhara,adv,,,,,,'>
+6	nahIM	NEG	<fs af='nahIM,adv,,,,,,'>
+7	AegA	VM	<fs af='A,v,m,sg,2,,gA,gA'>
+8	va	CC	<fs af='va,avy,,,,,,'>
+9	acCI	JJ	<fs af='acCI,adj,f,any,,any,,'>
+10	waraha	NN	<fs af='waraha,n,m,sg,3,d,0,0'>
+11	cipaka	VM	<fs af='cipaka,v,any,any,any,,0,0'>
+12	jAegA	VAUX	<fs af='jA,v,m,sg,2,,gA,gA'>
+13	.	SYM	<fs af='.,punc,,,,,,'>
+</Sentence>

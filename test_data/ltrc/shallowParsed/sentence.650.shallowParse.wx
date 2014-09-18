@@ -1,0 +1,22 @@
+<Sentence id="1">			
+1	((	NP	
+1.1	isake	PRP	<fs af='yaha,pn,any,sg,3,o,kA,kA' agr_gen='m'  agr_cas='d'  agr_num='pl'>
+1.2	bAxa	NST	<fs af='bAxa,adv,,,,,,'>
+	))		
+2	((	JJP	
+2.1	nicodZa	JJ	<fs af='nicodZa,n,m,sg,3,d,0,0' poslcat="NM">
+	))		
+3	((	VGNF	
+3.1	kara	VM	<fs af='kara,v,any,any,any,,0,0'>
+	))		
+4	((	NP	
+4.1	pAnI	NN	<fs af='pAnI,n,m,sg,3,d,0,0'>
+	))		
+5	((	VGF	
+5.1	nikAla	VM	<fs af='nikAla,v,any,any,any,,0,0'>
+5.2	xeM	VAUX	<fs af='xe,v,any,pl,1,,e,e'>
+	))		
+6	((	BLK	
+6.1	.	SYM	<fs af='.,punc,,,,,,'>
+	))		
+</Sentence>			

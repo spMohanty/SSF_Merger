@@ -1,0 +1,13 @@
+<Sentence id="1">
+1	kakadZI	NN	<fs af='kakadZI,n,f,sg,3,o,0,0'>
+2	ko	PSP	<fs af='ko,psp,,,,,,'>
+3	laMbe	JJ	<fs af='laMbA,adj,m,sg,,o,,'>
+4	-JOIN	SYM	<fs poslcat='NM' af='-OIN,unk,,,,,,'>
+5	laMbe	JJ	<fs af='laMbA,adj,m,sg,,o,,'>
+6	slAisa	NN	<fs af='slAisa,n,m,sg,3,o,0,0'>
+7	meM	PSP	<fs af='meM,psp,,,,,,'>
+8	kAtakara	VM	<fs af='kAta,v,any,any,any,,kara,kara'>
+9	raKa	VM	<fs af='raKa,v,any,any,any,,0,0'>
+10	leM	VAUX	<fs af='le,v,any,pl,1,,e,e'>
+11	.	SYM	<fs af='.,punc,,,,,,'>
+</Sentence>

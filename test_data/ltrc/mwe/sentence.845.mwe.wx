@@ -1,0 +1,10 @@
+<Sentence id="1">
+1	lEMba	NNPC	<fs af='lEMba,n,m,sg,3,d,0,0'>
+2	SEMka	NN	<fs poslcat='NM' af='SEMka,unk,,,,,,'>
+3	dAlakara	VM	<fs af='dAla,v,any,any,any,,kara,kara'>
+4	5	QC	<fs af='5,num,,,,,,'>
+5	minata	NN	<fs af='minata,n,m,sg,3,o,0,0'>
+6	waka	PSP	<fs af='waka,psp,,,,,,'>
+7	BUneM	VM	<fs af='BUna,v,any,pl,1,,e,e'>
+8	.	SYM	<fs af='.,punc,,,,,,'>
+</Sentence>

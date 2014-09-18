@@ -1,0 +1,18 @@
+<Sentence id="1">
+1	inheM	PRP	<fs af='yaha,pn,any,pl,3,o,ko,ko'>
+2	acCI	JJ	<fs af='acCI,adj,f,any,,any,,'>
+3	waraha	NN	<fs af='waraha,n,m,sg,3,d,0,0'>
+4	BUnane	VM	<fs af='BUna,v,m,pl,any,,nA,nA'>
+5	ke	PSP	<fs af='kA,psp,m,pl,,d,kA,kA'>
+6	bAxa	NST	<fs af='bAxa,adv,,,,,,'>
+7	sAre	QF	<fs af='sArA,adj,m,sg,,o,,'>
+8	masAle	NN	<fs af='masAlA,n,m,pl,3,d,0,0'>
+9	dAleM	VM	<fs af='dAla,v,any,pl,1,,e,e'>
+10	,	SYM	<fs af='&comma,punc,,,,,,'>
+11	canA	NN	<fs af='canA,n,m,sg,3,d,0,0'>
+12	masAlA	NN	<fs af='masAlA,n,m,sg,3,d,0,0'>
+13	BI	RP	<fs af='BI,avy,,,,,,'>
+14	dAla	VM	<fs af='dAla,v,any,any,any,,0,0'>
+15	xeM	VAUX	<fs af='xe,v,any,pl,1,,e,e'>
+16	.	SYM	<fs af='.,punc,,,,,,'>
+</Sentence>

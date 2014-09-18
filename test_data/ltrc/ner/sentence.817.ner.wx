@@ -1,0 +1,27 @@
+<Sentence id="1">
+1	aba	unk
+2	isameM	unk
+3	sUKe	unk
+4	masAle	unk
+5	dAlakara	unk
+6	AXI	unk
+7	katorI	unk
+8	pAnI	unk
+9	((	NP	<fs etype='ne' esubtype='person'>
+9.1	dAlakara	unk	<fs etype='ne' esubtype='person'>
+	))
+10	acCI	unk
+11	waraha	unk
+12	BUna	unk
+13	leM	unk
+14	jaba	unk
+15	masAlA	unk
+16	wela	unk
+17	CodZane	unk
+18	lage	unk
+19	wo	unk
+20	AlU	unk
+21	dAla	unk
+22	xeM	unk
+23	.	unk
+</Sentence>

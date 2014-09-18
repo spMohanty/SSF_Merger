@@ -1,0 +1,15 @@
+<Sentence id="1">
+1	uparokwa	unk
+2	saBI	unk
+3	sAmagrI	unk
+4	ko	unk
+5	milAkara	unk
+6	miksI	unk
+7	meM	unk
+8	catanI	unk
+9	((	NP	<fs etype='ne' esubtype='person'>
+9.1	pIsa	unk	<fs etype='ne' esubtype='person'>
+	))
+10	leM	unk
+11	.	unk
+</Sentence>

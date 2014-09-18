@@ -1,0 +1,17 @@
+<Sentence id="1">
+1	Apa	PRP	<fs af='Apa,pn,any,any,any,o,0,0'>
+2	cAhe	VM	<fs af='cAha,v,any,sg,2,,e,e'>
+3	wo	CC	<fs af='wo,avy,,,,,,'>
+4	ise	PRP	<fs af='yaha,pn,any,sg,3,o,ko,ko'>
+5	mExe	NN	<fs af='mExA,n,m,sg,3,o,0,0'>
+6	ke	PSP	<fs af='kA,psp,m,sg,,o,kA,kA'>
+7	pUrI	JJ	<fs af='pUrI,adj,f,any,,any,,'>
+8	meM	PSP	<fs af='meM,psp,,,,,,'>
+9	BI	RP	<fs af='BI,avy,,,,,,'>
+10	Bara	RP	<fs poslcat='NM' af='Bara,adv,,,,,,'>
+11	kara	VM	<fs af='kara,v,any,any,any,,0,0'>
+12	wala	NN	<fs af='wala,n,m,sg,3,d,0,0'>
+13	sakawe	VAUX	<fs af='saka,v,m,pl,any,,wA,wA'>
+14	hEM	VAUX	<fs af='hE,v,any,pl,1,,hE,hE'>
+15	.	SYM	<fs af='.,punc,,,,,,'>
+</Sentence>

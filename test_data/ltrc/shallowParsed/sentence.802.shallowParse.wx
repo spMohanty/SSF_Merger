@@ -1,0 +1,12 @@
+<Sentence id="1">			
+1	((	NP	
+1.1	sAvaXAnI	NN	<fs af='sAvaXAnI,n,f,sg,3,o,0,0'>
+1.2	se	PSP	<fs af='se,psp,,,,,,'>
+	))		
+2	((	VGF	
+2.1	calAeM	VM	<fs af='calA,v,any,pl,1,,e,e'>
+	))		
+3	((	BLK	
+3.1	.	SYM	<fs af='.,punc,,,,,,'>
+	))		
+</Sentence>			

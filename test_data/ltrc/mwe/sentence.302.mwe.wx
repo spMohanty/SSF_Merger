@@ -1,0 +1,21 @@
+<Sentence id="1">
+1	sabase	JJ	<fs af='sabasA,adj,m,pl,,d,,'>
+2	pahale	NST	<fs af='pahale,adv,,,,,,'>
+3	pAlaka	NN	<fs af='pAlaka,n,m,sg,3,d,0,0'>
+4	,	SYM	<fs af='&comma,punc,,,,,,'>
+5	mirca	NNP	<fs af='mirca,n,f,sg,3,d,0,0'>
+6	,	SYM	<fs af='&comma,punc,,,,,,'>
+7	axaraka	NN	<fs af='axaraka,n,m,sg,3,d,0,0'>
+8	evaM	CC	<fs af='evaM,avy,,,,,,'>
+9	hare	QF	<fs af='harA,adj,m,sg,,o,,'>
+10	Xanie	NN	<fs poslcat='NM' af='Xanie,unk,,,,,,'>
+11	ko	PSP	<fs af='ko,psp,,,,,,'>
+12	miksI	NN	<fs af='miksI,n,f,sg,3,o,0,0'>
+13	meM	PSP	<fs af='meM,psp,,,,,,'>
+14	pIsa	NN	<fs af='pIsa,n,m,sg,3,d,0,0'>
+15	kara	VM	<fs af='kara,v,any,any,any,,0,0'>
+16	pesta	NN	<fs af='pesta,n,m,sg,3,d,0,0'>
+17	banA	VM	<fs af='banA,v,any,any,any,,0,0'>
+18	leM	VAUX	<fs af='le,v,any,pl,1,,e,e'>
+19	.	SYM	<fs af='.,punc,,,,,,'>
+</Sentence>

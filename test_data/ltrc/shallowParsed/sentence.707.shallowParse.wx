@@ -1,0 +1,88 @@
+<Sentence id="1">			
+1	((	BLK	
+1.1	GI	RP	<fs af='GI,n,m,sg,3,d,0,0' poslcat="NM">
+	))		
+2	((	JJP	
+2.1	garma	JJ	<fs af='garma,adj,any,any,,any,,'>
+	))		
+3	((	VGNF	
+3.1	kara	VM	<fs af='kara,v,any,any,any,,0,0'>
+	))		
+4	((	NP	
+4.1	jIrA	NN	<fs af='jIrA,n,m,sg,3,d,0,0'>
+4.2	kA	PSP	<fs af='kA,psp,m,sg,,d,kA,kA'>
+	))		
+5	((	NP	
+5.1	baGAra	NN	<fs af='baGAra,n,m,sg,3,d,0,0'>
+	))		
+6	((	VGF	
+6.1	banAkara	VM	<fs af='banA,v,any,any,any,,kara,kara'>
+	))		
+7	((	NP	
+7.1	usameM	PRP	<fs af='vaha,pn,any,sg,3,o,meM,meM'>
+	))		
+8	((	NP	
+8.1	sUKA	NNC	<fs af='sUKA,n,m,sg,3,d,0,0'>
+8.2	XaniyA	NNP	<fs af='XaniyA,n,f,sg,3,d,0,0'>
+8.3	,	SYM	<fs af='&comma,punc,,,,,,'>
+	))		
+9	((	NP	
+9.1	WodZI	QF	<fs af='WodZI,adj,f,any,,any,,'>
+9.2	axaraka	NN	<fs af='axaraka,n,m,sg,3,d,0,0'>
+	))		
+10	((	CCP	
+10.1	Ora	CC	<fs af='Ora,avy,,,,,,'>
+	))		
+11	((	NP	
+11.1	eka	QC	<fs af='eka,adj,any,any,,any,,'>
+	))		
+12	((	VGNF	
+12.1	katI	VM	<fs af='kata,v,f,sg,any,,yA,yA'>
+	))		
+13	((	NP	
+13.1	harI	JJ	<fs af='harI,adj,f,any,,any,,'>
+13.2	mirca	NNP	<fs af='mirca,n,f,sg,3,d,0,0'>
+13.3	,	SYM	<fs af='&comma,punc,,,,,,'>
+	))		
+14	((	NP	
+14.1	mahIna	NNPC	<fs af='mahIna,n,m,sg,3,d,0,0'>
+14.2	katA	NNPC	<fs af='katA,n,m,sg,3,d,0,0'>
+14.3	tamAtara	NN	<fs af='tamAtara,n,m,sg,3,d,0,0'>
+14.4	,	SYM	<fs af='&comma,punc,,,,,,'>
+	))		
+15	((	VGNF	
+15.1	pisA	VM	<fs af='pisA,v,any,any,any,,0,0'>
+	))		
+16	((	NP	
+16.1	pyAja	NN	<fs af='pyAja,n,f,sg,3,d,0,0'>
+	))		
+17	((	VGF	
+17.1	dAleM	VM	<fs af='dAla,v,any,pl,1,,e,e'>
+	))		
+18	((	CCP	
+18.1	va	CC	<fs af='va,avy,,,,,,'>
+	))		
+19	((	NP	
+19.1	WodZA	QF	<fs af='WodZA,adj,m,sg,,d,,'>
+19.2	BUneM	NN	<fs af='BUna,v,any,pl,1,,e,e' poslcat="NM">
+	))		
+20	((	CCP	
+20.1	Ora	CC	<fs af='Ora,avy,,,,,,'>
+	))		
+21	((	VGNF	
+21.1	baDiéyA	VM	<fs af='baDi,unk,,,,,,' poslcat="NM">
+	))		
+22	((	NP	
+22.1	grevI	NN	<fs af='grevI,unk,,,,,,' poslcat="NM">
+	))		
+23	((	JJP	
+23.1	wEyAra	JJ	<fs af='wEyAra,adj,any,any,,any,,'>
+	))		
+24	((	VGF	
+24.1	kara	VM	<fs af='kara,v,any,any,any,,0,0'>
+24.2	leM	VAUX	<fs af='le,v,any,pl,1,,e,e'>
+	))		
+25	((	BLK	
+25.1	.	SYM	<fs af='.,punc,,,,,,'>
+	))		
+</Sentence>			
