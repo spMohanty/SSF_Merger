@@ -1,0 +1,9 @@
+CHANGELOG
+=========
+* v0.3
+- Fixed SSF output formatting in SSF Api
+- Added Changelog
+- Added Merging Rules
+- Added command line parameters for file input from different streams 
+* v0.2
+- Base Version
