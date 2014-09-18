@@ -1,0 +1,187 @@
+Decisions regarding Merger of different conflicting/non-conflicting module outputs in ILMT pipeline.
+============================================================
+DATE  : 12th September 2014
+
+- The decisions below were taken to merge the outputs of 3 conflicting parallel modules, namely NER (Named Entity Recognition), MWE (Multi-Word Expressions) and Chunker Module.
+- The data format for all the above three modules is SSF  (Shakti Standard Format) and the decision were taken with data sanity in consideration.
+- SSF format allows nested bracketing. A few to-be-merged module outputs already have nested bracketing (NER output has nested Named Entities, Chunker for English outputs nested chunks) and nesting is also introduced as a result of merging different outputs.
+- Chunks : Chunk here is considered to be a unit that represents a local word group syntactically with a single content word. This content word might be complex in structure but is always represented as a single content word. The above property to consider a complex word sequence as a single content word places chunks at lesser depth in the tree than MWE and NER. Ex. [ राम की ] [ बड़ी बहन ] [ घर ] [ चली गई है ]
+- Multi Word Expressions : MWE are content words with more than one tokens. Ex. फूट-फूटकर रोना, गुड़-गोबर करना, माता-पिता .
+- Named Entities : Named Entities may consist of one or more tokens and may be nested. Ex. [ [ महात्मा गांधी ] शैक्षणिक संस्थान ] consists of a <Person> name embedded in an <Organisation> name, Ex. [ [ मुम्बई ] स्कूल आफ आर्ट्स ]
+- In any case, if unspecified, chunk brackets are marked at the least relative depth in the tree.
+- Notation :: Non-Terminals : Chunk-C, NER-N, MWE-M
+         :: Terminals     : Token-T
+
+Listed below are different cases in merging :
+
+1. Condition : MWE/NER is a subset of Chunk
+   Decision  : New Chunk engulfs NER/MWE
+   Ex. 
+   
+   --------------NER-------------------
+   1	((	NP	<fs etype='ne'>  
+   1.1 	महात्मा 	NNPC	<fs>
+   1.2	गांधी	NNP	<fs>
+   	))    
+   --------------Chunk----------------
+   1	((	NP	<fs etype='chunk'>
+   1.1 	महात्मा 	NNPC	<fs>
+   1.2	गांधी	NNP	<fs>
+   1.3	ने 	PSP	<fs>
+   	))    
+   --------------Merged---------------
+   1		((	NP	<fs etype='chunk'>
+   1.1		((	NP	<fs etype='ne'>
+   1.1.1 	महात्मा 	NNPC	<fs>
+   1.1.2	गांधी	NNP	<fs>
+   		))    
+   1.2		ने 	PSP	<fs>
+   		))    
+   ----------------------------------      
+    
+2. Condition : Chunk Tokens are a subset of MWE/NER
+   Decision  : New Chunk engulfs NER/MWE
+   Ex. 
+   --------------NER-------------------
+   1	((	NP	<fs etype='ne'>
+   1.1 	राम 	NNP	<fs>
+   1.2	के	PSP	<fs>
+   1.3	नाम	NN	<fs>
+   	))
+   2	डाक्यूमैंट्री	NN	<fs>
+   3	बहुत	INTF	<fs>
+   4	प्रसिद्ध	JJ	<fs>
+   5	है	VM    	<fs>
+   --------------Chunk----------------
+   1	((	NP	<fs etype='chunk'>
+   1.1 	राम 	NNP	<fs>
+   1.2	के	PSP	<fs>
+	))
+   2	((	NP	<fs etype='chunk'>
+   2.1	नाम	NN	<fs>
+   	))
+   3	((	NP	<fs etype='chunk'>
+   3.1	डाक्यूमैंट्री	NN	<fs>
+   	))
+   4	((	NP	<fs etype='chunk'>
+   4.1	बहुत	INTF	<fs>
+   4.2	प्रसिद्ध	JJ	<fs>
+   	))
+   5	((	NP	<fs etype='chunk'>
+   5.1	है	VM    	<fs>
+   	))
+   --------------Merged---------------
+   1		((	NP	<fs etype='chunk'>
+   1.1		((	NP	<fs etype='ne'>
+   1.1.1 	राम 	NNP	<fs>
+   1.1.2	के	PSP	<fs>
+   1.2.3	नाम	NN	<fs>
+   	   	))
+		))
+   3		((	NP	<fs etype='chunk'>
+   3.1		डाक्यूमैंट्री	UNK	<fs>
+   		))
+   4		((	NP	<fs etype='chunk'>
+   4.1		बहुत	INTF	<fs>
+   4.2		प्रसिद्ध	JJ	<fs>
+   		))
+   5		((	NP	<fs etype='chunk'>
+   5.1		है	VM    	<fs>
+   		))
+   ----------------------------------
+
+3. Condition : MWE/NER spans [ (1+)Chunks(s) + part Forward Chunk]
+   Decision  : New Chunk engulfs all the chunks of NER including the partly included Forward Chunk
+   Ex. 
+   --------------MWE-------------------
+   1	((	NP	<fs etype='mwe'>
+   1.1 	बीरबल 	NNP	<fs>
+   1.2	की	PSP	<fs>
+   1.3 	खिचड़ी 	NN	<fs>
+   	))
+   2	में	PSP	<fs>    
+   --------------Chunk----------------
+   1	((	NP	<fs etype='chunk'>
+   1.1 	बीरबल 	NNP	<fs>
+   1.2	की	PSP	<fs>
+   	))    
+   2	((	NP	<fs etype='chunk'>
+   2.1 	खिचड़ी 	NN	<fs>
+   2.2	में	PSP	<fs>
+   	))    
+   --------------Merged---------------
+   1		((	NP	<fs etype='chunk'>
+   1.1		((	NP	<fs etype='mwe'>
+   1.1.1	बीरबल 	NNP	<fs>
+   1.1.2	की	PSP	<fs>
+   1.1.3	खिचड़ी 	NN	<fs>
+   		))
+   1.2		में	PSP	<fs>
+   		))    
+   ----------------------------------   
+4. Condition : MWE/NER spans [ part Backward Chunk + (1+)Chunks(s)]
+   Decision  : New Chunk leaves the part Backward Chunk and engulfs all the other chunks of NER
+
+
+
+5. Condition : MWE is a subset of NER
+   Decision  : New NER engulfs MWE.
+   Ex. 
+   --------------MWE-------------------
+   1	((	NP	<fs etype='mwe'>
+   1.1 	चाचा 	NN	<fs>
+   1.2	-	SYM	<fs>
+   1.3	भतीजा	NN	<fs>
+   	))
+   2 	टिफ्फिन 	UNK	<fs>
+   3	सेंटर	UNK	<fs>    
+   --------------NER----------------
+   1	((	NP	<fs etype='ne'>
+   1.1 	चाचा 	NN	<fs>
+   1.2	भतीजा	NN	<fs>
+   1.3	-	SYM	<fs>
+   1.4 	टिफ्फिन 	UNK	<fs>
+   1.5	सेंटर	UNK	<fs>    
+   	))
+   --------------Merged---------------
+   1		((	NP	<fs etype='ne'>
+   1.1		((	NP	<fs etype='mwe'>
+   1.1.1	चाचा 	NN	<fs>
+   1.1.2	-	SYM	<fs>
+   1.1.3	भतीजा	NN	<fs>
+   		))
+   1.2 		टिफ्फिन 	UNK	<fs>
+   1.3		सेंटर	UNK	<fs>
+   		))    
+   -----------------------------------      
+
+6. Condition : NER is a subset of MWE
+   Decision  : New MWE engulfs NER.  
+   Ex. 
+   --------------MWE-------------------
+   1	((	NP	<fs etype='mwe'>
+   1.1 	बीरबल 	NNP	<fs>
+   1.2	की	PSP	<fs>
+   1.3 	खिचड़ी 	NN	<fs>
+   	))
+   2	में	PSP	<fs>    
+   --------------NER----------------
+   1	((	NP	<fs etype='ne'>
+   1.1 	बीरबल 	NNP	<fs>
+   	))
+   2	की	PSP	<fs>
+   3 	खिचड़ी 	NN	<fs>
+   4	में	PSP	<fs>
+   --------------Merged---------------
+   1		((	NP	<fs etype='mwe'>
+   1.1		((	NP	<fs etype='ne'>
+   1.1.1	बीरबल 	NNP	<fs>
+   		))
+   1.2		की	PSP	<fs>
+   1.3		खिचड़ी 	NN	<fs>
+   		))
+   2		में	PSP	<fs>
+   -----------------------------------      
+   
+	
+
