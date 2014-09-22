@@ -1,5 +1,7 @@
 CHANGELOG
 =========
+* v0.4
+- Fixed #3 :: Allows for SSF files which have " as a token to be processed (" interfered with XML parsing in the intermediate XML state)
 * v0.3
 - Fixed SSF output formatting in SSF Api
 - Added Changelog
