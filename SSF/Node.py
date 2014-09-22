@@ -4,6 +4,7 @@ import codecs
 import re
 import locale
 import hashlib
+import base64
 
 from Helper import *;
 from xml.sax.saxutils import escape
@@ -14,6 +15,7 @@ class Node() :
         self.index = nodeIndex
         self.text = text
         self.lex = None
+        self.base64Lex = None #Helpful when you want to use lex as an attribute value in a XML like scheme and " or ' can also be values
         self.type = None
         self.__attributes = {}
         self.errors = []
@@ -35,6 +37,7 @@ class Node() :
     def updateAttributes(self,token, tokenType, fsDict, fsList) :
         self.fsList = fsList
         self.lex = token
+        self.base64Lex = base64.b64encode(self.lex)
         self.type = tokenType
         for attribute in fsDict.keys() :
             self.__attributes[attribute] = fsDict[attribute]
@@ -89,7 +92,7 @@ class Node() :
         xml = ''
         xml += '<node '
         xml += 'id="'+escape(self.index) + '" '
-        xml += 'lex="' + escape(self.lex) + '" '
+        xml += 'lex="' + escape(self.base64Lex) + '" '
         xml += 'type="' + escape(self.type) + '" '
         for attr in self.getAttributeList():
             xml+= 'attr_'+escape(attr)+'="'+escape(self.getAttribute(attr))+'" '

@@ -41,7 +41,7 @@ def getXMLofFirstSentence(d):
 def NER_CHUNKER_MERGE(d1,et):
 	# def NER_CHUNKER_MERGE():
 	t = getXMLofFirstSentence(d1)
-
+	
 	source = et
 	target = etree.XML(t)
 	merged = etree.XML(t)

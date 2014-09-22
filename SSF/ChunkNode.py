@@ -44,7 +44,7 @@ class ChunkNode() :
             if isinstance(node, ChunkNode):
                 self.phrase += node.phrase.strip()+" "
             else:
-                self.phrase += node.lex.strip()+" "
+                self.phrase += node.base64Lex.strip()+" "
 
         import hashlib
         self.id = hashlib.md5(self.phrase.encode('utf-8')).hexdigest()[:8]
