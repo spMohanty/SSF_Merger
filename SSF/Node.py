@@ -37,7 +37,7 @@ class Node() :
     def updateAttributes(self,token, tokenType, fsDict, fsList) :
         self.fsList = fsList
         self.lex = token
-        self.base64Lex = base64.b64encode(self.lex)
+        self.base64Lex = base64.b64encode(self.lex.encode('utf8'))
         self.type = tokenType
         for attribute in fsDict.keys() :
             self.__attributes[attribute] = fsDict[attribute]

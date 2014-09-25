@@ -7,6 +7,7 @@ import locale
 import lxml
 import base64
 
+
 def getAddressNode(address, node, level = 'ChunkNode') :
     
     ''' Returns the node referenced in the address string relative to the node in the second argument.
@@ -111,6 +112,7 @@ def get_fs_line(tree):
     else:
         return output
 
+
 indexList = []
 def XML_TO_SSF(tree, depth=0 ):
     if depth==0:
@@ -129,7 +131,7 @@ def XML_TO_SSF(tree, depth=0 ):
 
     elif tree.tag=="node":
         output = ".".join([str(x) for x in indexList])
-        output += "\t" + base64.b64decode(tree.attrib['lex']) +"\t"+tree.attrib['type']+"\t"
+        output += "\t" + base64.b64decode(tree.attrib['lex']).decode('utf8').encode('ascii', 'backslashreplace') +"\t"+tree.attrib['type']+"\t"
         output += get_fs_line(tree) + "\n"
 
     ##Recurse
