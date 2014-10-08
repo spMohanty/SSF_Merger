@@ -47,8 +47,8 @@ def NER_CHUNKER_MERGE(d1,et):
 	merged = etree.XML(t)
 
 	#Find all nodes in source of attr_etype="ne"
-	added_nerChunks = source.xpath("//chunkNode[@attr_etype='ne_mwe']")
-	modified_nerNodes = source.xpath("//node[@attr_etype='ne_mwe']")
+	added_nerChunks = source.xpath("//chunkNode[@merger_marker='ne_mwe']")
+	# modified_nerNodes = source.xpath("//node[@attr_etype='ne_mwe']")
 
 	# 1. Condition : MWE/NER is a subset of Chunk
 	#   Decision  : New Chunk engulfs NER/MWE
@@ -69,33 +69,36 @@ def NER_CHUNKER_MERGE(d1,et):
 	##Pruning added chunkList	
 	pruned_added_nerChunks = [x for x in added_nerChunks if x not in chunkChildren]
 
+
+	modified_nerNodes = list(set(nodeChildren))
+
 	## All modified_nerNodes are children of all the added ner toplevel Chunks
 	## Just addition of structural information in the chunker
 	## and all modified tokens in the output are assumed to be 
 	## at the same level
-	if set(nodeChildren) == set(modified_nerNodes):
-		##Iterate over pruned added chunkList
-		for chunk in pruned_added_nerChunks:
-			## For each chunk find the first node and add this chunk next to the corresponding node in merged tree
-			
-			childNode = chunk.xpath(".//node")
-			first_node_id = childNode[0].get('id')
-			
-			## Iterate over all the child nodes 
-			## and merge the individual nodes in both the files
-			targetNodesList = []
-			for child in childNode:
-				target_node = merged.xpath("//node[@id='"+child.get('id')+"']")[0]
-				targetNodesList.append(target_node)
-				child = nodeMerge(child, target_node)
 
-			node_in_merged = merged.xpath("//node[@id='"+first_node_id+"']")[0]
-			node_in_merged.addnext(chunk)
-			# node_in_merged.getparent().remove(node_in_merged)
+	##Iterate over pruned added chunkList
+	for chunk in pruned_added_nerChunks:
+		## For each chunk find the first node and add this chunk next to the corresponding node in merged tree
+		
+		childNode = chunk.xpath(".//node")
+		first_node_id = childNode[0].get('id')
+		
+		## Iterate over all the child nodes 
+		## and merge the individual nodes in both the files
+		targetNodesList = []
+		for child in childNode:
+			target_node = merged.xpath("//node[@id='"+child.get('id')+"']")[0]
+			targetNodesList.append(target_node)
+			child = nodeMerge(child, target_node)
 
-			##Remove Duplicate Copies of target_node
-			for target_node in targetNodesList:
-				target_node.getparent().remove(target_node)
+		node_in_merged = merged.xpath("//node[@id='"+first_node_id+"']")[0]
+		node_in_merged.addnext(chunk)
+		# node_in_merged.getparent().remove(node_in_merged)
+
+		##Remove Duplicate Copies of target_node
+		for target_node in targetNodesList:
+			target_node.getparent().remove(target_node)
 
 	##
 	# If after the previous step, the structure of the ner output ate up a chunk 
@@ -110,7 +113,9 @@ def NER_CHUNKER_MERGE(d1,et):
 		if len(list(chunkNode)) == 0:
 			chunkNode.getparent().remove(chunkNode)
 
-	merged  = set_new_etype(merged,"ne_mwe_chunker")
+	# This translates to look for everything that has attr_etype and mark it with a new attribute called
+	# merger_marker and assign "chunker__ne_mwe" as its value, which says its the output of chunker and ne_mwe merge
+	merged = set_merger_marker(merged, "attr_etype", "chunker__ne_mwe")
 
 	return merged
 
@@ -226,8 +231,11 @@ def merge_NER_MWE(d1,d2):
 				# if(context[-1].attrib['attr_etype']==k['operation']):
 				context.pop(-1)
 
-
-	newSentence = set_new_etype(newSentence,"ne_mwe")
+	# Debug set_merge_marker
+	# print toString(set_merger_marker(newSentence, "attr_etype", "ne_mwe"))
+	# This translates to look for everything that has attr_etype and mark it with a new attribute called
+	# merger_marker and assign "ne_mwe" as its value, which says its the output of ne_mwe
+	newSentence = set_merger_marker(newSentence, "attr_etype", "ne_mwe")
 
 	return newSentence
 

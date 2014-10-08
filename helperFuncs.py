@@ -60,3 +60,18 @@ def set_new_etype(tree,etype):
 		node.attrib['attr_etype']=etype
 
 	return tree
+
+###
+## Finds all elements which have the attr_type attribute
+## and adds a new attribute called "merger_marker" 
+def set_merger_marker(tree,attr_type,mark):
+
+	# Modify the etype to "etype"
+
+	for node in tree.xpath("//*[@"+attr_type+"]"):
+		node.attrib['merger_marker']=mark
+
+	return tree
+
+def list_of_children_nodes(tree):
+	return tree.xpath("//node")
