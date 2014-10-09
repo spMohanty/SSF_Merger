@@ -1,5 +1,7 @@
 CHANGELOG
 =========
+* v0.6
+- Adding support for 'ne' and 'namex' as etype values for NER input
 * v0.5
 - Stopped messing around with the etype attribute, and instead introduced a custom attribute called merger_marker which tracks changes in the SSF file. The output SSF file also doesnot mark the etype attribute by chunker_ne_mwe as it did earlier, instead it lets the individual chunks retain there etype, and in case of a conflict, it assigns the etype based on the priority MWE > NER > CHUNKER (can be changed)
 - Implementend independent detection of modified nodes, and the merger doesnot expect the modified nodes of any module to be marked by an etype
