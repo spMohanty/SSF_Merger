@@ -1,0 +1,9 @@
+<Sentence id="1">
+1	Aja	NN	<fs af='Aja,n,m,pl,3,d,0,0'>
+2	kala	NN	<fs af='kala,n,m,pl,3,d,0,0'>
+3	baccA	NN	<fs af='baccA,n,m,sg,3,d,0,0'>
+4	baccA	NN	<fs af='baccA,n,m,sg,3,d,0,0'>
+5	hoSiyAra	VM	<fs af='hoSiyAra,n,m,sg,3,d,0,0' poslcat="NM">
+6	hE	VM	<fs af='hE,v,any,sg,2,,hE,hE'>
+7	.	SYM	<fs af='.,punc,,,,,,'>
+</Sentence>

@@ -1,0 +1,21 @@
+<Sentence id="1">
+1	((	NP	
+1.1	yUnesko	NNP	<fs af='yUnesko,n,m,pl,3,o,0,0'>
+1.2	ne	PSP	<fs af='ne,psp,,,,,,'>
+	))		
+2	((	NP	
+2.1	ise	PRP	<fs af='yaha,pn,any,sg,3,o,ko,ko'>
+	))		
+3	((	NP	
+3.1	vESvika	JJ	<fs af='vESvika,adj,any,any,,any,,'>
+3.2	Xarohara	NN	<fs af='Xarohara,n,f,sg,3,d,0,0'>
+	))		
+4	((	JJP	
+4.1	GoRiwa	JJ	<fs af='GoRiwa,adj,any,any,,any,,'>
+	))		
+5	((	VGF	
+5.1	kiyA	VM	<fs af='kara,v,m,sg,any,,yA,yA'>
+5.2	hE	VAUX	<fs af='hE,v,any,sg,2,,hE,hE'>
+5.3	.	SYM	<fs af='.,punc,,,,,,'>
+	))		
+</Sentence>

@@ -1,0 +1,10 @@
+<Sentence id="1">
+1	senA	NN	<fs af='senA,n,f,sg,3,d,0,0'>
+2	isakA	PRP	<fs af='yaha,pn,any,sg,3,o,kA,kA' agr_gen='m' agr_cas='d' agr_num='sg'>
+3	((	UNK	<fs etype="mwe" esubtype="conjunct-verb">
+3.1	saMcAlana	NN	<fs af='saMcAlana,n,m,pl,3,d,0,0'>
+3.2	karawI	VM	<fs af='kara,v,f,sg,any,,wA,wA'>
+	))		
+4	hE	VAUX	<fs af='hE,v,any,sg,2,,hE,hE'>
+5	.	SYM	<fs af='.,punc,,,,,,'>
+</Sentence>

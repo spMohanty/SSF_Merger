@@ -148,6 +148,8 @@ def merge_NER_MWE(d1,d2):
 		added_nerChunks = namex_added_nerChunks
 	elif (len(ne_added_nerChunks)>0 and len(namex_added_nerChunks)==0):
 		added_nerChunks = ne_added_nerChunks
+	elif (len(ne_added_nerChunks)==0 and len(namex_added_nerChunks)==0):
+		added_nerChunks = []
 	else:
 		raise NameError("Both ne and namex etypes found in the NER input file....")
 	##Added support for ne and namex as etype for NERs

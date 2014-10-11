@@ -1,0 +1,13 @@
+<Sentence id="1">
+1	yUnesko	NNP	<fs af='yUnesko,n,m,pl,3,o,0,0'>
+2	ne	PSP	<fs af='ne,psp,,,,,,'>
+3	ise	PRP	<fs af='yaha,pn,any,sg,3,o,ko,ko'>
+4	vESvika	JJ	<fs af='vESvika,adj,any,any,,any,,'>
+5	Xarohara	NN	<fs af='Xarohara,n,f,sg,3,d,0,0'>
+6	((	UNK	<fs etype="mwe" esubtype="conjunct-verb">
+6.1	GoRiwa	JJ	<fs af='GoRiwa,adj,any,any,,any,,'>
+6.2	kiyA	VM	<fs af='kara,v,m,sg,any,,yA,yA'>
+	))		
+7	hE	VAUX	<fs af='hE,v,any,sg,2,,hE,hE'>
+8	.	SYM	<fs af='.,punc,,,,,,'>
+</Sentence>

@@ -1,0 +1,20 @@
+<Sentence id="1">
+1	((	NP	
+1.1	saBI	QF	<fs af='saba,adj,any,pl,,d,,' emph='y'>
+1.2	loga	NN	<fs af='loga,n,m,pl,3,d,0,0'>
+	))		
+2	((	NP	
+2.1	apane	PRP	<fs af='apanA,pn,any,sg,1,o,kA,kA' agr_gen='m' agr_cas='d' agr_num='pl'>
+	))		
+3	((	NP	
+3.1	apane	PRP	<fs af='apanA,pn,any,sg,1,o,kA,kA' agr_gen='m' agr_cas='d' agr_num='pl'>
+	))		
+4	((	NP	
+4.1	Gara	NN	<fs af='Gara,n,m,pl,3,d,0,0'>
+	))		
+5	((	VGF	
+5.1	cale	VM	<fs af='cala,v,any,sg,2,,e,e'>
+5.2	gaye	VAUX	<fs af='jA,v,m,pl,any,,yA1,yA1'>
+5.3	.	SYM	<fs af='.,punc,,,,,,'>
+	))		
+</Sentence>
