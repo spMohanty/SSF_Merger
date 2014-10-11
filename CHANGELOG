@@ -1,5 +1,7 @@
 CHANGELOG
 =========
+* v0.7
+- Fixing a major bug from last relase, revolving around support for ne and namex etype values, and adding test cases
 * v0.6
 - Adding support for 'ne' and 'namex' as etype values for NER input
 * v0.5
