@@ -1,0 +1,11 @@
+<Sentence id="1">
+1	mere	PRP	<fs af='mEM,pn,any,sg,1,o,kA,kA' agr_gen='m' agr_cas='d' agr_num='pl'>
+2	pAsa	NST	<fs af='pAsa,adv,,,,,,'>
+3	2	QCC	<fs af='2,num,,,,,,' poslcat="NM">
+4	hajAra	QC	<fs af='hajAra,adj,any,pl,,d,,'>
+5	3	QCC	<fs af='3,num,,,,,,' poslcat="NM">
+6	sO	QC	<fs af='sO,adj,any,pl,,d,,'>
+7	kiwAbe	NN	<fs af='kiwAbe,unk,,,,,,' poslcat="NM">
+8	hE	VM	<fs af='hE,v,any,sg,2,,hE,hE'>
+9	.	SYM	<fs af='.,punc,,,,,,'>
+</Sentence>

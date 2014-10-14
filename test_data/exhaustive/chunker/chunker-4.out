@@ -1,0 +1,18 @@
+<Sentence id="1">
+1	((	NP
+1.1	hara	QF	<fs af='hara,adj,any,any,,any,,'>
+1.2	roja	NN	<fs af='roja,n,m,sg,3,d,0,0'>
+	))
+2	((	NP
+2.1	mE	PRP	<fs af='mE,unk,,,,,,' poslcat="NM">
+	))		
+3	((	NP
+3.1	2	QC	<fs af='2,num,,,,,,'>
+3.2	kilomItara	NN	<fs af='kilomItara,n,m,sg,3,d,0,0'>
+	))
+4	((	VGF
+4.1	BAgawA	VM	<fs af='BAga,v,m,sg,any,,wA,wA'>
+4.2	hUz	VAUX	<fs af='hE,v,any,sg,1,,hE,hE'>
+4.3	.	SYM	<fs af='.,punc,,,,,,'>
+	))
+</Sentence>

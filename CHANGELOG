@@ -1,5 +1,7 @@
 CHANGELOG
 =========
+* v0.8
+- Adding support for numx, measx and timex as etype values for modified nodes in NER input
 * v0.7
 - Fixing a major bug from last relase, revolving around support for ne and namex etype values, and adding test cases
 * v0.6

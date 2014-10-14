@@ -1,0 +1,22 @@
+<Sentence id="1">
+1	((	NP	
+1.1	badZOxe	NN	<fs af='badZOxe,unk,,,,,,' poslcat="NM">
+1.2	se	PSP	<fs af='se,psp,,,,,,'>
+	))		
+2	((	VGNF	
+2.1	baMbaI	VM	<fs af='baMbaI,n,m,sg,3,d,0,0' poslcat="NM">
+	))		
+3	((	VGNN	
+3.1	jAwe	VM	<fs af='jA,v,m,pl,any,,wA,wA'>
+3.2	samaya	PSP	<fs af='samaya,n,m,sg,3,d,0,0' poslcat="NM">
+	))		
+4	((	NP	
+4.1	eka	QC	<fs af='eka,adj,any,any,,any,,'>
+4.2	relave	NNC	<fs af='relave,n,m,sg,3,d,0,0'>
+4.3	steSana	NN	<fs af='steSana,n,m,sg,3,d,0,0'>
+	))		
+5	((	VGF	
+5.1	hE	VM	<fs af='hE,v,any,sg,2,,hE,hE'>
+5.2	.	SYM	<fs af='.,punc,,,,,,'>
+	))		
+</Sentence>

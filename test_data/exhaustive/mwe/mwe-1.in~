@@ -1,0 +1,18 @@
+<Sentence id="1">
+1	((	NP	<fs etype='ne' esubtype='location'>
+1.1	badZOxe	unk
+	))
+2	se	unk
+3	((	NP	<fs etype='ne' esubtype='location'>
+3.1	baMbaI	unk
+	))
+4	jAwe	unk
+5	samaya	unk
+6	((	NP	<fs etype='numx' value='1.0'>
+6.1	eka	unk	<fs etype='numx' value='1.0'>
+	))
+7	relave	unk
+8	steSana	unk
+9	hE	unk
+10	.	unk
+</Sentence>

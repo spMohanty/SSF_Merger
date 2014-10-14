@@ -1,0 +1,24 @@
+<Sentence id="1">
+1	((	NP	<fs etype='ne' esubtype='location'>
+1.1	BArawa	unk
+	))
+2	kA	unk
+3	((	NP	<fs etype='ne' esubtype='location'>
+3.1	amerikA	unk
+	))
+4	ke	unk
+5	pAsa	unk
+6	((	NP	<fs etype='measx' esubtype='Rupees' value='2000000000.0'>
+6.1	((	NP	<fs etype='numx' value='2000000000.0'>
+6.1.1	2	unk	<fs etype='numx' value='2.0'>
+6.1.2	sO	unk	<fs etype='numx' value='100.0'>
+6.1.3	karodZa	unk	<fs etype='numx' value='10000000.0'>
+	))
+6.2	rupayoM	unk	<fs etype='measx' esubtype='Rupees' value='1.0'>
+	))
+7	kA	unk
+8	karjA	unk
+9	hE	unk
+10	.	unk
+</Sentence>
+

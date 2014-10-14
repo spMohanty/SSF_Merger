@@ -1,0 +1,17 @@
+<Sentence id="1">
+1	mere	unk
+2	pAsa	unk
+3	((	NP	<fs etype='numx' value='2300.0'>
+3.1	((	NP	<fs etype='numx' value='2000.0'>
+3.1.1	2	unk	<fs etype='numx' value='2.0'>
+3.1.2	hajAra	unk	<fs etype='numx' value='1000.0'>
+	))
+3.2	((	NP	<fs etype='numx' value='300.0'>
+3.2.1	3	unk	<fs etype='numx' value='3.0'>
+3.2.2	sO	unk	<fs etype='numx' value='100.0'>
+	))
+	))
+4	kiwAbe	unk
+5	hE	unk
+6	.	unk
+</Sentence>

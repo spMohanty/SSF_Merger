@@ -138,21 +138,16 @@ def merge_NER_MWE(d1,d2):
 
 	sentenceId = ner.attrib['id']
 
-	##Adding support for ne and namex as etype for NERs
-	##testing if the SSF files use ne or namex for marking NERs
+	##Adding support for ne,namex, measx, timex, numx as etype for NERs
 	ne_added_nerChunks = ner.xpath("//chunkNode[@attr_etype='ne']")
 	namex_added_nerChunks = ner.xpath("//chunkNode[@attr_etype='namex']")
-	added_nerChunks = []
+	numx_added_nerChunks = ner.xpath("//chunkNode[@attr_etype='numx']")
+	measx_added_nerChunks = ner.xpath("//chunkNode[@attr_etype='measx']")
+	timex_added_nerChunks = ner.xpath("//chunkNode[@attr_etype='timex']")
 
-	if (len(ne_added_nerChunks)==0 and len(namex_added_nerChunks)>0):
-		added_nerChunks = namex_added_nerChunks
-	elif (len(ne_added_nerChunks)>0 and len(namex_added_nerChunks)==0):
-		added_nerChunks = ne_added_nerChunks
-	elif (len(ne_added_nerChunks)==0 and len(namex_added_nerChunks)==0):
-		added_nerChunks = []
-	else:
-		raise NameError("Both ne and namex etypes found in the NER input file....")
-	##Added support for ne and namex as etype for NERs
+	added_nerChunks = list(set(ne_added_nerChunks) | set(namex_added_nerChunks) | set(numx_added_nerChunks) | set(measx_added_nerChunks) | set(timex_added_nerChunks))
+	##Added support for ne and namex, numx, measx, timex as etype for NERs
+
 	added_mweChunks = mwe.xpath("//chunkNode[@attr_etype='mwe']")
 
 	lengthOfNodes = len(merged.xpath("//node"))

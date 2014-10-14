@@ -1,0 +1,16 @@
+<Sentence id="20">
+1	hara	unk
+2	((	NP	<fs etype='timex' esubtype='dayOfWeek'>
+2.1	roja	unk	<fs etype='timex' esubtype='dayOfWeek'>
+	))
+3	mE	unk
+4	((	NP	<fs etype='measx' esubtype='Kilometer' value='2.0'>
+4.1	((	NP	<fs etype='numx' value='2.0'>
+4.1.1	2	unk	<fs etype='numx' value='2.0'>
+	))	
+4.2	kilomItara	unk	<fs etype='measx' esubtype='Kilometer' value='1.0'>
+	))
+5	BAgawA	unk
+6	hUz	unk
+7	.	unk
+</Sentence>

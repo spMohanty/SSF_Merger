@@ -1,0 +1,26 @@
+<Sentence id="1">
+1	((	NP
+1.1	BArawa	NNP	<fs af='BArawa,n,m,sg,3,d,0,0'>
+1.2	kA	PSP	<fs af='kA,psp,m,sg,,d,kA,kA'>
+	))
+2	((	NP
+2.1	amerikA	NNP	<fs af='amerikA,n,m,sg,3,d,0,0'>
+2.2	ke	PSP	<fs af='kA,psp,m,sg,,o,kA,kA'>
+2.3	pAsa	NST	<fs af='pAsa,adv,,,,,,'>
+	))
+3	((	NP
+3.1	2	QCC	<fs af='2,num,,,,,,' poslcat="NM">
+3.2	sO	QCC	<fs af='sO,adj,any,pl,,d,,' poslcat="NM">
+3.3	karodZa	QC	<fs af='karodZa,adj,any,pl,,d,,'>
+3.4	rupayoM	NN	<fs af='rupayA,n,m,pl,3,o,0,0'>
+3.5	kA	PSP	<fs af='kA,psp,m,sg,,d,kA,kA'>
+	))
+4	((	NP
+4.1	karjA	NN	<fs af='karjA,n,m,sg,3,d,0,0'>
+	))
+5	((	VGF
+5.1	hE	VM	<fs af='hE,v,any,sg,2,,hE,hE'>
+5.2	.	SYM	<fs af='.,punc,,,,,,'>
+	))
+</Sentence>
+
