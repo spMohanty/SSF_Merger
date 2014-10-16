@@ -1,9 +1,19 @@
 SSF Merger
 ==========
 
-=Installaion
-For installation please refer to INSTALL   
-
+=Installaion    
+   
+```bash
+export setu=$HOME/sampark #or wherever your sampark root directory is 
+env | grep setu #Make sure $setu variable is set 
+git clone https://github.com/spMohanty/SSF_Merger
+cd SSF_Merger
+export version=`git describe --abbrev=0 --tags | sed 's/v//g'`
+make
+cd $setu/src/sl/merger-$version
+make install
+```
+   
 =How to run
 
 -Usage :

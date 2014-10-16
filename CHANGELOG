@@ -1,5 +1,9 @@
 CHANGELOG
 =========
+* v0.10
+- Packaged the merger according to the Sampark architecture requirements
+* v0.9
+- Fixed issue with the order of parent and child chunks in case of nested chunks
 * v0.8
 - Adding support for numx, measx and timex as etype values for modified nodes in NER input
 * v0.7
