@@ -186,16 +186,15 @@ def merge_NER_MWE(d1,d2):
 			#Initialise
 			after[int(last_node.attrib['id'].split("_")[-1])] = [{'operation':'mwe' , 'phrase_len':len(chunk.attrib['phrase']), 'id' : chunk.attrib['id']}]
 
-
 	##iterate over before and after and sort the chunks brackets by length of phrase
-	for b in before:
-		if b != "None":
-			b = sorted(b, key = lambda k : k['phrase_len'])	
+	for b in range(len(before)):
+		if before[b] != "None":
+			before[b] = sorted(before[b], key = lambda k : -1 *k['phrase_len'])	
 
 	##iterate over  after and sort the chunks brackets by length of phrase
-	for b in after:
-		if b != "None":
-			b = sorted(b, key = lambda k : -1 * k['phrase_len'])	
+	for b in range(len(after)):
+		if after[b] != "None":
+			after[b] = sorted(after[b], key = lambda k : k['phrase_len'])	
 
 	newSentence = etree.XML("<Sentence id='"+sentenceId+"'></Sentence>")
 	context = [newSentence]
@@ -209,14 +208,14 @@ def merge_NER_MWE(d1,d2):
 		########################3
 		# ### Print debug output
 		# if(before[i])!="None":
-		# 	for k in before[i]:		
-		# 		print bracket[k["operation"]]["open"]+k['operation']+"_"+k['id']+" ",	
+		#	for k in before[i]:		
+		#		print bracket[k["operation"]]["open"]+k['operation']+"_"+k['id']+"_"+str(k["phrase_len"])+" ",	
 
 		# print sentenceId+"_"+str(i)+" ",
 
 		# if(after[i]) != "None":
-		# 	for k in after[i]:
-		# 		print k['operation']+"_"+k['id']+bracket[k["operation"]]["close"]+" ",
+		#	for k in after[i]:
+		#		print k['operation']+"_"+k['id']+bracket[k["operation"]]["close"]+" ",
 
 		##Print debug output end
 
