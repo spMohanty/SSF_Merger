@@ -1,0 +1,26 @@
+#
+# Makefile -- compiling/copying/install/uninstall the module
+#
+
+PREFIX = $(setu)
+
+# Binary Program and Binary Data files and directories.(These are required to run system)
+DEST_BIN_PROG_DIR = $(PREFIX)/bin/sl/merger
+CPFR = cp -fr
+
+# make all -- make programs, data, library, documentation, etc.
+all:
+
+install:install-src
+
+install-src:
+	mkdir -p $(DEST_BIN_PROG_DIR)
+	$(CPFR) SSF/ tests/ README.md merge.py helperFuncs.py CHANGELOG $(DEST_BIN_PROG_DIR)
+	$(CPFR) merger_run.sh merger.sh $(DEST_BIN_PROG_DIR)
+
+# remove the module files from sampark
+clean:uninstall
+uninstall:
+	rm -fr $(DEST_BIN_PROG_DIR) $(DEST_BIN_DATA_DIR)
+
+.PHONY: all clean install uninstall install-src install-data

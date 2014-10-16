@@ -1,6 +1,9 @@
 SSF Merger
 ==========
 
+=Installaion
+For installation please refer to INSTALL   
+
 =How to run
 
 -Usage :
